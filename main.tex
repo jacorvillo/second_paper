@@ -1,0 +1,170 @@
+\documentclass[
+	a4paper, % Paper size, use either a4paper or letterpaper
+	8pt, % Default font size, can also use 11pt or 12pt, although this is not recommended
+	unnumberedsections, % Comment to enable section numbering
+	twoside, % Two side traditional mode where headers and footers change between odd and even pages, comment this option to make them fixed
+]{LTJournalArticle}
+\usepackage{lscape}
+\addbibresource{sample.bib} % BibLaTeX bibliography file
+
+\runninghead{AeDES2's Monitoring System Analysis Paper} % A shortened article title to appear in the running head, leave this command empty for no running head
+
+\footertext{\textit{Scientific Journal Target} (2025) XX:XXXX-XXXX} % Text to appear in the footer, leave this command empty for no footer text
+
+\setcounter{page}{1} % The page number of the first page, set this to a higher number if the article is to be part of an issue or larger work
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+\title{AeDES2's Monitoring System Analysis Paper} % Article title, use manual lines breaks (\\) to beautify the layout
+
+% Authors are listed in a comma-separated list with superscript numbers indicating affiliations
+% \thanks{} is used for any text that should be placed in a footnote on the first page, such as the corresponding author's email, journal acceptance dates, a copyright/license notice, keywords, etc
+\author{%
+	Javier Corvillo\textsuperscript{1}, Verónica Torralba\textsuperscript{1}, Ana-Riviére Cinnamond\textsuperscript{2}\thanks{Corresponding author: \href{mailto:jane@smith.com}{jane@smith.com}\\ \textbf{Received:} October 20, 2023, \textbf{Published:} December 14, 2023}
+}
+
+% Affiliations are output in the \date{} command
+\date{\footnotesize\textsuperscript{\textbf{1}}Barcelona Supercomputing Center\\ \textsuperscript{\textbf{2}}Pan-American Health Organization}
+
+% Full-width abstract
+\renewcommand{\maketitlehookd}{%
+	\begin{abstract}
+		\noindent This will be the abstract for the paper...
+	\end{abstract}
+  }
+  
+  %----------------------------------------------------------------------------------------
+  
+\begin{document}
+
+  \maketitle % Output the title section
+
+  %----------------------------------------------------------------------------------------
+  %	ARTICLE CONTENTS
+  %----------------------------------------------------------------------------------------
+
+  \section{Introduction} \label{sec-intro}
+
+  Introduction text goes here...
+
+  %------------------------------------------------
+
+  \section{Methods} \label{sec-methods}
+
+  Methodology text goes here...
+
+\begin{table*}[t]
+  \centering
+  \resizebox{\textwidth}{!}{%
+  \begin{tabular}{l|c|l|c|c|c}
+  \textbf{Index Name}                 & \multicolumn{1}{l|}{\textbf{Abbreviation}} & \textbf{Periodicity}          & \multicolumn{1}{l|}{\textbf{Pattern Type}} & \textbf{Source}                        & \textbf{Detrending Method} \\ \hline
+  Arctic Oscillation                  & AO                                         & Several weeks to months       & Atmospheric                                & NOAA's Climate Prediction Center (CPC) & Linear                     \\
+  Atlantic Multidecadal Oscillation   & AMO                                        & Between 60-80 years           & Oceanic                                    & NOAA's Kaplan Extended SST data        & Linear                     \\
+  Atlantic 3 Index                    & ATL3                                       & Several months to a few years & Oceanic                                    & Detrended ORAS5 reanalysis data        & -                          \\
+  Indian Ocean Basin                  & IOB                                        & Several months to a few years & Oceanic                                    & Detrended ORAS5 reanalysis data        & -                          \\
+  Indian Ocean Dipole                 & IOD                                        & Between 2-7 years             & Oceanic                                    & Detrended ORAS5 reanalysis data        & -                          \\
+  North Atlantic Oscillation          & NAO                                        & Several days to decades       & Atmospheric                                & NOAA's CPC                             & Linear                     \\
+  El Niño 3.4 Index                   & Niño 3.4                                   & Between 2-7 years             & Oceanic                                    & NOAA's CPC                             & Linear                     \\
+  North Pacific Meridional Mode       & NPMM                                       & Several months to a few years & Atmospheric                                & Detrended ORAS5 reanalysis data        & -                          \\
+  Pacific Decadal Oscillation         & PDO                                        & Between 20-30 years           & Oceanic                                    & NOAA's ERSSTv5                         & Linear                     \\
+  Pacific-North American Pattern      & PNA                                        & Several weeks to months       & Atmospheric                                & NOAA's CPC                             & Linear                     \\
+  Quasi Biannual Oscillation          & QBO                                        & $\sim$2 years                 & Atmospheric                                & NOAA's NCEP/NCAR Reanalysis            & Linear                     \\
+  South Atlantic Subtropical Dipole 1 & SASD1                                      & Several months to a few years & Oceanic                                    & Detrended ORAS5 reanalysis data        & -                          \\
+  Southern Indian Ocean Dipole        & SIOD                                       & Several months to a few years & Oceanic                                    & Detrended ORAS5 reanalysis data        & -                          \\
+  Southern Oscillation Index          & SOI                                        & Between 2-7 years             & Pressure-based                             & NOAA's CPC                             & Linear                     \\
+  South Pacific Meridional Mode       & SPMM                                       & Several months to a few years & Atmospheric                                & Detrended ORAS5 reanalysis data        & -                          \\
+  Tropical North Atlantic             & TNA                                        & Several months to a few years & Oceanic                                    & Detrended ORAS5 reanalysis data        & -                         
+  \end{tabular}%
+  }
+  \caption{Summary of the climate variability indices used in the analysis used for the correlation and causality studies.}
+  \label{tab:climate-variability-indices}
+  \end{table*}
+    
+  \subsection{Analysis 1: Multi-timescale climate decomposition of $R_0$} \label{sec-methods-1-analysis}
+
+  With the intent of isolating the human-driven signal from the natural variability $R_0$ data, a "timescale decomposition" methodology was used to obtain the total variance across different time-scales. 
+
+  \subsubsection{Data} \label{sec-methods-1-data}
+  The timescale decomposition analysis was undertaken using $R_0$ outputs from the \textit{\underline{Ae}des} \underline{D}isease \underline{E}nvironmental \underline{S}uitability 2's (AeDES2) monitoring system, which is a global, next-generation operational dataset that detects historical outbreaks for \textit{Aedes}-borne diseases using climate variables. AeDES2's monitoring system collects monthly-mean temperature and precipitation values from three different observational sources: NOAA's GHCN-CAMS, CPC Unified Global, and upscaled 0.5º resolution data from Era5Land's reanalysis. After transforming climate information into $R_0$ health information using four different ento-epidemiological models, outputs are then calibrated to real-life \textit{Aedes}-borne data by using quantile mapping, before merging them together into a 12 member observational ensemble.
+
+  The 1980-2022 monthly-mean period was selected for the analysis. Considering that vector borne diseases are extending to previously unaffected areas due to the effects of man-made climate change, the selected $R_0$ contains global coverage, allowing for a comprehensive analysis of the relationship between climate variability indices and $R_0$ both in current \textit{Aedes} hotspots and emerging regions.
+
+  \subsubsection{Methodology} \label{sec-methods-1-methodology}
+
+  As $R_0$ doesn't follow a clearly defined probability distribution function, the temporal analysis filters a given $R_0$ time-series of any given grid-point by employing a \underline{lo}cally \underline{e}stimated \underline{s}catterplot \underline{s}moothing technique (LOESS) with a 12 month frequency. This non-parametric regression method fits local polynomial regressions to the data, separating the $R_0$ time-series into three components: a long-term trend signal (understood to be the trend caused by anthropogenic climate change), an inter-annual signal (year to year), and a decadal signal (10-30 years). 
+
+  Variance maps for each of these three components capture the overall direction of the data over time, as well as the climatological variability of $R_0$ in any given grid-point. Once obtained, Strongest Seasonal Signal Regions (SSSRs) are identified as regions with a significant percentage of variance explained by the seasonal component of the data, to be used in the following parts of the analysis. The boundaries for the selection of SSSR regions are defined by the current Intergovernmental Panel on Climate Change set of reference regions for subcontinental analysis of climate model data (Iturbide et al., 2020).  
+
+  Time series, variance maps and AeDES2's $R_0$ data are freely available in an operational, in-development Shiny App (link) for any region and grid-point. On the other hand, AeDES2's code and data are available on demand.
+
+  \subsection{Analysis 2: Correlation studies between $R_0$ and climate variability indices} \label{sec-methods-2}
+
+  After analyzing the $R_0$ signal and its variability through timescale decomposition, we assess the impact of several climate variability indices on global $R_0$ values over the chosen 1980-2022 period.  
+
+  \subsubsection{Data} \label{sec-methods-2-data}
+
+  Correlation studies are performed over both global and SSSR regions, using the same $R_0$ data as in the previous analysis. A total of 16 climate variability indices have been used for the correlation analysis. Their respective sources, as well as detrending methods for each, are listed and summarized in Table \ref{tab:climate-variability-indices}.
+
+  \subsubsection{Methodology} \label{sec-methods-2-methodology}
+
+  The correlation analysis was performed using the Pearson correlation coefficient, which quantifies the linear relationship between two variables. The Pearson correlation coefficient is defined as:
+  \begin{equation}
+      r = \frac{\sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum_{i=1}^{n} (x_i - \bar{x})^2} \sqrt{\sum_{i=1}^{n} (y_i - \bar{y})^2}}
+  \end{equation}
+  where $x_i$ and $y_i$ are the values of the two variables, $\bar{x}$ and $\bar{y}$ are their respective means, and $n$ is the number of observations. The correlation coefficient ranges from -1 to 1, where -1 indicates a perfect negative correlation, 0 indicates no correlation, and 1 indicates a perfect positive correlation. For computation of statistical significance in correlation, a Monte Carlo method was used, with a p-value threshold of 0.05.
+
+  In order to avoid spurious correlation outputs, anthropogenic signal from the natural variability of the data is isolated by using the long-term trend component obtained in the timescale decomposition analysis. For the climate variability indices, we apply the detrending methods listed in Table \ref{tab:climate-variability-indices}. The correlation analysis is performed over the different seasons over the 1980-2022 period.
+
+  \subsection{Analysis 3: Causality studies between $R_0$ and climate variability indices. Outlining of predictors for disease outbreaks} \label{sec-methods-3}
+
+  Causal-based patterns can be identified after this analysis, which, as opposed to correlation, allow for a more robust foundation for the understanding of the underlying mechanisms between climate variability and $R_0$ patterns. In discarding potentially spurious results obtained through correlation, this causality analysis can be used to outline the most relevant predictors for disease outbreaks. These predictors, in turn, can be used for the refining and building of AeDES2's prediction system for improving the accuracy and skill of the ensemble forecasts respect its predecessor.
+
+  \subsubsection{Data} \label{sec-methods-3-data}
+
+  The datasets that were used for the causality analysis are the same as those employed in assessing the impact of climate variability indices on $R_0$ values across the globe (Section \ref{sec-methods-2-data}).
+
+  \subsubsection{Methodology} \label{sec-methods-3-methodology}
+
+  Causality analysis between $R_0$ and climate variability indices was performed by using Liang-Kleeman's proposed methodology for computing information flow between two entities of a dynamical system (Liang and Kleeman, 2005), quantifying the amount of information that one time series (the climate variability indices) can provide about another time series ($R_0$ patterns). This formalism is based on the concept of transfer entropy, which allows to compute causality as:
+  \begin{equation}
+      T_{2 \rightarrow 1} = \frac{r}{1-r^2}(r'_{2,\partial 1} - r'_{1,\partial 1})
+  \end{equation}
+  where $T_{2 \rightarrow 1}$ is the rate of entropy transfer from time series 2 to time series 1, $r$ is the correlation coefficient between the two time series, and $r'_{2,\partial 1}$ and $r'_{1,\partial 1}$ are the partial correlation coefficients of time series 2 and 1 with respect to each other. While normalizing the transfer entropy can help to streamline the analysis, it is not advised for the purposes of this study, as higher correlation values in the denominator of the equation will naturally lead to very high values of transfer entropy that can influence in the normalization process.
+
+  Much like for the correlation analysis, the causality analysis is performed over the different seasons, regions, and time period, with the detrending methods listed in Table \ref{tab:climate-variability-indices}. For the causality analysis, a p-value threshold of 0.05 was used for statistical significance, which, following Liang-Kleeman's causality formalism, has been computed using Fisher's information matrix. 
+
+  %------------------------------------------------
+
+  \section{Results}
+
+  Results text goes here...
+
+  \subsection{Analysis 1: Multi-timescale climate decomposition of $R_0$} \label{sec-results-1}
+
+  \subsection{Analysis 2: Correlation studies between $R_0$ and climate variability indices} \label{sec-results-2} \label{sec-results-2}
+
+  \subsection{Analysis 3: Causality studies between $R_0$ and climate variability indices. Outlining of predictors for disease outbreaks} \label{sec-results-3}
+
+  \section{Discussion}
+
+  Discussion text goes here...
+
+  \section{Conclusion}
+
+  Conclusion text goes here...
+
+  \section{Code and Data Availability}
+
+
+
+  %----------------------------------------------------------------------------------------
+  %	 REFERENCES
+  %----------------------------------------------------------------------------------------
+
+  % \printbibliography % Output the bibliography
+
+  %----------------------------------------------------------------------------------------
+
+\end{document}
