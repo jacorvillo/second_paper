@@ -1,49 +1,31 @@
-\documentclass[
-	a4paper, % Paper size, use either a4paper or letterpaper
-	8pt, % Default font size, can also use 11pt or 12pt, although this is not recommended
-	unnumberedsections, % Comment to enable section numbering
-	twoside, % Two side traditional mode where headers and footers change between odd and even pages, comment this option to make them fixed
-]{LTJournalArticle}
-\usepackage[style=authoryear, maxcitenames=2]{biblatex}
-\addbibresource{references.bib} % BibTeX bibliography file
-
-\runninghead{AeDES2's Monitoring System Analysis Paper} % A shortened article title to appear in the running head, leave this command empty for no running head
-
-\footertext{\textit{Scientific Journal Target} (2025) XX:XXXX-XXXX} % Text to appear in the footer, leave this command empty for no footer text
-
-\setcounter{page}{1} % The page number of the first page, set this to a higher number if the article is to be part of an issue or larger work
-
-%----------------------------------------------------------------------------------------
-%	TITLE SECTION
-%----------------------------------------------------------------------------------------
-
+\documentclass[fleqn,10pt]{wlscirep}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\newenvironment{Figure}
+  {\par\medskip\noindent\minipage{\linewidth}}
+  {\endminipage\par\medskip}
 \title{AeDES2's Monitoring System Analysis Paper} % Article title, use manual lines breaks (\\) to beautify the layout
 
-% Authors are listed in a comma-separated list with superscript numbers indicating affiliations
-% \thanks{} is used for any text that should be placed in a footnote on the first page, such as the corresponding author's email, journal acceptance dates, a copyright/license notice, keywords, etc
-\author{%
-	Javier Corvillo\textsuperscript{1}, Verónica Torralba\textsuperscript{1}, Ana-Riviére Cinnamond\textsuperscript{2}\thanks{Corresponding author: \href{mailto:jane@smith.com}{jane@smith.com}\\ \textbf{Received:} October 20, 2023, \textbf{Published:} December 14, 2023}
-}
+\author[1, 2*]{Javier Corvillo}
+\author[2*]{Verónica Torralba}
+\author[2]{Diego Campos}
+\author[2*]{Ángel G. Muñoz}
+\author[3]{Ana Riviére-Cinnamond}
 
-% Affiliations are output in the \date{} command
-\date{\footnotesize\textsuperscript{\textbf{1}}Barcelona Supercomputing Center\\ \textsuperscript{\textbf{2}}Pan-American Health Organization}
+\affil[1]{Complutense University of Madrid, Department of Earth Science and Astrophysics, Madrid, 28040, Spain}
+\affil[2]{Barcelona Supercomputing Center, Earth Sciences Department, 08034, Spain}
+\affil[3]{Pan-American Health Organization, Communicable Diseases and Health Analysis, Panama City, 0843-03441, Panama}
+\affil[*]{javier.corvillo@bsc.es / veronica.torralba@bsc.es / angel.g.munoz@bsc.es}
 
-% Full-width abstract
-\renewcommand{\maketitlehookd}{%
-	\begin{abstract}
-		\noindent This will be the abstract for the paper...
-	\end{abstract}
-  }
-  
-  %----------------------------------------------------------------------------------------
-  
+%\keywords{Public Health, Vector-borne Diseases, Epidemiology, Climate Change, Climate Services, Environmental Sciences}
+
+\begin{abstract}
+This will be the abstract for the paper...
+\end{abstract}
 \begin{document}
 
-  \maketitle % Output the title section
-
-  %----------------------------------------------------------------------------------------
-  %	ARTICLE CONTENTS
-  %----------------------------------------------------------------------------------------
+\flushbottom
+\maketitle
 
   \section{Introduction} \label{sec-intro}
 
@@ -155,18 +137,12 @@
 
   Conclusion text goes here...
 
-  \section{Code and Data Availability}
+\bibliography{references}
 
+\section*{Figure references}
 
+\section*{Author contributions statement}
 
-  %----------------------------------------------------------------------------------------
-  %	 REFERENCES
-  %----------------------------------------------------------------------------------------
-
-  \addcontentsline{toc}{section}{\refname}
-  \nocite{*}
-  \printbibliography
-
-  %----------------------------------------------------------------------------------------
-
+\section*{Code and data availability statement}
+\section*{Competing interests}
 \end{document}
