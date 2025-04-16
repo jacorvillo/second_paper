@@ -104,13 +104,7 @@ Using data from a number of sources, we explore and analyze the behavior of the 
 
   \subsubsection{Methodology} \label{sec-methods-3-methodology}
 
-  Causality analysis between $R_0$ and climate variability indices was performed by using Liang-Kleeman's proposed methodology for computing information flow between two entities of a dynamical system (Liang and Kleeman, 2005), quantifying the amount of information that one time series (the climate variability indices) can provide about another time series ($R_0$ patterns). This formalism is based on the concept of transfer entropy, which allows to compute causality as:
-  \begin{equation}
-      T_{2 \rightarrow 1} = \frac{r}{1-r^2}(r'_{2,\partial 1} - r'_{1,\partial 1})
-  \end{equation}
-  where $T_{2 \rightarrow 1}$ is the rate of entropy transfer from time series 2 to time series 1, $r$ is the correlation coefficient between the two time series, and $r'_{2,\partial 1}$ and $r'_{1,\partial 1}$ are the partial correlation coefficients of time series 2 and 1 with respect to each other. While normalizing the transfer entropy can help to streamline the analysis, it is not advised for the purposes of this study, as higher correlation values in the denominator of the equation will naturally lead to very high values of transfer entropy that can influence in the normalization process.
-
-  Much like for the correlation analysis, the causality analysis is performed over the different seasons, regions, and time period, with the detrending methods listed in Table \ref{tab:climate-variability-indices}. For the causality analysis, a p-value threshold of 0.05 was used for statistical significance, which, following Liang-Kleeman's causality formalism, has been computed using Fisher's information matrix. 
+  Causality analysis between $R_0$ and climate variability indices was performed by using Liang-Kleeman's proposed methodology for computing information flow between two entities of a dynamical system, quantifying the amount of information that one time series (the climate variability indices) can provide about another time series ($R_0$ patterns). Once the transfer entropy is computed, it is then normalized in order to account for the different scales of the two time series. Statistical significance is computed using Fisher's information matrix, with a p-value threshold of 0.05.
 
   %------------------------------------------------
 
