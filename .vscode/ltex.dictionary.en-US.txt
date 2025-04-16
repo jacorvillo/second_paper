@@ -1,0 +1,6 @@
+Aedes-borne
+Aedes
+detrended
+detrending
+GHCN-CAMS
+Liang-Kleeman
