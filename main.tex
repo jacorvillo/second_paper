@@ -4,7 +4,7 @@
 \newenvironment{Figure}
   {\par\medskip\noindent\minipage{\linewidth}}
   {\endminipage\par\medskip}
-\title{Title goes here...} % Article title, use manual lines breaks (\\) to beautify the layout
+\title{Can climate patterns predict dengue outbreaks? A causal-based analysis on the role of climate change in Aedes-borne disease transmission} % Article title, use manual lines breaks (\\) to beautify the layout
 
 \author[1, 2*]{Javier Corvillo}
 \author[2*]{Verónica Torralba}
@@ -31,10 +31,6 @@ Using data from a number of sources, we explore and analyze the behavior of the 
 \maketitle
 
   \section{Introduction} \label{sec-intro}
-  However, the transmission dynamics of these diseases, while known to be partly driven by climate, are not so well understood. Understanding the climatological behavior of these diseases is key to understanding their dynamics and to developing effective strategies for their prevention and control.
-  \\
-  \\
-  Using data from a number of sources, we explore and analyze the behavior of the climate-component of \textit{Aedes}-borne disease transmission, in order to understand its role on the dynamics of disease outbreaks in the context of a changing climate. Our analysis is composed of three different studies: 1) a timescale decomposition of disease transmissibility values, thereby guiding officials to understand the climatology and behaviour of outbreaks for budget and resource allocation; 2) a correlation analysis between transmissibility values and different climate variability indices, such as El Niño Southern Oscillation, in order to understand the effects of natural climate patterns onto Aedes-borne outbreaks; and 3) a causality analysis to solidify findings obtained through correlation, identifying the most relevant predictors and their applicability in a climate-and-health service framework for forecasting the transmissibility of Aedes-borne diseases.
 
   %------------------------------------------------
 
@@ -70,7 +66,7 @@ Using data from a number of sources, we explore and analyze the behavior of the 
   \subsubsection{Data} \label{sec-methods-1-data}
   The timescale decomposition analysis was undertaken using $R_0$ outputs from the \textit{\underline{Ae}des} \underline{D}isease \underline{E}nvironmental \underline{S}uitability 2's (AeDES2) monitoring system (citation would go here). The 1980-2021 monthly-mean period of AeDES2's $R_0$ values was selected for the analysis, for a total of 504 months or 167 full seasons. Considering that vector borne diseases are extending to previously unaffected areas due to the effects of man-made climate change, AeDES2's coverage has been increased since its inception to contain global outputs, allowing for a comprehensive analysis of the relationship between climate variability indices and $R_0$ both in current \textit{Aedes} hotspots and emerging regions.
 
-  \subsubsection{Methodology (Time-based)} \label{sec-methods-1-methodology}
+  \subsubsection{Methodology} \label{sec-methods-1-methodology}
 
   As $R_0$ doesn't follow a clearly defined probability distribution function, the temporal analysis filters a given $R_0$ time-series of any given grid-point by employing a \underline{lo}cally \underline{e}stimated \underline{s}catterplot \underline{s}moothing technique (LOESS). In order to obtain the best smoothing parameter for the analysis, a search was performed over a range of values between 1 and 504 months for the fit of the spatial median of the $R_0$ observational data. The best smoothing parameter for said regression was selected using verification metrics for the goodness of fit of the model: the highest R squared value (RSE), the lowest Akaike Information Criterion (AIC) value, or the lowest GCV value. The GCV value is prioritized over the other two metrics, as it is a more robust measure of the goodness of fit of the model to the data, penalizing overfitting.
   \\
