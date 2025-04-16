@@ -77,22 +77,17 @@ Using data from a number of sources, we explore and analyze the behavior of the 
   Once variance maps obtained, Strongest Seasonal Signal Regions (SSSRs) are identified as regions with a significant percentage of variance explained by the seasonal component of the data, to be used in the following parts of the analysis. The boundaries for the selection of SSSR regions are defined by the current Intergovernmental Panel on Climate Change set of reference regions for subcontinental analysis of climate model data (Iturbide et al., 2020).  
 
   \subsection{Analysis 2: Correlation studies between $R_0$ and climate variability indices} \label{sec-methods-2}
-
+  
   After analyzing the $R_0$ signal and its variability through timescale decomposition, we assess the impact of several climate variability indices on global $R_0$ values over the chosen 1980-2021 monthly-mean period.  
-
+  
   \subsubsection{Data} \label{sec-methods-2-data}
-
-  Correlation studies are performed over both global and SSSR regions, using the same $R_0$ data as in the previous analysis. A total of 16 climate variability indices have been used for the correlation analysis. Their respective sources, as well as detrending methods for each, are listed and summarized in Table \ref{tab:climate-variability-indices}.
-
+  
+  Correlation studies are performed over both global and SSSR regions, using the temperature-based detrended $R_0$ data as in the previous analysis over the different seasons and over the whole time period. A total of 9 temperature-based climate variability indices have been used for the correlation analysis, which have been computed using the detrended temperature data utilized in the previous analysis. Their periodicity, as well as their main pattern type, are listed and summarized in Table \ref{tab:climate-variability-indices}.
+  
+  
   \subsubsection{Methodology} \label{sec-methods-2-methodology}
-
-  The correlation analysis was performed using the Pearson correlation coefficient, which quantifies the linear relationship between two variables. The Pearson correlation coefficient is defined as:
-  \begin{equation}
-      r = \frac{\sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum_{i=1}^{n} (x_i - \bar{x})^2} \sqrt{\sum_{i=1}^{n} (y_i - \bar{y})^2}}
-  \end{equation}
-  where $x_i$ and $y_i$ are the values of the two variables, $\bar{x}$ and $\bar{y}$ are their respective means, and $n$ is the number of observations. The correlation coefficient ranges from -1 to 1, where -1 indicates a perfect negative correlation, 0 indicates no correlation, and 1 indicates a perfect positive correlation. For computation of statistical significance in correlation, a Monte Carlo method was used, with a p-value threshold of 0.05.
-
-  In order to avoid spurious correlation outputs, anthropogenic signal from the natural variability of the data is isolated by using the long-term trend component obtained in the timescale decomposition analysis. For the climate variability indices, we apply the detrending methods listed in Table \ref{tab:climate-variability-indices}. The correlation analysis is performed over the different seasons over the 1980-2022 period.
+  
+  The correlation analysis was performed using the Pearson correlation coefficient, which quantifies the linear relationship between two variables. For computation of statistical significance in correlation, a Monte Carlo method was used, with a p-value threshold of 0.05.
 
   \subsection{Analysis 3: Causality studies between $R_0$ and climate variability indices. Outlining of predictors for disease outbreaks} \label{sec-methods-3}
   
