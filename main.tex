@@ -69,7 +69,7 @@ Using data from a number of sources, we explore and analyze the behavior of the 
   
   \subsubsection{Methodology} \label{sec-methods-1-methodology}
   
-  As $R_0$ doesn't follow a clearly defined probability distribution function, the temporal analysis filters a given $R_0$ time-series of any given grid-point by employing a \underline{lo}cally \underline{e}stimated \underline{s}catterplot \underline{s}moothing technique (LOESS). In order to obtain the best smoothing parameter for the analysis, a search was performed over a range of values between 1 and 504 months for the fit of the spatial median of the $R_0$ observational data. The best smoothing parameter for said regression was selected using verification metrics for the goodness of fit of the model: the highest R squared value (RSE), the lowest Akaike Information Criterion (AIC) value, or the lowest GCV value. The GCV value is prioritized over the other two metrics, as it is a more robust measure of the goodness of fit of the model to the data, penalizing overfitting.
+  As $R_0$ doesn't follow a clearly defined probability distribution function, the temporal analysis filters a given $R_0$ time-series of any given grid-point by employing a \underline{lo}cally \underline{e}stimated \underline{s}catterplot \underline{s}moothing technique (LOESS). In order to obtain the best smoothing parameter for the analysis, a search was performed over a range of values between 1 and 504 months for the fit of the spatial median of the $R_0$ observational data. The best smoothing parameter for said regression was selected using verification metrics for the goodness of fit of the model: the highest R squared value ($R^2$), the lowest Akaike Information Criterion ($AIC$) value, or the lowest GCV value. The GCV value is prioritized over the other two metrics, as it is a more robust measure of the goodness of fit of the model to the data, penalizing overfitting.
   \\
   \\
   Once the ideal smoothing parameter is found for the $R_0$ data, the $R_0$ time-series for each gridpoint is separated into four components: a long-term trend signal (understood to be the trend caused by anthropogenic climate change), an inter-annual signal (year to year), a decadal signal (10-30 years), and lastly, a remainder signal which contains other signals of the data (i.e., inter-annual and inter-decadal variability, among others). Variance maps for each of these four components capture the overall direction of the data over time, as well as the climatological variability of $R_0$ in any given grid-point. 
@@ -108,8 +108,6 @@ Using data from a number of sources, we explore and analyze the behavior of the 
   %------------------------------------------------
 
   \section{Results}
-
-  Results text goes here...
 
   \subsection{Analysis 1: Multi-timescale climate decomposition of $R_0$} \label{sec-results-1}
 
