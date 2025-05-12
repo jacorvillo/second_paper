@@ -1,6 +1,6 @@
-PWD c:\Users\jcorvill\Documents\vscode\github\second_paper
+PWD c:\Users\jcorvill\Documents\Obsidian\07 - GitHub\second_paper
 INPUT C:\Users\jcorvill\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\jcorvill\Documents\vscode\github\second_paper\main.tex
+INPUT c:\Users\jcorvill\Documents\Obsidian\07 - GitHub\second_paper\main.tex
 OUTPUT main.log
 INPUT .\wlscirep.cls
 INPUT wlscirep.cls
