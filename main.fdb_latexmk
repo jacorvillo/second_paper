@@ -1,5 +1,13 @@
 # Fdb version 4
-["pdflatex"] 1748263134.93351 "c:/Users/jcorvill/Documents/Obsidian/07 - GitHub/second_paper/main.tex" "main.pdf" "main" 1748263136.22037 0
+["bibtex main"] 1748342048.03691 "main.aux" "main.bbl" "main" 1748342050.12625 0
+  "./naturemag-doi.bst" 1743582902 36153 a59af0557a0f0c0e857533e984f737bb ""
+  "./references.bib" 1748342045 43623 f331176435710ca40d01cb45a32e730d ""
+  "main.aux" 1748342049 11644 1148300265010d7367bd53e7a1aa6ee3 "pdflatex"
+  (generated)
+  "main.bbl"
+  "main.blg"
+  (rewritten before read)
+["pdflatex"] 1748342048.3257 "c:/Users/jcorvill/Documents/Obsidian/07 - GitHub/second_paper/main.tex" "main.pdf" "main" 1748342050.1282 0
   "C:/Users/jcorvill/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748257148 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/jcorvill/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1743585365 12037540 c86c3e253ddd8ffd83d37a2b52a08d77 ""
   "C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -155,13 +163,14 @@
   "C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1730400552 10214 61188260d324e94bc2f66825d7d3fdf4 ""
   "C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/jcorvill/Documents/Obsidian/07 - GitHub/second_paper/main.tex" 1748263134 20744 6f0688755318cf6d6766e3d63439ffe7 ""
+  "c:/Users/jcorvill/Documents/Obsidian/07 - GitHub/second_paper/main.tex" 1748342036 24820 20fd7a5482360cd3ead8f50b697d2682 ""
   "jabbrv-ltwa-all.ldf" 1743582884 49107 ef89484545be005458b7162f37634c99 ""
   "jabbrv-ltwa-en.ldf" 1743582889 268657 c239d07b7cc89e14f920c5fc8ed8d12e ""
   "jabbrv.sty" 1743582893 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1748263135 10628 aa12ddb604e64414cdc6637bf59c818c "pdflatex"
-  "main.out" 1748263135 10084 be237b78da14401d20280b6f886cbd51 "pdflatex"
-  "main.tex" 1748263134 20744 6f0688755318cf6d6766e3d63439ffe7 ""
+  "main.aux" 1748342049 11644 1148300265010d7367bd53e7a1aa6ee3 "pdflatex"
+  "main.bbl" 1748342048 9224 e166dc35f3b826cdcf8fa602e5a507e9 "bibtex main"
+  "main.out" 1748342049 10125 28318551ca557dfed48454b05c90abca "pdflatex"
+  "main.tex" 1748342036 24820 20fd7a5482360cd3ead8f50b697d2682 ""
   "wlscirep.cls" 1743582930 5824 2bca8e85f20d8d313a7747a78c480ad7 ""
   (generated)
   "main.aux"

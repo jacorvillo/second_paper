@@ -1,4 +1,4 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
 \urlstyle{rm}
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
@@ -6,5 +6,181 @@
 \expandafter\ifx\csname doiprefix\endcsname\relax\def\doiprefix{DOI: }\fi
 \providecommand{\bibinfo}[2]{#2}
 \providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{thomson_2008}
+\bibinfo{editor}{Thomson, M.~C.}, \bibinfo{editor}{{Garcia-Herrera}, R.} \&
+  \bibinfo{editor}{Beniston, M.} (eds.) \emph{\bibinfo{title}{Seasonal
+  {{Forecasts}}, {{Climatic Change}} and {{Human Health}}}}
+  (\bibinfo{publisher}{Springer Netherlands}, \bibinfo{address}{Dordrecht},
+  \bibinfo{year}{2008}).
+
+\bibitem{malloy_2019}
+\bibinfo{author}{Malloy, S.~S.}, \bibinfo{author}{Horack, J.~M.},
+  \bibinfo{author}{Lee, J.} \& \bibinfo{author}{Newton, E.~K.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Earth observation for public
+  health: {{Biodiversity}} change and emerging disease surveillance}}.
+\newblock {\emph{\JournalTitle{Acta Astronautica}}}
+  \textbf{\bibinfo{volume}{160}}, \bibinfo{pages}{433--441},
+  \doiprefix\url{10.1016/j.actaastro.2018.10.042} (\bibinfo{year}{2019}).
+
+\bibitem{li_2019}
+\bibinfo{author}{Li, Y.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Global patterns in monthly activity
+  of influenza virus, respiratory syncytial virus, parainfluenza virus, and
+  metapneumovirus: A systematic analysis}}.
+\newblock {\emph{\JournalTitle{The Lancet. Global Health}}}
+  \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{e1031--e1045},
+  \doiprefix\url{10.1016/S2214-109X(19)30264-5} (\bibinfo{year}{2019}).
+
+\bibitem{shaman_2011}
+\bibinfo{author}{Shaman, J.}, \bibinfo{author}{Goldstein, E.} \&
+  \bibinfo{author}{Lipsitch, M.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Absolute humidity and pandemic
+  versus epidemic influenza}}.
+\newblock {\emph{\JournalTitle{American Journal of Epidemiology}}}
+  \textbf{\bibinfo{volume}{173}}, \bibinfo{pages}{127--135},
+  \doiprefix\url{10.1093/aje/kwq347} (\bibinfo{year}{2011}).
+
+\bibitem{romerostarke_2021}
+\bibinfo{author}{Romero~Starke, K.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The {{Effect}} of {{Ambient
+  Environmental Conditions}} on {{COVID-19 Mortality}}: {{A Systematic
+  Review}}}}.
+\newblock {\emph{\JournalTitle{International Journal of Environmental Research
+  and Public Health}}} \textbf{\bibinfo{volume}{18}}, \bibinfo{pages}{6665},
+  \doiprefix\url{10.3390/ijerph18126665} (\bibinfo{year}{2021}).
+
+\bibitem{lowe_2018}
+\bibinfo{author}{Lowe, R.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Nonlinear and delayed impacts of
+  climate on dengue risk in {{Barbados}}: {{A}} modelling study}}.
+\newblock {\emph{\JournalTitle{PLOS Medicine}}} \textbf{\bibinfo{volume}{15}},
+  \bibinfo{pages}{e1002613}, \doiprefix\url{10.1371/journal.pmed.1002613}
+  (\bibinfo{year}{2018}).
+
+\bibitem{messina_2016}
+\bibinfo{author}{Messina, J.~P.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Mapping global environmental
+  suitability for {{Zika}} virus}}.
+\newblock {\emph{\JournalTitle{eLife}}} \textbf{\bibinfo{volume}{5}},
+  \bibinfo{pages}{e15272}, \doiprefix\url{10.7554/eLife.15272}
+  (\bibinfo{year}{2016}).
+
+\bibitem{campbell-lendrum_2015}
+\bibinfo{author}{{Campbell-Lendrum}, D.}, \bibinfo{author}{Manga, L.},
+  \bibinfo{author}{Bagayoko, M.} \& \bibinfo{author}{Sommerfeld, J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Climate change and vector-borne
+  diseases: What are the implications for public health research and policy?}}
+\newblock {\emph{\JournalTitle{Philosophical Transactions of the Royal Society
+  B: Biological Sciences}}} \textbf{\bibinfo{volume}{370}},
+  \bibinfo{pages}{20130552}, \doiprefix\url{10.1098/rstb.2013.0552}
+  (\bibinfo{year}{2015}).
+
+\bibitem{OMS_2020}
+\bibinfo{title}{Global {{Strategy}} for dengue prevention and control,
+  2012--2020}.
+\newblock
+  \bibinfo{howpublished}{https://www.who.int/publications/i/item/9789241504034}.
+
+\bibitem{yang_2021}
+\bibinfo{author}{Yang, X.}, \bibinfo{author}{Quam, M. B.~M.},
+  \bibinfo{author}{Zhang, T.} \& \bibinfo{author}{Sang, S.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Global burden for dengue and the
+  evolving pattern in the past 30~years}}.
+\newblock {\emph{\JournalTitle{Journal of Travel Medicine}}}
+  \textbf{\bibinfo{volume}{28}}, \bibinfo{pages}{taab146},
+  \doiprefix\url{10.1093/jtm/taab146} (\bibinfo{year}{2021}).
+
+\bibitem{shepard_2011}
+\bibinfo{author}{Shepard, D.~S.}, \bibinfo{author}{Coudeville, L.},
+  \bibinfo{author}{Halasa, Y.~A.}, \bibinfo{author}{Zambrano, B.} \&
+  \bibinfo{author}{Dayan, G.~H.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Economic {{Impact}} of {{Dengue
+  Illness}} in the {{Americas}}}}.
+\newblock {\emph{\JournalTitle{The American Journal of Tropical Medicine and
+  Hygiene}}} \textbf{\bibinfo{volume}{84}}, \bibinfo{pages}{200--207},
+  \doiprefix\url{10.4269/ajtmh.2011.10-0503} (\bibinfo{year}{2011}).
+
+\bibitem{quam_2015}
+\bibinfo{author}{Quam, M.~B.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Estimating {{Air
+  Travel}}--{{Associated Importations}} of {{Dengue Virus Into Italy}}}}.
+\newblock {\emph{\JournalTitle{Journal of Travel Medicine}}}
+  \textbf{\bibinfo{volume}{22}}, \bibinfo{pages}{186--193},
+  \doiprefix\url{10.1111/jtm.12192} (\bibinfo{year}{2015}).
+
+\bibitem{lee_2021a}
+\bibinfo{author}{Lee, S.~A.}, \bibinfo{author}{Economou, T.},
+  \bibinfo{author}{Cat{\~a}o, R. d.~C.}, \bibinfo{author}{Barcellos, C.} \&
+  \bibinfo{author}{Lowe, R.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The impact of climate suitability,
+  urbanisation, and connectivity on the expansion of dengue in 21st century
+  {{Brazil}}}}.
+\newblock {\emph{\JournalTitle{PLOS Neglected Tropical Diseases}}}
+  \textbf{\bibinfo{volume}{15}}, \bibinfo{pages}{e0009773},
+  \doiprefix\url{10.1371/journal.pntd.0009773} (\bibinfo{year}{2021}).
+
+\bibitem{struchiner_2015}
+\bibinfo{author}{Struchiner, C.~J.}, \bibinfo{author}{Rockl{\"o}v, J.},
+  \bibinfo{author}{{Wilder-Smith}, A.} \& \bibinfo{author}{Massad, E.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Increasing {{Dengue Incidence}} in
+  {{Singapore}} over the {{Past}} 40 {{Years}}: {{Population Growth}},
+  {{Climate}} and {{Mobility}}}}.
+\newblock {\emph{\JournalTitle{PLOS ONE}}} \textbf{\bibinfo{volume}{10}},
+  \bibinfo{pages}{e0136286}, \doiprefix\url{10.1371/journal.pone.0136286}
+  (\bibinfo{year}{2015}).
+
+\bibitem{kraemer_2015}
+\bibinfo{author}{Kraemer, M.~U.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The global distribution of the
+  arbovirus vectors {{Aedes}} aegypti and {{Ae}}. albopictus}}.
+\newblock {\emph{\JournalTitle{eLife}}} \textbf{\bibinfo{volume}{4}},
+  \bibinfo{pages}{e08347}, \doiprefix\url{10.7554/eLife.08347}
+  (\bibinfo{year}{2015}).
+
+\bibitem{franklinos_2019}
+\bibinfo{author}{Franklinos, L. H.~V.}, \bibinfo{author}{Jones, K.~E.},
+  \bibinfo{author}{Redding, D.~W.} \& \bibinfo{author}{Abubakar, I.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The effect of global change on
+  mosquito-borne disease}}.
+\newblock {\emph{\JournalTitle{The Lancet Infectious Diseases}}}
+  \textbf{\bibinfo{volume}{19}}, \bibinfo{pages}{e302--e312},
+  \doiprefix\url{10.1016/S1473-3099(19)30161-6} (\bibinfo{year}{2019}).
+
+\bibitem{ooi_2009}
+\bibinfo{author}{Ooi, E.-E.} \& \bibinfo{author}{Gubler, D.~J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Dengue in {{Southeast Asia}}:
+  Epidemiological characteristics and strategic challenges in disease
+  prevention}}.
+\newblock {\emph{\JournalTitle{Cadernos de Sa{\'u}de P{\'u}blica}}}
+  \textbf{\bibinfo{volume}{25}}, \bibinfo{pages}{S115--S124},
+  \doiprefix\url{10.1590/S0102-311X2009001300011} (\bibinfo{year}{2009}).
+
+\bibitem{ECDC_2024c}
+\bibinfo{title}{Dengue - {{Annual Epidemiological Report}} for 2022}.
+\newblock
+  \bibinfo{howpublished}{https://www.ecdc.europa.eu/en/publications-data/dengue-annual-epidemiological-report-2022}
+  (\bibinfo{year}{2024}).
+
+\bibitem{nakase_2024}
+\bibinfo{author}{Nakase, T.}, \bibinfo{author}{Giovanetti, M.},
+  \bibinfo{author}{Obolski, U.} \& \bibinfo{author}{Louren{\c c}o, J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Population at risk of dengue virus
+  transmission has increased due to coupled climate factors and population
+  growth}}.
+\newblock {\emph{\JournalTitle{Communications Earth \& Environment}}}
+  \textbf{\bibinfo{volume}{5}}, \bibinfo{pages}{1--11},
+  \doiprefix\url{10.1038/s43247-024-01639-6} (\bibinfo{year}{2024}).
+
+\bibitem{pourzangiabadi_2025}
+\bibinfo{author}{Pourzangiabadi, M.}, \bibinfo{author}{Najafi, H.},
+  \bibinfo{author}{Fallah, A.}, \bibinfo{author}{Goudarzi, A.} \&
+  \bibinfo{author}{Pouladi, I.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Dengue virus: {{Etiology}},
+  epidemiology, pathobiology, and developments in diagnosis and control --
+  {{A}} comprehensive review}}.
+\newblock {\emph{\JournalTitle{Infection, Genetics and Evolution}}}
+  \textbf{\bibinfo{volume}{127}}, \bibinfo{pages}{105710},
+  \doiprefix\url{10.1016/j.meegid.2024.105710} (\bibinfo{year}{2025}).
 
 \end{thebibliography}
