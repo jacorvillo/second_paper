@@ -183,4 +183,153 @@
   \textbf{\bibinfo{volume}{127}}, \bibinfo{pages}{105710},
   \doiprefix\url{10.1016/j.meegid.2024.105710} (\bibinfo{year}{2025}).
 
+\bibitem{mordecai_2019}
+\bibinfo{author}{Mordecai, E.~A.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Thermal biology of mosquito-borne
+  disease}}.
+\newblock {\emph{\JournalTitle{Ecology Letters}}}
+  \textbf{\bibinfo{volume}{22}}, \bibinfo{pages}{1690--1708},
+  \doiprefix\url{10.1111/ele.13335} (\bibinfo{year}{2019}).
+
+\bibitem{paaijmans_2007}
+\bibinfo{author}{Paaijmans, K.~P.}, \bibinfo{author}{Wandago, M.~O.},
+  \bibinfo{author}{Githeko, A.~K.} \& \bibinfo{author}{Takken, W.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Unexpected {{High Losses}} of
+  {{Anopheles}} gambiae {{Larvae Due}} to {{Rainfall}}}}.
+\newblock {\emph{\JournalTitle{PLOS ONE}}} \textbf{\bibinfo{volume}{2}},
+  \bibinfo{pages}{e1146}, \doiprefix\url{10.1371/journal.pone.0001146}
+  (\bibinfo{year}{2007}).
+
+\bibitem{colon-gonzalez_2021}
+\bibinfo{author}{{Col{\'o}n-Gonz{\'a}lez}, F.~J.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Projecting the risk of
+  mosquito-borne diseases in a warmer and more populated world: A multi-model,
+  multi-scenario intercomparison modelling study}}.
+\newblock {\emph{\JournalTitle{The Lancet Planetary Health}}}
+  \textbf{\bibinfo{volume}{5}}, \bibinfo{pages}{e404--e414},
+  \doiprefix\url{10.1016/S2542-5196(21)00132-7} (\bibinfo{year}{2021}).
+
+\bibitem{descloux_2012}
+\bibinfo{author}{Descloux, E.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Climate-{{Based Models}} for
+  {{Understanding}} and {{Forecasting Dengue Epidemics}}}}.
+\newblock {\emph{\JournalTitle{PLOS Neglected Tropical Diseases}}}
+  \textbf{\bibinfo{volume}{6}}, \bibinfo{pages}{e1470},
+  \doiprefix\url{10.1371/journal.pntd.0001470} (\bibinfo{year}{2012}).
+
+\bibitem{caminade_2017}
+\bibinfo{author}{Caminade, C.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Global risk model for vector-borne
+  transmission of {{Zika}} virus reveals the role of {{El Ni{\~n}o}} 2015}}.
+\newblock {\emph{\JournalTitle{Proceedings of the National Academy of
+  Sciences}}} \textbf{\bibinfo{volume}{114}}, \bibinfo{pages}{119--124},
+  \doiprefix\url{10.1073/pnas.1614303114} (\bibinfo{year}{2017}).
+
+\bibitem{liu-helmersson_2014}
+\bibinfo{author}{{Liu-Helmersson}, J.}, \bibinfo{author}{Stenlund, H.},
+  \bibinfo{author}{{Wilder-Smith}, A.} \& \bibinfo{author}{Rockl{\"o}v, J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Vectorial {{Capacity}} of {{Aedes}}
+  aegypti: {{Effects}} of {{Temperature}} and {{Implications}} for {{Global
+  Dengue Epidemic Potential}}}}.
+\newblock {\emph{\JournalTitle{PLOS ONE}}} \textbf{\bibinfo{volume}{9}},
+  \bibinfo{pages}{e89783}, \doiprefix\url{10.1371/journal.pone.0089783}
+  (\bibinfo{year}{2014}).
+
+\bibitem{mordecai_2017}
+\bibinfo{author}{Mordecai, E.~A.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Detecting the impact of temperature
+  on transmission of {{Zika}}, dengue, and chikungunya using mechanistic
+  models}}.
+\newblock {\emph{\JournalTitle{PLOS Neglected Tropical Diseases}}}
+  \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{e0005568},
+  \doiprefix\url{10.1371/journal.pntd.0005568} (\bibinfo{year}{2017}).
+
+\bibitem{wesolowski_2015}
+\bibinfo{author}{Wesolowski, A.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Impact of human mobility on the
+  emergence of dengue epidemics in {{Pakistan}}}}.
+\newblock {\emph{\JournalTitle{Proceedings of the National Academy of
+  Sciences}}} \textbf{\bibinfo{volume}{112}}, \bibinfo{pages}{11887--11892},
+  \doiprefix\url{10.1073/pnas.1504964112} (\bibinfo{year}{2015}).
+
+\bibitem{erraguntla_2021}
+\bibinfo{author}{Erraguntla, M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Predictive model for microclimatic
+  temperature and its use in mosquito population modeling}}.
+\newblock {\emph{\JournalTitle{Scientific Reports}}}
+  \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{18909},
+  \doiprefix\url{10.1038/s41598-021-98316-x} (\bibinfo{year}{2021}).
+
+\bibitem{lee_2017}
+\bibinfo{author}{Lee, H.~S.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Seasonal patterns of dengue fever
+  and associated climate factors in 4 provinces in {{Vietnam}} from 1994 to
+  2013}}.
+\newblock {\emph{\JournalTitle{BMC Infectious Diseases}}}
+  \textbf{\bibinfo{volume}{17}}, \bibinfo{pages}{218},
+  \doiprefix\url{10.1186/s12879-017-2326-8} (\bibinfo{year}{2017}).
+
+\bibitem{yavarinejad_2021}
+\bibinfo{author}{Yavari~Nejad, F.} \& \bibinfo{author}{Varathan, K.~D.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Identification of significant
+  climatic risk factors and machine learning models in dengue outbreak
+  prediction}}.
+\newblock {\emph{\JournalTitle{BMC Medical Informatics and Decision Making}}}
+  \textbf{\bibinfo{volume}{21}}, \bibinfo{pages}{141},
+  \doiprefix\url{10.1186/s12911-021-01493-y} (\bibinfo{year}{2021}).
+
+\bibitem{sriklin_2021}
+\bibinfo{author}{Sriklin, T.}, \bibinfo{author}{Kajornkasirat, S.} \&
+  \bibinfo{author}{Puttinaovarat, S.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Dengue {{Transmission Mapping}}
+  with {{Weather-Based Predictive Model}} in {{Three Southernmost Provinces}}
+  of {{Thailand}}}}.
+\newblock {\emph{\JournalTitle{Sustainability}}} \textbf{\bibinfo{volume}{13}},
+  \bibinfo{pages}{6754}, \doiprefix\url{10.3390/su13126754}
+  (\bibinfo{year}{2021}).
+
+\bibitem{ali_2025}
+\bibinfo{author}{Ali, H.} \& \bibinfo{author}{Charles, H.}
+\newblock \bibinfo{title}{Mosquito {{Breeding Hotspots}} in a {{Changing
+  World}}: {{Remote Sensing}} and {{GIS-Based Analysis}} of {{Ecological}} and
+  {{Anthropogenic Factors}}}.
+\newblock \bibinfo{type}{Tech. Rep.} (\bibinfo{year}{2025}).
+\newblock \doiprefix\url{10.13140/RG.2.2.29354.94406}.
+
+\bibitem{lubbecke_2018}
+\bibinfo{author}{L{\"u}bbecke, J.~F.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Equatorial {{Atlantic}}
+  variability---{{Modes}}, mechanisms, and global teleconnections}}.
+\newblock {\emph{\JournalTitle{WIREs Climate Change}}}
+  \textbf{\bibinfo{volume}{9}}, \bibinfo{pages}{e527},
+  \doiprefix\url{10.1002/wcc.527} (\bibinfo{year}{2018}).
+
+\bibitem{lee_2018}
+\bibinfo{author}{Lee, D.}, \bibinfo{author}{Ward, P.} \&
+  \bibinfo{author}{Block, P.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Attribution of {{Large-Scale
+  Climate Patterns}} to {{Seasonal Peak-Flow}} and {{Prospects}} for
+  {{Prediction Globally}}}}.
+\newblock {\emph{\JournalTitle{Water Resources Research}}}
+  \textbf{\bibinfo{volume}{54}}, \bibinfo{pages}{916--938},
+  \doiprefix\url{10.1002/2017WR021205} (\bibinfo{year}{2018}).
+
+\bibitem{easterbrook_2016}
+\bibinfo{author}{Easterbrook, D.~J.}
+\newblock \bibinfo{title}{Chapter 21 - {{Using Patterns}} of {{Recurring
+  Climate Cycles}} to {{Predict Future Climate Changes}}}.
+\newblock In \bibinfo{editor}{Easterbrook, D.~J.} (ed.)
+  \emph{\bibinfo{booktitle}{Evidence-{{Based Climate Science}} ({{Second
+  Edition}})}}, \bibinfo{pages}{395--411},
+  \doiprefix\url{10.1016/B978-0-12-804588-6.00021-5}
+  (\bibinfo{publisher}{Elsevier}, \bibinfo{year}{2016}).
+
+\bibitem{hallett_2004}
+\bibinfo{author}{Hallett, T.~B.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Why large-scale climate indices
+  seem to predict ecological processes better than local weather}}.
+\newblock {\emph{\JournalTitle{Nature}}} \textbf{\bibinfo{volume}{430}},
+  \bibinfo{pages}{71--75}, \doiprefix\url{10.1038/nature02708}
+  (\bibinfo{year}{2004}).
+
 \end{thebibliography}
