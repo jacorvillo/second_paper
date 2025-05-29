@@ -156,7 +156,7 @@
   \textbf{\bibinfo{volume}{25}}, \bibinfo{pages}{S115--S124},
   \doiprefix\url{10.1590/S0102-311X2009001300011} (\bibinfo{year}{2009}).
 
-\bibitem{ECDC_2024c}
+\bibitem{ECDC_2024}
 \bibinfo{title}{Dengue - {{Annual Epidemiological Report}} for 2022}.
 \newblock
   \bibinfo{howpublished}{https://www.ecdc.europa.eu/en/publications-data/dengue-annual-epidemiological-report-2022}
@@ -296,6 +296,34 @@
 \newblock \bibinfo{type}{Tech. Rep.} (\bibinfo{year}{2025}).
 \newblock \doiprefix\url{10.13140/RG.2.2.29354.94406}.
 
+\bibitem{shaw_2024}
+\bibinfo{author}{Shaw, T.~A.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Regional climate change: Consensus,
+  discrepancies, and ways forward}}.
+\newblock {\emph{\JournalTitle{Frontiers in Climate}}}
+  \textbf{\bibinfo{volume}{6}}, \doiprefix\url{10.3389/fclim.2024.1391634}
+  (\bibinfo{year}{2024}).
+
+\bibitem{senroy_2018}
+\bibinfo{author}{Sen~Roy, S.}
+\newblock \bibinfo{title}{Climate {{Change}} in the {{Global South}}:
+  {{Trends}} and {{Spatial Patterns}}}.
+\newblock In \bibinfo{editor}{Sen~Roy, S.} (ed.)
+  \emph{\bibinfo{booktitle}{Linking {{Gender}} to {{Climate Change Impacts}} in
+  the {{Global South}}}}, \bibinfo{pages}{1--25},
+  \doiprefix\url{10.1007/978-3-319-75777-3_1} (\bibinfo{publisher}{Springer
+  International Publishing}, \bibinfo{address}{Cham}, \bibinfo{year}{2018}).
+
+\bibitem{peng_2023}
+\bibinfo{author}{Peng, C.}, \bibinfo{author}{Zeng, J.}, \bibinfo{author}{Chen,
+  K.-S.}, \bibinfo{author}{Ma, H.} \& \bibinfo{author}{Bi, H.}
+\newblock \bibinfo{title}{Spatiotemporal {{Patterns}} and {{Influencing Factors
+  Of Soil Moisture At A Global Scale}}}.
+\newblock In \emph{\bibinfo{booktitle}{{{IGARSS}} 2023 - 2023 {{IEEE
+  International Geoscience}} and {{Remote Sensing Symposium}}}},
+  \bibinfo{pages}{3174--3177},
+  \doiprefix\url{10.1109/IGARSS52108.2023.10282096} (\bibinfo{year}{2023}).
+
 \bibitem{lubbecke_2018}
 \bibinfo{author}{L{\"u}bbecke, J.~F.} \emph{et~al.}
 \newblock \bibinfo{journal}{\bibinfo{title}{Equatorial {{Atlantic}}
@@ -331,5 +359,173 @@
 \newblock {\emph{\JournalTitle{Nature}}} \textbf{\bibinfo{volume}{430}},
   \bibinfo{pages}{71--75}, \doiprefix\url{10.1038/nature02708}
   (\bibinfo{year}{2004}).
+
+\bibitem{moriyama_2020}
+\bibinfo{author}{Moriyama, M.}, \bibinfo{author}{Hugentobler, W.~J.} \&
+  \bibinfo{author}{Iwasaki, A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Seasonality of {{Respiratory Viral
+  Infections}}}}.
+\newblock {\emph{\JournalTitle{Annual Review of Virology}}}
+  \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{83--101},
+  \doiprefix\url{10.1146/annurev-virology-012420-022445}
+  (\bibinfo{year}{2020}).
+
+\bibitem{dietz_1993}
+\bibinfo{author}{Dietz, K.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The estimation of the basic
+  reproduction number for infectious diseases}}.
+\newblock {\emph{\JournalTitle{Statistical Methods in Medical Research}}}
+  \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{23--41},
+  \doiprefix\url{10.1177/096228029300200103} (\bibinfo{year}{1993}).
+
+\bibitem{OMS_2017}
+\bibinfo{title}{{{WHO}} guidance for surveillance during an influenza pandemic,
+  2017 update}.
+\newblock
+  \bibinfo{howpublished}{https://www.who.int/publications/i/item/9789241513333}.
+
+\bibitem{chiew_2014}
+\bibinfo{author}{Chiew, M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Estimating the measles effective
+  reproduction number in {{Australia}} from routine notification data}}.
+\newblock {\emph{\JournalTitle{Bulletin of the World Health Organization}}}
+  \textbf{\bibinfo{volume}{92}}, \bibinfo{pages}{171--177},
+  \doiprefix\url{10.2471/BLT.13.125724} (\bibinfo{year}{2014}).
+
+\bibitem{munoz_2020b}
+\bibinfo{author}{Mu{\~n}oz, {\'A}.~G.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{{AeDES}}: A next-generation
+  monitoring and forecasting system for environmental suitability of
+  {{Aedes-borne}} disease transmission}}.
+\newblock {\emph{\JournalTitle{Scientific Reports}}}
+  \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{12640},
+  \doiprefix\url{10.1038/s41598-020-69625-4} (\bibinfo{year}{2020}).
+
+\bibitem{thomson_2018a}
+\bibinfo{author}{Thomson, M.~C.}, \bibinfo{author}{Mu{\~n}oz, {\'A}.~G.},
+  \bibinfo{author}{Cousin, R.} \& \bibinfo{author}{{Shumake-Guillemot}, J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Climate drivers of vector-borne
+  diseases in {{Africa}} and their relevance to control programmes}}.
+\newblock {\emph{\JournalTitle{Infectious Diseases of Poverty}}}
+  \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{81},
+  \doiprefix\url{10.1186/s40249-018-0460-1} (\bibinfo{year}{2018}).
+
+\bibitem{munoz_2016}
+\bibinfo{author}{Mu{\~n}oz, {\'A}.~G.}, \bibinfo{author}{Thomson, M.~C.},
+  \bibinfo{author}{Goddard, L.} \& \bibinfo{author}{Aldighieri, S.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Analyzing climate variations at
+  multiple timescales can guide {{Zika}} virus response measures}}.
+\newblock {\emph{\JournalTitle{GigaScience}}} \textbf{\bibinfo{volume}{5}},
+  \bibinfo{pages}{41}, \doiprefix\url{10.1186/s13742-016-0146-1}
+  (\bibinfo{year}{2016}).
+
+\bibitem{jacoby_2000}
+\bibinfo{author}{Jacoby, W.~G.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Loess:: A nonparametric, graphical
+  tool for depicting relationships between variables}}.
+\newblock {\emph{\JournalTitle{Electoral Studies}}}
+  \textbf{\bibinfo{volume}{19}}, \bibinfo{pages}{577--613},
+  \doiprefix\url{10.1016/S0261-3794(99)00028-1} (\bibinfo{year}{2000}).
+
+\bibitem{healy_1984}
+\bibinfo{author}{Healy, M. J.~R.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The {{Use}} of {{R2}} as a
+  {{Measure}} of {{Goodness}} of {{Fit}}}}.
+\newblock {\emph{\JournalTitle{Royal Statistical Society. Journal. Series A:
+  General}}} \textbf{\bibinfo{volume}{147}}, \bibinfo{pages}{608--609},
+  \doiprefix\url{10.2307/2981848} (\bibinfo{year}{1984}).
+
+\bibitem{akaike_1998}
+\bibinfo{author}{Akaike, H.}
+\newblock \bibinfo{title}{Information {{Theory}} and an {{Extension}} of the
+  {{Maximum Likelihood Principle}}}.
+\newblock In \bibinfo{editor}{Parzen, E.}, \bibinfo{editor}{Tanabe, K.} \&
+  \bibinfo{editor}{Kitagawa, G.} (eds.) \emph{\bibinfo{booktitle}{Selected
+  {{Papers}} of {{Hirotugu Akaike}}}}, \bibinfo{pages}{199--213},
+  \doiprefix\url{10.1007/978-1-4612-1694-0_15} (\bibinfo{publisher}{Springer},
+  \bibinfo{address}{New York, NY}, \bibinfo{year}{1998}).
+
+\bibitem{craven_1978}
+\bibinfo{author}{Craven, P.} \& \bibinfo{author}{Wahba, G.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Smoothing noisy data with spline
+  functions}}.
+\newblock {\emph{\JournalTitle{Numerische Mathematik}}}
+  \textbf{\bibinfo{volume}{31}}, \bibinfo{pages}{377--403},
+  \doiprefix\url{10.1007/BF01404567} (\bibinfo{year}{1978}).
+
+\bibitem{marcotte_1995}
+\bibinfo{author}{Marcotte, D.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Generalized cross-validation for
+  covariance model selection}}.
+\newblock {\emph{\JournalTitle{Mathematical Geology}}}
+  \textbf{\bibinfo{volume}{27}}, \bibinfo{pages}{659--672},
+  \doiprefix\url{10.1007/BF02093906} (\bibinfo{year}{1995}).
+
+\bibitem{miller_2015}
+\bibinfo{author}{Miller, M.~J.} \& \bibinfo{author}{Loaiza, J.~R.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Geographic {{Expansion}} of the
+  {{Invasive Mosquito Aedes}} albopictus across {{Panama}}---{{Implications}}
+  for {{Control}} of {{Dengue}} and {{Chikungunya Viruses}}}}.
+\newblock {\emph{\JournalTitle{PLOS Neglected Tropical Diseases}}}
+  \textbf{\bibinfo{volume}{9}}, \bibinfo{pages}{e0003383},
+  \doiprefix\url{10.1371/journal.pntd.0003383} (\bibinfo{year}{2015}).
+
+\bibitem{fan_2008}
+\bibinfo{author}{Fan, Y.} \& \bibinfo{author}{{van den Dool}, H.}
+\newblock \bibinfo{journal}{\bibinfo{title}{A global monthly land surface air
+  temperature analysis for 1948--present}}.
+\newblock {\emph{\JournalTitle{Journal of Geophysical Research: Atmospheres}}}
+  \textbf{\bibinfo{volume}{113}}, \doiprefix\url{10.1029/2007JD008470}
+  (\bibinfo{year}{2008}).
+
+\bibitem{xie_2007}
+\bibinfo{author}{Xie, P.}, \bibinfo{author}{Arkin, P.~A.} \&
+  \bibinfo{author}{Janowiak, J.~E.}
+\newblock \bibinfo{title}{{{CMAP}}: {{The CPC Merged Analysis}} of
+  {{Precipitation}}}.
+\newblock In \bibinfo{editor}{Levizzani, V.}, \bibinfo{editor}{Bauer, P.} \&
+  \bibinfo{editor}{Turk, F.~J.} (eds.) \emph{\bibinfo{booktitle}{Measuring
+  {{Precipitation From Space}}: {{EURAINSAT}} and the {{Future}}}},
+  \bibinfo{pages}{319--328}, \doiprefix\url{10.1007/978-1-4020-5835-6_25}
+  (\bibinfo{publisher}{Springer Netherlands}, \bibinfo{address}{Dordrecht},
+  \bibinfo{year}{2007}).
+
+\bibitem{chen_2008}
+\bibinfo{author}{Chen, M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Assessing objective techniques for
+  gauge-based analyses of global daily precipitation}}.
+\newblock {\emph{\JournalTitle{Journal of Geophysical Research: Atmospheres}}}
+  \textbf{\bibinfo{volume}{113}}, \doiprefix\url{10.1029/2007JD009132}
+  (\bibinfo{year}{2008}).
+
+\bibitem{greene_2011}
+\bibinfo{journal}{\bibinfo{title}{({{PDF}}) {{Web}} tool deconstructs
+  variability in twentieth-century climate}}.
+\newblock {\emph{\JournalTitle{ResearchGate}}}
+  \doiprefix\url{10.1029/2011EO450001}.
+
+\bibitem{new_2000}
+\bibinfo{author}{New, M.} \& \bibinfo{author}{Hulme, M.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Representing uncertainty in climate
+  change scenarios: A {{Monte-Carlo}} approach}}.
+\newblock {\emph{\JournalTitle{Integrated Assessment}}}
+  \textbf{\bibinfo{volume}{1}}, \bibinfo{pages}{203--213},
+  \doiprefix\url{10.1023/A:1019144202120} (\bibinfo{year}{2000}).
+
+\bibitem{liang_2014}
+\bibinfo{author}{Liang, X.~S.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Unraveling the cause-effect
+  relation between time series}}.
+\newblock {\emph{\JournalTitle{Physical Review E}}}
+  \textbf{\bibinfo{volume}{90}}, \bibinfo{pages}{052150},
+  \doiprefix\url{10.1103/PhysRevE.90.052150} (\bibinfo{year}{2014}).
+
+\bibitem{liang_2015}
+\bibinfo{author}{Liang, X.~S.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Normalizing the causality between
+  time series}}.
+\newblock {\emph{\JournalTitle{Physical Review E}}}
+  \textbf{\bibinfo{volume}{92}}, \bibinfo{pages}{022126},
+  \doiprefix\url{10.1103/PhysRevE.92.022126} (\bibinfo{year}{2015}).
 
 \end{thebibliography}
