@@ -6,47 +6,49 @@ The style file: naturemag-doi.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: references.bib
 Warning--missing institution in ali_2025
+Warning--empty author in cox_2007
+Warning--empty year in cox_2007
 Warning--empty author in greene_2011
 Warning--empty year in greene_2011
-You've used 60 entries,
+You've used 67 entries,
             2380 wiz_defined-function locations,
-            1403 strings with 25544 characters,
-and the built_in function-call counts, 23871 in all, are:
-= -- 1654
-> -- 601
-< -- 0
-+ -- 298
-- -- 149
-* -- 3132
-:= -- 2615
-add.period$ -- 175
-call.type$ -- 60
-change.case$ -- 70
+            1446 strings with 27328 characters,
+and the built_in function-call counts, 26222 in all, are:
+= -- 1813
+> -- 650
+< -- 1
++ -- 323
+- -- 161
+* -- 3442
+:= -- 2869
+add.period$ -- 195
+call.type$ -- 67
+change.case$ -- 77
 chr.to.int$ -- 0
-cite$ -- 63
-duplicate$ -- 2107
-empty$ -- 2201
-format.name$ -- 198
-if$ -- 4756
+cite$ -- 72
+duplicate$ -- 2328
+empty$ -- 2426
+format.name$ -- 215
+if$ -- 5221
 int.to.chr$ -- 0
-int.to.str$ -- 60
-missing$ -- 498
-newline$ -- 305
-num.names$ -- 65
-pop$ -- 324
+int.to.str$ -- 67
+missing$ -- 551
+newline$ -- 339
+num.names$ -- 71
+pop$ -- 366
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 414
+skip$ -- 450
 stack$ -- 0
-substring$ -- 1112
-swap$ -- 2103
-text.length$ -- 0
+substring$ -- 1195
+swap$ -- 2312
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 3
-while$ -- 139
-width$ -- 62
-write$ -- 706
-(There were 3 warnings)
+warning$ -- 5
+while$ -- 151
+width$ -- 69
+write$ -- 784
+(There were 5 warnings)

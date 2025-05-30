@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.2)  29 MAY 2025 11:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.2)  30 MAY 2025 13:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -789,177 +789,164 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 89--93
+Underfull \hbox (badness 10000) in paragraph at lines 87--94
 
  []
 
 
-Underfull \hbox (badness 3199) in paragraph at lines 89--93
+Underfull \hbox (badness 10000) in paragraph at lines 87--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--101
+
+ []
+
+
+Underfull \hbox (badness 3199) in paragraph at lines 97--101
 \T1/ptm/m/n/10 (+20) By us-ing global cli-mate prod-ucts that trans-form cli-
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 89--93
+Underfull \hbox (badness 3612) in paragraph at lines 97--101
 \T1/ptm/m/n/10 (+20) mate vari-ables into the climate-driven com-po-nent of
  []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 94.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 94.
+(hyperref)                removing `math shift' on input line 102.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 94.
+(hyperref)                removing `subscript' on input line 102.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--103
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 102.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--111
 
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 96--103
+Underfull \hbox (badness 1728) in paragraph at lines 104--111
 \T1/ptm/m/n/10 (+20) However, while $\OML/ztmcm/m/it/10 R[]$ \T1/ptm/m/n/10 (+20) en-tan-gles vec-tor, hu-man, and cli-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--103
+Underfull \hbox (badness 10000) in paragraph at lines 104--111
 
  []
 
 
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 116.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 108.
+(hyperref)                removing `subscript' on input line 116.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 108.
+(hyperref)                removing `math shift' on input line 116.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 108.
+Underfull \vbox (badness 1127) has occurred while \output is active []
 
+
+
+[3]
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <9> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 129.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 137.
 
-Underfull \hbox (badness 1178) in paragraph at lines 134--144
+Underfull \hbox (badness 1178) in paragraph at lines 142--152
 \T1/ptm/m/n/10 (+20) Gen-er-al-ized Cor-re-lated Cross-Validation ($\OML/ztmcm/m/it/10 GCV$\T1/ptm/m/n/10 (+20) ) value[].
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--144
+Underfull \hbox (badness 10000) in paragraph at lines 142--152
 
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 134--144
+Underfull \hbox (badness 1424) in paragraph at lines 142--152
 \T1/ptm/m/n/10 (+20) Once the ideal LOESS smooth-ing pa-ram-e-ter is found
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--144
+Underfull \hbox (badness 10000) in paragraph at lines 142--152
 
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 134--144
+Underfull \hbox (badness 1152) in paragraph at lines 142--152
 \T1/ptm/m/n/10 (+20) Variance maps, as well as any re-sults from fol-low-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--144
+Underfull \hbox (badness 10000) in paragraph at lines 142--152
 
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 134--144
+Underfull \hbox (badness 2119) in paragraph at lines 142--152
 \T1/ptm/m/n/10 (+20) After the vari-ance maps are ob-tained, $\OML/ztmcm/m/it/10 R[]$ \T1/ptm/m/n/10 (+20) val-ues are
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 134--144
+Underfull \hbox (badness 1648) in paragraph at lines 142--152
 \T1/ptm/m/n/10 (+20) vari-able (monthly-mean tem-per-a-ture data con-sist-ing of
  []
 
 
-Underfull \hbox (badness 1867) in paragraph at lines 134--144
+Underfull \hbox (badness 1867) in paragraph at lines 142--152
 \T1/ptm/m/n/10 (+20) the GHCN-CAMS project[], the CPC Uni-fied Global
  []
 
 
 
-[3]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 153.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 145.
+(hyperref)                removing `subscript' on input line 153.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 145.
+(hyperref)                removing `math shift' on input line 153.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 145.
+(hyperref)                removing `math shift' on input line 166.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 158.
+(hyperref)                removing `subscript' on input line 166.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 158.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 158.
+(hyperref)                removing `math shift' on input line 166.
 
 
 
 [4]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 175.
+(hyperref)                removing `math shift' on input line 183.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 175.
+(hyperref)                removing `subscript' on input line 183.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 175.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 179.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 179.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 179.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 181.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 181.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 181.
+(hyperref)                removing `math shift' on input line 183.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -987,11 +974,37 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 204.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 195.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 195.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 195.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 197.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 197.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 197.
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 212.
 (C:\Users\jcorvill\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 229.
+
+[5]
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 238.
  (C:\Users\jcorvill\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
@@ -1001,7 +1014,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 
-[5] (main.bbl
+(main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 81--84
 []\T1/ptm/m/n/10 (+20) Global Strat-egy for dengue pre-
  []
@@ -1013,7 +1026,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--84
 
 
 
-
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 160--164
 []\T1/ptm/m/n/10 (+20) Dengue - An-nual Epi-demi-o-log-i-cal Re-port for
  []
@@ -1030,50 +1043,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 160--164
 
 
 
-[6]
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 364--372
+[7]
+Underfull \hbox (badness 5681) in paragraph at lines 431--439
 []\T1/ptm/m/n/10 (+20) Moriyama, M., Hugen-to-bler, W. J. & Iwasaki,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 364--372
+Underfull \hbox (badness 10000) in paragraph at lines 431--439
 \T1/ptm/m/n/10 (+20) A.  Sea-son-al-ity of Res-pi-ra-tory Vi-ral In-fec-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 364--372
+Underfull \hbox (badness 10000) in paragraph at lines 431--439
 \T1/ptm/m/n/10 (+20) tions.  \T1/ptm/m/it/10 (+20) Annu. Rev. Vi-rol. \T1/ptm/b/n/10 (+20) 7\T1/ptm/m/n/10 (+20) , 83--101, DOI:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 383--386
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--453
 []\T1/ptm/m/n/10 (+20) WHO guid-ance for surveil-lance dur-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 383--386
+Underfull \hbox (badness 10000) in paragraph at lines 450--453
 \T1/ptm/m/n/10 (+20) ing an in-fluenza pan-demic, 2017 up-date.
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 414--421
+Underfull \hbox (badness 1259) in paragraph at lines 472--479
 []\T1/ptm/m/n/10 (+20) Muñoz, Á. G., Thom-son, M. C., God-dard, L. &
  []
 
 
 
-[7]
-Underfull \hbox (badness 6284) in paragraph at lines 503--506
+[8]
+Underfull \hbox (badness 6284) in paragraph at lines 561--564
 \T1/ptm/m/n/10 (+20) century cli-mate.  \T1/ptm/m/it/10 (+20) Re-search-Gate \T1/ptm/m/n/10 (+20) DOI: [][]$10 . 1029 /
  []
 
-
-
 )
 
-[8] 
+
+
+[9
+
+] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (main.aux)
  ***********
@@ -1085,20 +1102,20 @@ L3 programming layer <2025-01-18>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E304CAAD027DCFED1FC6DD40EF7BD561;10069.
+(rerunfilecheck)             Checksum: 144557FCFB45ACF5B064F3A8E0CDAD16;10024.
  ) 
 Here is how much of TeX's memory you used:
- 25172 strings out of 473523
- 483280 string characters out of 5713179
- 935335 words of memory out of 5000000
- 47531 multiletter control sequences out of 15000+600000
- 647925 words of font info for 399 fonts, out of 8000000 for 9000
+ 25223 strings out of 473523
+ 484184 string characters out of 5713179
+ 933573 words of memory out of 5000000
+ 47558 multiletter control sequences out of 15000+600000
+ 648868 words of font info for 410 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,11n,115p,1342b,625s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,11n,115p,1360b,625s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (8 pages, 208671 bytes).
+Output written on main.pdf (9 pages, 217416 bytes).
 PDF statistics:
- 472 PDF objects out of 1000 (max. 8388607)
- 111 named destinations out of 1000 (max. 500000)
+ 502 PDF objects out of 1000 (max. 8388607)
+ 119 named destinations out of 1000 (max. 500000)
  104257 words of extra memory for PDF output out of 106986 (max. 10000000)
 

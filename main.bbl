@@ -360,6 +360,73 @@
   \bibinfo{pages}{71--75}, \doiprefix\url{10.1038/nature02708}
   (\bibinfo{year}{2004}).
 
+\bibitem{keating_2023}
+\bibinfo{author}{Keating, C.}
+\newblock \emph{\bibinfo{title}{Tore {{Godal}} and the {{Evolution}} of
+  {{Global Health}}}} (\bibinfo{publisher}{Routledge}, \bibinfo{address}{New
+  York}, \bibinfo{year}{2023}), \bibinfo{edition}{1} edn.
+
+\bibitem{ramirez_2017}
+\bibinfo{author}{Ramirez, B.} \& \bibinfo{author}{{TDR-IDRC Research Initiative
+  on Vector Borne Diseases and Climate Change}}.
+\newblock \bibinfo{journal}{\bibinfo{title}{Support for research towards
+  understanding the population health vulnerabilities to vector-borne diseases:
+  Increasing resilience under climate change conditions in {{Africa}}}}.
+\newblock {\emph{\JournalTitle{Infectious Diseases of Poverty}}}
+  \textbf{\bibinfo{volume}{6}}, \bibinfo{pages}{164},
+  \doiprefix\url{10.1186/s40249-017-0378-z} (\bibinfo{year}{2017}).
+
+\bibitem{munoz_2020b}
+\bibinfo{author}{Mu{\~n}oz, {\'A}.~G.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{{AeDES}}: A next-generation
+  monitoring and forecasting system for environmental suitability of
+  {{Aedes-borne}} disease transmission}}.
+\newblock {\emph{\JournalTitle{Scientific Reports}}}
+  \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{12640},
+  \doiprefix\url{10.1038/s41598-020-69625-4} (\bibinfo{year}{2020}).
+
+\bibitem{guerra_2025}
+\bibinfo{author}{Guerra, J.~C.} \emph{et~al.}
+\newblock \bibinfo{title}{From climate variables to health information -
+  {{Predicting}} and monitoring mosquito-borne disease outbreaks with
+  {{AeDES2}}}.
+\newblock \bibinfo{type}{Tech. Rep.} \bibinfo{number}{EGU25-15204},
+  \bibinfo{institution}{Copernicus Meetings} (\bibinfo{year}{2025}).
+\newblock \doiprefix\url{10.5194/egusphere-egu25-15204}.
+
+\bibitem{leandro_2024}
+\bibinfo{author}{Leandro, A.} \& \bibinfo{author}{{Maciel-de-Freitas}, R.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Development of an {{Integrated
+  Surveillance System}} to {{Improve Preparedness}} for {{Arbovirus Outbreaks}}
+  in a {{Dengue Endemic Setting}}: {{Descriptive Study}}}}.
+\newblock {\emph{\JournalTitle{JMIR Public Health and Surveillance}}}
+  \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{e62759},
+  \doiprefix\url{10.2196/62759} (\bibinfo{year}{2024}).
+
+\bibitem{ropelewski_1985}
+\bibinfo{author}{Ropelewski, C.~F.}, \bibinfo{author}{Janowiak, J.~E.} \&
+  \bibinfo{author}{Halpert, M.~S.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The {{Analysis}} and {{Display}} of
+  {{Real Time Surface Climate Data}}}}.
+\newblock {\emph{\JournalTitle{Monthly Weather Review}}}
+  \textbf{\bibinfo{volume}{113}}, \bibinfo{pages}{1101--1106},
+  \doiprefix\url{10.1175/1520-0493(1985)113<1101:TAADOR>2.0.CO;2}
+  (\bibinfo{year}{1985}).
+
+\bibitem{thomson_2006}
+\bibinfo{author}{Thomson, M.~C.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Malaria early warnings based on
+  seasonal climate forecasts from multi-model ensembles}}.
+\newblock {\emph{\JournalTitle{Nature}}} \textbf{\bibinfo{volume}{439}},
+  \bibinfo{pages}{576--579}, \doiprefix\url{10.1038/nature04503}
+  (\bibinfo{year}{2006}).
+
+\bibitem{cox_2007}
+\bibinfo{journal}{\bibinfo{title}{({{PDF}}) {{Detecting Epidemic Malaria}},
+  {{Uganda}}}}.
+\newblock {\emph{\JournalTitle{ResearchGate}}}
+  \doiprefix\url{10.3201/eid1305.061410}.
+
 \bibitem{moriyama_2020}
 \bibinfo{author}{Moriyama, M.}, \bibinfo{author}{Hugentobler, W.~J.} \&
   \bibinfo{author}{Iwasaki, A.}
@@ -391,15 +458,6 @@
 \newblock {\emph{\JournalTitle{Bulletin of the World Health Organization}}}
   \textbf{\bibinfo{volume}{92}}, \bibinfo{pages}{171--177},
   \doiprefix\url{10.2471/BLT.13.125724} (\bibinfo{year}{2014}).
-
-\bibitem{munoz_2020b}
-\bibinfo{author}{Mu{\~n}oz, {\'A}.~G.} \emph{et~al.}
-\newblock \bibinfo{journal}{\bibinfo{title}{{{AeDES}}: A next-generation
-  monitoring and forecasting system for environmental suitability of
-  {{Aedes-borne}} disease transmission}}.
-\newblock {\emph{\JournalTitle{Scientific Reports}}}
-  \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{12640},
-  \doiprefix\url{10.1038/s41598-020-69625-4} (\bibinfo{year}{2020}).
 
 \bibitem{thomson_2018a}
 \bibinfo{author}{Thomson, M.~C.}, \bibinfo{author}{Mu{\~n}oz, {\'A}.~G.},
