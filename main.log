@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.2)  30 MAY 2025 13:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.2)  12 JUN 2025 16:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1102,18 +1102,18 @@ L3 programming layer <2025-01-18>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 144557FCFB45ACF5B064F3A8E0CDAD16;10024.
+(rerunfilecheck)             Checksum: CCD2C86BBF660AA32AB3CB96207316DA;10067.
  ) 
 Here is how much of TeX's memory you used:
  25223 strings out of 473523
  484184 string characters out of 5713179
- 933573 words of memory out of 5000000
+ 933581 words of memory out of 5000000
  47558 multiletter control sequences out of 15000+600000
  648868 words of font info for 410 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,11n,115p,1360b,625s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (9 pages, 217416 bytes).
+Output written on main.pdf (9 pages, 217469 bytes).
 PDF statistics:
  502 PDF objects out of 1000 (max. 8388607)
  119 named destinations out of 1000 (max. 500000)
