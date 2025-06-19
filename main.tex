@@ -191,7 +191,21 @@ The most relevant results from each of the three analyses are summarized over th
 
 \subsection{Analysis 1: Multi-timescale climate decomposition of $R_0$} \label{sec-results-1}
 
+The resulting timescale decomposition maps for $R_0$ global outputs for the whole time series can be found in Figure \ref{fig:global-timescale-decomposition}, along with the component time series for the city of Iquitos, Peru, known to be a traditional hotspot of \textit{Aedes}-borne diseases. Two subsets of the seasonal variance results, corresponding to the 1961-1990 and 1991-2020 climatologies, can also be found in Figure \ref{fig:global-timescale-decomposition-2}, along with their respective Köppen-Geiger climate classification maps\cite{beck_2023}. The optimal span values of LOESS smoothing for the timescale decomposition methodology in all three periods were found to be 5, 7 and 8 months for the $R^2$, $AIC$ and $GCV$ verification metrics, respectively, with the GCV-associated value being selected out of the three due to the aforementioned reasons explained in Section \ref{sec-methods-1-methodology}. It is worth noting that, because the $R_0$ metric operates in certain temperature ranges, grid points with less than 6 months of data per year were excluded from the analysis, in order to prevent poor seasonal component estimation due to missing entire seasons.
 
+\begin{figure*}[!ht]
+  \centering
+  \includegraphics[width=\textwidth]{timescale_decomposition_combined_ps.png}
+  \caption{\textbf{a)-d)} Global timescale decomposition maps for $R_0$ values for the monthly mean 1951-2024 period, different components. The time series for the city of Iquitos, Peru (blue dot), is shown as an example in \textbf{e)}.}
+  \label{fig:global-timescale-decomposition}
+\end{figure*}
+
+\begin{figure*}[!ht]
+  \centering
+  \includegraphics[width=\textwidth]{timescale_decomposition_climatology_comparison_ps.png}
+  \caption{\textbf{a)-c)} Global timescale decomposition maps for $R_0$ values for the monthly mean 1961-1990 period, different components. Its associated Köppen-Geiger climate classification is shown in \textbf{g)}. \textbf{d)-f)} Global timescale decomposition maps for $R_0$ values for the monthly mean 1991-2020 period, different components. Its associated Köppen-Geiger climate classification is shown in \textbf{h)}.}
+  \label{fig:global-timescale-decomposition-2}
+\end{figure*}
 
 \subsection{Analysis 2: Correlation studies between $R_0$ and climate variability indices} \label{sec-results-2} \label{sec-results-2}
 
