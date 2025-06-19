@@ -109,17 +109,6 @@
   \textbf{\bibinfo{volume}{22}}, \bibinfo{pages}{186--193},
   \doiprefix\url{10.1111/jtm.12192} (\bibinfo{year}{2015}).
 
-\bibitem{lee_2021a}
-\bibinfo{author}{Lee, S.~A.}, \bibinfo{author}{Economou, T.},
-  \bibinfo{author}{Cat{\~a}o, R. d.~C.}, \bibinfo{author}{Barcellos, C.} \&
-  \bibinfo{author}{Lowe, R.}
-\newblock \bibinfo{journal}{\bibinfo{title}{The impact of climate suitability,
-  urbanisation, and connectivity on the expansion of dengue in 21st century
-  {{Brazil}}}}.
-\newblock {\emph{\JournalTitle{PLOS Neglected Tropical Diseases}}}
-  \textbf{\bibinfo{volume}{15}}, \bibinfo{pages}{e0009773},
-  \doiprefix\url{10.1371/journal.pntd.0009773} (\bibinfo{year}{2021}).
-
 \bibitem{struchiner_2015}
 \bibinfo{author}{Struchiner, C.~J.}, \bibinfo{author}{Rockl{\"o}v, J.},
   \bibinfo{author}{{Wilder-Smith}, A.} \& \bibinfo{author}{Massad, E.}
@@ -376,15 +365,6 @@
   \textbf{\bibinfo{volume}{6}}, \bibinfo{pages}{164},
   \doiprefix\url{10.1186/s40249-017-0378-z} (\bibinfo{year}{2017}).
 
-\bibitem{munoz_2020b}
-\bibinfo{author}{Mu{\~n}oz, {\'A}.~G.} \emph{et~al.}
-\newblock \bibinfo{journal}{\bibinfo{title}{{{AeDES}}: A next-generation
-  monitoring and forecasting system for environmental suitability of
-  {{Aedes-borne}} disease transmission}}.
-\newblock {\emph{\JournalTitle{Scientific Reports}}}
-  \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{12640},
-  \doiprefix\url{10.1038/s41598-020-69625-4} (\bibinfo{year}{2020}).
-
 \bibitem{guerra_2025}
 \bibinfo{author}{Guerra, J.~C.} \emph{et~al.}
 \newblock \bibinfo{title}{From climate variables to health information -
@@ -458,15 +438,6 @@
 \newblock {\emph{\JournalTitle{Bulletin of the World Health Organization}}}
   \textbf{\bibinfo{volume}{92}}, \bibinfo{pages}{171--177},
   \doiprefix\url{10.2471/BLT.13.125724} (\bibinfo{year}{2014}).
-
-\bibitem{thomson_2018a}
-\bibinfo{author}{Thomson, M.~C.}, \bibinfo{author}{Mu{\~n}oz, {\'A}.~G.},
-  \bibinfo{author}{Cousin, R.} \& \bibinfo{author}{{Shumake-Guillemot}, J.}
-\newblock \bibinfo{journal}{\bibinfo{title}{Climate drivers of vector-borne
-  diseases in {{Africa}} and their relevance to control programmes}}.
-\newblock {\emph{\JournalTitle{Infectious Diseases of Poverty}}}
-  \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{81},
-  \doiprefix\url{10.1186/s40249-018-0460-1} (\bibinfo{year}{2018}).
 
 \bibitem{munoz_2016}
 \bibinfo{author}{Mu{\~n}oz, {\'A}.~G.}, \bibinfo{author}{Thomson, M.~C.},
@@ -603,5 +574,13 @@
 \newblock {\emph{\JournalTitle{Scientific Data}}}
   \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{724},
   \doiprefix\url{10.1038/s41597-023-02549-6} (\bibinfo{year}{2023}).
+
+\bibitem{triantafyllou_1994}
+\bibinfo{author}{Triantafyllou, G.~N.} \& \bibinfo{author}{Tsonis, A.~A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Assessing the ability of the
+  {{K{\"o}ppen System}} to delineate the general world pattern of climates}}.
+\newblock {\emph{\JournalTitle{Geophysical Research Letters}}}
+  \textbf{\bibinfo{volume}{21}}, \bibinfo{pages}{2809--2812},
+  \doiprefix\url{10.1029/94GL01992} (\bibinfo{year}{1994}).
 
 \end{thebibliography}
