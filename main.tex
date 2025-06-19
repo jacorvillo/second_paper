@@ -124,23 +124,6 @@ In this context, our analysis is then composed of three different studies:
 
 \subsection{Analysis 1: Multi-timescale climate decomposition of $R_0$} \label{sec-methods-1-analysis}
 
-\begin{table*}[t]
-  \centering
-  \begin{tabular}{l|c|l|c}
-    \textbf{Index Name}               & \multicolumn{1}{l|}{\textbf{Abbreviation}} & \textbf{Periodicity}          & \multicolumn{1}{l|}{\textbf{Pattern Type}} \\ \hline
-    Atlantic 3 Index                  & ATL3                                       & Several months to a few years & Oceanic                                    \\
-    Indian Ocean Basin                & IOB                                        & Several months to a few years & Oceanic                                    \\
-    Indian Ocean Dipole               & IOD                                        & Between 2-7 years             & Oceanic                                    \\
-    El Niño 3.4 Index                 & Niño 3.4                                   & Between 2-7 years             & Oceanic                                    \\
-    North Pacific Meridional Mode     & NPMM                                       & Several months to a few years & Atmospheric                                \\
-    South Atlantic Subtropical Dipole & SASD                                       & Several months to a few years & Oceanic                                    \\
-    Southern Indian Ocean Dipole      & SIOD                                       & Several months to a few years & Oceanic                                    \\
-    South Pacific Meridional Mode     & SPMM                                       & Several months to a few years & Atmospheric                                \\
-    Tropical North Atlantic           & TNA                                        & Several months to a few years & Oceanic
-  \end{tabular}%
-  \caption{Summary of the climate variability indices used in the analysis used for the correlation and causality studies.}
-  \label{tab:climate-variability-indices}
-\end{table*}
 With the intent of isolating the signal of man-made climate change from the natural variability $R_0$ data, a timescale decomposition methodology was used to obtain the total variance across different timescales. This approach allows us to separate the complex $R_0$ signal into several temporal components, each providing insight into the underlying climatology of \textit{Aedes}-borne disease transmission. This decomposition is particularly useful for health-officials in historically affected DENV hotspots, where understanding how different climate processes condition disease transmissibility at various temporal scales is essential for the development of effective public health strategies, optimization of resource allocation, or implementation of targeted intervention strategies through the use of early warning systems for disease outbreak prevention\cite{thomson_2018a, munoz_2016}.
 
 \subsubsection{Data} \label{sec-methods-1-data}
@@ -161,6 +144,23 @@ After the variance maps are obtained, $R_0$ values are then detrended for the fo
 
 \subsection{Analysis 2: Correlation studies between $R_0$ and climate variability indices} \label{sec-methods-2}
 
+\begin{table*}[t]
+  \centering
+  \begin{tabular}{l|c|l|c}
+    \textbf{Index Name}               & \multicolumn{1}{l|}{\textbf{Abbreviation}} & \textbf{Periodicity}          & \multicolumn{1}{l|}{\textbf{Pattern Type}} \\ \hline
+    Atlantic 3 Index                  & ATL3                                       & Several months to a few years & Oceanic                                    \\
+    Indian Ocean Basin                & IOB                                        & Several months to a few years & Oceanic                                    \\
+    Indian Ocean Dipole               & IOD                                        & Between 2-7 years             & Oceanic                                    \\
+    El Niño 3.4 Index                 & Niño 3.4                                   & Between 2-7 years             & Oceanic                                    \\
+    North Pacific Meridional Mode     & NPMM                                       & Several months to a few years & Atmospheric                                \\
+    South Atlantic Subtropical Dipole & SASD                                       & Several months to a few years & Oceanic                                    \\
+    Southern Indian Ocean Dipole      & SIOD                                       & Several months to a few years & Oceanic                                    \\
+    South Pacific Meridional Mode     & SPMM                                       & Several months to a few years & Atmospheric                                \\
+    Tropical North Atlantic           & TNA                                        & Several months to a few years & Oceanic
+  \end{tabular}%
+  \caption{Summary of the climate variability indices used in the analysis used for the correlation and causality studies.}
+  \label{tab:climate-variability-indices}
+\end{table*}
 After analyzing the $R_0$ signal and its variability through timescale decomposition, we assess the impact of several climate variability indices on global $R_0$ values over the chosen 1951-2024 monthly-mean period.
 
 \subsubsection{Data} \label{sec-methods-2-data}
@@ -171,6 +171,7 @@ Correlation studies are performed over both global and Panama regions, using the
 \subsubsection{Methodology} \label{sec-methods-2-methodology}
 
 The correlation analysis was performed using the Spearman correlation coefficient, assesses how well an arbitrary monotonic function can describe the relationship between two variables\cite{spearman_1904}. For computation of statistical significance in correlation, the non-parametric Monte Carlo method was used\cite{new_2000}, with a p-value threshold of 0.05.
+
 
 \subsection{Analysis 3: Causality studies between $R_0$ and climate variability indices. Outlining of predictors for disease outbreaks} \label{sec-methods-3}
 
@@ -191,21 +192,41 @@ The most relevant results from each of the three analyses are summarized over th
 
 \subsection{Analysis 1: Multi-timescale climate decomposition of $R_0$} \label{sec-results-1}
 
-The resulting timescale decomposition maps for $R_0$ global outputs for the whole time series can be found in Figure \ref{fig:global-timescale-decomposition}, along with the component time series for the city of Iquitos, Peru, known to be a traditional hotspot of \textit{Aedes}-borne diseases. Two subsets of the seasonal variance results, corresponding to the 1961-1990 and 1991-2020 climatologies, can also be found in Figure \ref{fig:global-timescale-decomposition-2}, along with their respective Köppen-Geiger climate classification maps\cite{beck_2023}. The optimal span values of LOESS smoothing for the timescale decomposition methodology in all three periods were found to be 5, 7 and 8 months for the $R^2$, $AIC$ and $GCV$ verification metrics, respectively, with the GCV-associated value being selected out of the three due to the aforementioned reasons explained in Section \ref{sec-methods-1-methodology}. It is worth noting that, because the $R_0$ metric operates in certain temperature ranges, grid points with less than 6 months of data per year were excluded from the analysis, in order to prevent poor seasonal component estimation due to missing entire seasons.
-
 \begin{figure*}[!ht]
   \centering
   \includegraphics[width=\textwidth]{timescale_decomposition_combined_ps.png}
   \caption{\textbf{a)-d)} Global timescale decomposition maps for $R_0$ values for the monthly mean 1951-2024 period, different components. The time series for the city of Iquitos, Peru (blue dot), is shown as an example in \textbf{e)}.}
   \label{fig:global-timescale-decomposition}
 \end{figure*}
-
 \begin{figure*}[!ht]
   \centering
   \includegraphics[width=\textwidth]{timescale_decomposition_climatology_comparison_ps.png}
   \caption{\textbf{a)-c)} Global timescale decomposition maps for $R_0$ values for the monthly mean 1961-1990 period, different components. Its associated Köppen-Geiger climate classification is shown in \textbf{g)}. \textbf{d)-f)} Global timescale decomposition maps for $R_0$ values for the monthly mean 1991-2020 period, different components. Its associated Köppen-Geiger climate classification is shown in \textbf{h)}.}
   \label{fig:global-timescale-decomposition-2}
 \end{figure*}
+
+The resulting timescale decomposition maps for $R_0$ global outputs for the whole time series can be found in Figure \ref{fig:global-timescale-decomposition}, along with the component time series for the city of Iquitos, Peru, known to be a traditional hotspot of \textit{Aedes}-borne diseases. The optimal span values of LOESS smoothing for the timescale decomposition methodology for this sample period were found to be 5, 7 and 8 months for the $R^2$, $AIC$ and $GCV$ verification metrics respectively, with the GCV-associated value being selected out of the three due to the aforementioned reasons explained in Section \ref{sec-methods-1-methodology}. It is worth noting that, because the $R_0$ metric operates in certain temperature ranges, grid points with less than 6 months of data per year were excluded from the analysis, in order to prevent poor seasonal component estimation due to missing entire seasons.
+\\
+\\
+Over the 74-year period, the long-term trends and residual components of $R_0$ (Figures \ref{fig:global-timescale-decomposition}(a) and \ref{fig:global-timescale-decomposition}(d)) show the highest variance contribution in tropical and subtropical regions, particularly across central Africa, parts of South America including the Amazon basin, and scattered areas in Southeast Asia and northern Australia (the sum of these components rounding between 40-80\%). These trend patterns suggest that long-term climate change, along with interannual climate variability, is driving systematic shifts in $R_0$ in these traditionally endemic regions, reflecting the complex interactions between temperature, humidity, and precipitation influencing vector populations and virus transmission. For these regions, there is no clearly defined transmission season over the year, as the seasonal signal of $R_0$ (Figure \ref{fig:global-timescale-decomposition}(b) and \ref{fig:global-timescale-decomposition}(e)) is rather poor. Instead, the climatology of $R_0$ in these regions, due to the high temperature and humidity values, adopts high $R_0$ values which remain constant throughout the year, independently of the season.
+\\
+\\
+Though the decadal component (Figure \ref{fig:global-timescale-decomposition}(c)) shows a nigh negligible contribution across all regions of the globe, the seasonal variance (<5\%, Figure \ref{fig:global-timescale-decomposition}(b)) shows a markedly different geographical distribution, with the highest contributions (between 60-100\% variance explained) concentrated in regions with pronounced seasonal temperature variations. Notable hotspots include the northern edges of traditional dengue transmission zones in South America, parts of southern Africa, central Asia, and importantly, temperate regions that border current endemic areas. It is in these regions where the seasonal temperature fluctuations strongly condition the transmissibility season of $R_0$, reaching its peak around the summer months.
+\\
+\\
+Indeed, Figure \ref{fig:global-timescale-decomposition}(f) highlights the effect of the seasonal component on the overall $R_0$ dynamics in these strong seasonal regions. While the trend component accounts for a significant portion of the variance, it is the seasonal component that can play a crucial role in defining whether a DENV outbreak can occur ($R_0$ > 1) or not ($R_0$ < 1).
+\\
+\\
+Two subsets of the seasonal variance results, corresponding to the 1961-1990 and 1991-2020 climatologies, can be found in Figure \ref{fig:global-timescale-decomposition-2}, along with their respective Köppen-Geiger climate classification maps\cite{beck_2023}. For these two periods, the GCV-optimal span value of LOESS smoothing is also 8 months, same as for the complete time series.
+\\
+\\
+When examining the variance patterns in relation to the Köppen-Geiger classification, distinct climate zone signatures can become apparent on a first-approximation basis. Tropical climate zones (A-type climates in the Amazon basin, central Africa, and Southeast Asia) demonstrate characteristic patterns where trend and residual variance typically dominates. Alternatively, temperate and humid subtropical zones (C-type climates in southern Brazil, parts of East Asia, and the Mediterranean basin) show a more pronounced seasonal component. At a glance, it may seem that a study on the expansion of A and C type Köppen Geiger climates in the context of climate change may provide a useful framework for predicting the evolution of \textit{Aedes}-borne transmissibility, with each major climate type exhibiting distinct characteristics that condition the $R_0$ signal.
+\\
+\\
+However, this would be a naive approach, since the Köppen-Geiger classification is a static classification system that does not thoroughly reflect the dynamic nature of climate change\cite{triantafyllou_1994}. Indeed, the comparison between the two 30-year periods reveals notable shifts in how climate variability affects $R_0$ across different regions. In the 1961-1990 period, the trend component shows more concentrated high-variance zones, particularly in central Africa and tropical parts of South America. By the later 1991-2020 period, these trend patterns have intensified in some regions while diminishing in others, highlighting that the impacts of systematic climate change on transmission potential, while shown to have become more pronounced over time, are not entirely straightforward.
+\\
+\\
+Given the strong seasonality of $R_0$ in temperate regions through these timescale decomposition analyses, and given the different climate variables that \textit{Aedes}-borne transmissibility seems to relate to besides temperature, it is not unreasonable to expect $R_0$ values to be closely related to seasonal, temperature-driven climate patterns, be it in the form of correlation or causality. The following analyses aim to explore these relationships further, with the climate variability indices previously listed in Table \ref{tab:climate-variability-indices}.
 
 \subsection{Analysis 2: Correlation studies between $R_0$ and climate variability indices} \label{sec-results-2} \label{sec-results-2}
 
