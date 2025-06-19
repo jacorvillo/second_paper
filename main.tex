@@ -1,6 +1,9 @@
 \documentclass[10pt,twocolumn]{wlscirep}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage{tikz}
+\usepackage{xcolor}
+\usetikzlibrary{shapes.misc}
 \newenvironment{Figure}
   {\par\medskip\noindent\minipage{\linewidth}}
   {\endminipage\par\medskip}
@@ -110,13 +113,14 @@ In recent years, at least three main mechanisms have been discussed to explain t
 \\
 \\
 However, while $R_0$ entangles vector, human, and climate behaviour, by only integrating the climate component of the disease transmission for the computation of $R_0$, then the resulting $R_0$ metric is more so interpreted as the role of environmental conditions in the spread of the disease. Thus, this definition of $R_0$, which we can understand as the diseases' environmental suitability, can be understood as a first approximation of the role of the climate in the dynamics of vector-borne diseases. This tweaked definition of $R_0$ is one of the operational outbreak indices used by WHO, along with several other decision-making institutes and health practitioners in disease control and prevention\cite{OMS_2017, chiew_2014}.
-\\
-\\
-In this context, our analysis is then composed of three different studies under this definition of $R_0$:
+
 
 \subsection{The \textit{Aedes} Disease Environmental Suitability 2's monitoring system} \label{sec-methods-aedes2}
 
 The \textit{\underline{Ae}des} \underline{D}isease \underline{E}nvironmental \underline{S}uitability 2's (AeDES2) monitoring system\cite{guerra_2025} was used throughout this study in order to obtain the $R_0$ values for the analysis. Improving over its predecessor\cite{munoz_2020b}, AeDES2 is a climate-and-health service that provides real-time monitoring of the environmental suitability for \textit{Aedes}-borne diseases. The system uses a climate variables like temperature and precipitation, and through its integration with ento-epidemiological models, as well as with calibration with recorded DENV cases, $R_0$ values are computed for different regions and seasons. The monitoring system is designed to be used by public health officials and researchers to assess the risk of disease outbreaks and to inform prevention and control strategies.
+\\
+\\
+In this context, our analysis is then composed of three different studies:
 
 \subsection{Analysis 1: Multi-timescale climate decomposition of $R_0$} \label{sec-methods-1-analysis}
 
