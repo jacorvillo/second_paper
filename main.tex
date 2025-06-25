@@ -33,10 +33,10 @@
 \textbf{Methods}: Using data from a number of sources, we explore and analyse the response of \textit{Aedes}-borne disease transmission to climate patterns, in order to understand its influence on disease outbreaks. Our analysis is composed of three different studies: 1) a timescale decomposition of disease transmissibility values, thereby guiding officials to understand the behaviour of outbreaks for budget and resource allocation; 2) a correlation analysis between transmissibility values and different climate patterns, such as El Niño Southern Oscillation, in order to understand the effects of natural climate patterns onto \textit{Aedes}-borne outbreaks; and 3) a causality analysis to solidify findings obtained through correlation, identifying the most relevant predictors and their applicability in a climate-and-health service framework for forecasting the transmissibility of \textit{Aedes}-borne diseases.
 \\
 \\
-\textbf{Results}: 
+\textbf{Results}: (Fill up after 1st draft is done)
 \\
 \\
-\textbf{Conclusions}: 
+\textbf{Conclusions}: (Fill up after 1st draft is done)
 \\
 \\
 \textbf{Keywords}: Public Health, Vector-borne Diseases, Epidemiology, Climate Change, Climate Services, Environmental Sciences
@@ -92,7 +92,7 @@ As such, climate patterns may serve as aggregators of both large and small clima
 
 \subsection{The applicability of climate services in vector-borne disease prevention} \label{sec-climate-services}
 
-Given the worldwide impacts of DENV, ZIKV and CHIKV and their expected potential to spread to unprepared regions, the need for effective \textit{Aedes}-borne disease control is more pressing than ever. To this end, many climate-and-health initiatives have been developed in recent years, with the aim of providing actionable information to public health officials and decision-makers, such as the Tropical Disease Research initiative from the World Health Organization's (WHO)\cite{keating_2023, ramirez_2017}, as well as its Global Strategic Preparedness, Readiness and Response Plan, with \$55 million in funding from different stakeholders and public officials. Other examples include the mapping of environmental suitability for DENV, ZIKV and CHIKV\cite{munoz_2020b, guerra_2025}, or the development of integrated surveillance systems for \textit{Aedes} arboviruses\cite{leandro_2024}.
+Given the worldwide impacts of DENV, ZIKV and CHIKV and their expected potential to spread to unprepared regions, the need for effective \textit{Aedes}-borne disease control is more pressing than ever. To this end, many climate-and-health initiatives have been developed in recent years, with the aim of providing actionable information to public health officials and decision-makers, such as the Tropical Disease Research initiative from the World Health Organization's (WHO)\cite{keating_2023, ramirez_2017}, as well as its Global Strategic Preparedness, Readiness and Response Plan, with \$55 million in funding from different stakeholders and public officials. Other examples include the mapping of environmental suitability for DENV, ZIKV and CHIKV\cite{munoz_2020a, guerra_2025}, or the development of integrated surveillance systems for \textit{Aedes} arboviruses\cite{leandro_2024}.
 \\
 \\
 The development of early warning systems (EWS) for \textit{Aedes} vectors are also another area of focus in which climate information may translate to more actionable health information\cite{ropelewski_1985}. While disease EWS can be based on clinical and empidemiological data alone, the integration of climate information at different timescales (subseasonal, seasonal, inter-annual, decadal) can improve the accuracy and skill of these systems while simultaneously extend the window over which changes in transmissibility can be detected\cite{thomson_2006, cox_2007}.
@@ -117,33 +117,6 @@ However, while $R_0$ entangles vector, human, and climate behaviour, by only int
 
 \subsection{The \textit{Aedes} Disease Environmental Suitability 2's monitoring system} \label{sec-methods-aedes2}
 
-The \textit{\underline{Ae}des} \underline{D}isease \underline{E}nvironmental \underline{S}uitability 2's (AeDES2) monitoring system\cite{guerra_2025} was used throughout this study in order to obtain the $R_0$ values for the analysis. Improving over its predecessor\cite{munoz_2020b}, AeDES2 is a climate-and-health service that provides real-time monitoring of the environmental suitability for \textit{Aedes}-borne diseases. The system uses a climate variables like temperature and precipitation, and through its integration with ento-epidemiological models, as well as with calibration with recorded DENV cases, $R_0$ values are computed for different regions and seasons. The monitoring system is designed to be used by public health officials and researchers to assess the risk of disease outbreaks and to inform prevention and control strategies.
-\\
-\\
-In this context, our analysis is then composed of three different studies:
-
-\subsection{Analysis 1: Multi-timescale climate decomposition of $R_0$} \label{sec-methods-1-analysis}
-
-With the intent of isolating the signal of man-made climate change from the natural variability $R_0$ data, a timescale decomposition methodology was used to obtain the total variance across different timescales. This approach allows us to separate the complex $R_0$ signal into several temporal components, each providing insight into the underlying climatology of \textit{Aedes}-borne disease transmission. This decomposition is particularly useful for health-officials in historically affected DENV hotspots, where understanding how different climate processes condition disease transmissibility at various temporal scales is essential for the development of effective public health strategies, optimization of resource allocation, or implementation of targeted intervention strategies through the use of early warning systems for disease outbreak prevention\cite{thomson_2018a, munoz_2016}.
-
-\subsubsection{Data} \label{sec-methods-1-data}
-The timescale decomposition analysis was undertaken using $R_0$ outputs from the AeDES2's monitoring system. The 1951-2024 monthly-mean period of AeDES2's $R_0$ values was selected for the analysis, for a total of 888 months or 295 full seasons. Considering that vector borne diseases are extending to previously unaffected areas due to the effects of man-made climate change, AeDES2's coverage has been increased since its inception to contain global outputs, allowing for a comprehensive analysis of the relationship between climate variability indices and $R_0$ both in current \textit{Aedes} hotspots and emerging regions.
-
-\subsubsection{Methodology} \label{sec-methods-1-methodology}
-
-As $R_0$ doesn't follow a clearly defined probability distribution function, the temporal analysis filters a given $R_0$ time-series of any given grid-point by employing the non-parametric \underline{lo}cally \underline{e}stimated \underline{s}catterplot \underline{s}moothing technique (LOESS)\cite{jacoby_2000}. Sensitivity tests have been conducted in order to obtain the best LOESS smoothing parameter for the analysis, using three verification metrics for the goodness of fit of the model: the highest R squared value\cite{healy_1984} ($R^2$), the lowest Akaike Information Criterion ($AIC$) value\cite{akaike_1998}, or the lowest Generalized Correlated Cross-Validation ($GCV$) value\cite{craven_1978}. Whenever these metrics yield conflicting results, the GCV value is prioritized as the primary selection criterion. Unlike $R^2$, which can artificially inflate with increased model complexity, or $AIC$, which relies on asymptotic assumptions that may not hold for finite samples, GCV provides a more robust assessment of model generalizability by directly penalizing overfitting through its leave-one-out validation procedure\cite{marcotte_1995}.
-\\
-\\
-Once the ideal LOESS smoothing parameter is found for the $R_0$ data, the $R_0$ time-series for each grid-point is separated into four components: a long-term trend signal (understood to be the trend caused by anthropogenic climate change), an inter-annual signal (year to year), a decadal signal (10-30 years), and lastly, a remainder signal which contains other signals of the data (i.e., inter-annual and inter-decadal variability, among others). Variance maps for each of these four components capture the overall direction of the data over time, as well as the climatological variability of $R_0$ in any given grid-point.
-\\
-\\
-Variance maps, as well as any results from following analyses, are shown for both global outputs and the Panama region. The Panama region is selected as a case study for the analysis, as it is known to be a present hotspot for \textit{Aedes}-borne diseases, with a long history of DENV outbreaks and a complex interplay of climatic factors that influence disease transmission\cite{miller_2015}.
-\\
-\\
-After the variance maps are obtained, $R_0$ values are then detrended for the following correlation and causality analyses. While detrending through the assumption that $R_0$ changes linearly over time could be a valid approach, it fails to capture the temperature dependency of the data. In order to account for this intrinsic relationship of $R_0$ with temperature, a similar timescale decomposition analysis is performed on the detrended $R_0$ data, but using temperature data from the AeDES2's monitoring system datasets as the independent variable (monthly-mean temperature data consisting of the GHCN-CAMS project\cite{fan_2008}, the CPC Unified Global Temperature dataset\cite{xie_2007}, and the ERA5 and the ERA5Land reanalysis datasets\cite{chen_2008}). In this way, the obtained trend serves as a functional relationship between temperature and $R_0$: a temperature-based description of the $R_0$ signal, attributed to the warming of the planet\cite{greene_2011}.
-
-\subsection{Analysis 2: Correlation studies between $R_0$ and climate variability indices} \label{sec-methods-2}
-
 \begin{table*}[t]
   \centering
   \begin{tabular}{l|c|l|c}
@@ -161,11 +134,35 @@ After the variance maps are obtained, $R_0$ values are then detrended for the fo
   \caption{Summary of the climate variability indices used in the analysis used for the correlation and causality studies.}
   \label{tab:climate-variability-indices}
 \end{table*}
+
+The \textit{\underline{Ae}des} \underline{D}isease \underline{E}nvironmental \underline{S}uitability 2's (AeDES2) monitoring system\cite{guerra_2025} was used throughout this study in order to obtain the $R_0$ values for the analysis. Improving over its predecessor\cite{munoz_2020a}, AeDES2 is a climate-and-health service that provides real-time monitoring of the environmental suitability for \textit{Aedes}-borne diseases. The system uses a climate variables like temperature and precipitation, and through its integration with ento-epidemiological models, as well as with calibration with recorded DENV cases, $R_0$ values are computed for different regions and seasons. The monitoring system is designed to be used by public health officials and researchers to assess the risk of disease outbreaks and to inform prevention and control strategies.
+\\
+\\
+In this context, our analysis is then composed of three different studies:
+
+\subsection{Analysis 1: Multi-timescale climate decomposition of $R_0$} \label{sec-methods-1-analysis}
+
+With the intent of isolating the signal of man-made climate change from the natural variability $R_0$ data, a timescale decomposition methodology was used to obtain the total variance across different timescales. This approach allows us to separate the complex $R_0$ signal into several temporal components, each providing insight into the underlying climatology of \textit{Aedes}-borne disease transmission. This decomposition is particularly useful for health-officials in historically affected DENV hotspots, where understanding how different climate processes condition disease transmissibility at various temporal scales is essential for the development of effective public health strategies, optimization of resource allocation, or implementation of targeted intervention strategies through the use of early warning systems for disease outbreak prevention\cite{thomson_2018a, munoz_2016}.
+
+\subsubsection{Data} \label{sec-methods-1-data}
+The timescale decomposition analysis was undertaken using $R_0$ outputs from the AeDES2's monitoring system. The 1951-2024 monthly-mean period of AeDES2's $R_0$ values was selected for the analysis, for a total of 888 months or 295 full seasons. Considering that vector borne diseases are extending to previously unaffected areas due to the effects of man-made climate change, AeDES2's coverage has been increased since its inception to contain global outputs, allowing for a comprehensive analysis of the relationship between climate variability indices and $R_0$ both in current \textit{Aedes} hotspots and emerging regions.
+
+\subsubsection{Methodology} \label{sec-methods-1-methodology}
+
+As $R_0$ doesn't follow a clearly defined probability distribution function, the temporal analysis filters a given $R_0$ time-series of any given grid-point by employing the non-parametric \underline{lo}cally \underline{e}stimated \underline{s}catterplot \underline{s}moothing technique (LOESS)\cite{jacoby_2000}. Sensitivity tests have been conducted in order to obtain the best LOESS smoothing parameter for the analysis, selecting the value that provides the lowest Generalized Correlated Cross-Validation ($GCV$) verification metric for the goodness of fit of the model\cite{craven_1978}. GCV provides a robust assessment of model generalizability by directly penalizing overfitting through its leave-one-out validation procedure\cite{marcotte_1995}.
+\\
+\\
+Once the ideal LOESS smoothing parameter is found for the $R_0$ data, the $R_0$ time-series for each grid-point is separated into four components: a long-term trend signal (understood to be the trend caused by anthropogenic climate change), an inter-annual signal (year to year), a decadal signal (10-30 years), and lastly, a remainder signal which contains other signals of the data (i.e., inter-annual and inter-decadal variability, among others). Variance maps for each of these four components capture the overall direction of the data over time, as well as the climatological variability of $R_0$ in any given grid-point. Variance maps, as well as any results from following analyses, are shown for global outputs.
+\\
+\\
+After the variance maps are obtained, $R_0$ values are then detrended for the following correlation and causality analyses. While detrending through the assumption that $R_0$ changes linearly over time could be a valid approach, it fails to capture the temperature dependency of the data. In order to account for this intrinsic relationship of $R_0$ with temperature, a similar timescale decomposition analysis is performed on the detrended $R_0$ data, but using temperature data from the AeDES2's monitoring system datasets as the independent variable (monthly-mean temperature data consisting of the GHCN-CAMS project\cite{fan_2008}, the CPC Unified Global Temperature dataset\cite{xie_2007}, and the ERA5 and the ERA5Land reanalysis datasets\cite{chen_2008}). In this way, the obtained trend serves as a functional relationship between temperature and $R_0$: a temperature-based description of the $R_0$ signal, attributed to the warming of the planet\cite{greene_2011}.
+
+\subsection{Analysis 2: Correlation studies between $R_0$ and climate variability indices} \label{sec-methods-2}
 After analyzing the $R_0$ signal and its variability through timescale decomposition, we assess the impact of several climate variability indices on global $R_0$ values over the chosen 1951-2024 monthly-mean period.
 
 \subsubsection{Data} \label{sec-methods-2-data}
 
-Correlation studies are performed over both global and Panama regions, using the temperature-based detrended $R_0$ data as in the previous analysis over the different seasons. A total of 9 temperature-based climate variability indices have been used for the correlation analysis, which have been computed using the detrended temperature data utilized in the previous analysis. Their periodicity, as well as their main pattern type, are listed and summarized in Table \ref{tab:climate-variability-indices}.
+Correlation studies are performed over global outputs, using the temperature-based detrended $R_0$ data as in the previous analysis over the different seasons. A total of 9 temperature-based climate variability indices have been used for the correlation analysis, which have been computed using the detrended temperature data utilized in the previous analysis. Their periodicity, as well as their main pattern type, are listed and summarized in Table \ref{tab:climate-variability-indices}.
 
 
 \subsubsection{Methodology} \label{sec-methods-2-methodology}
@@ -175,7 +172,7 @@ The correlation analysis was performed using the Spearman correlation coefficien
 
 \subsection{Analysis 3: Causality studies between $R_0$ and climate variability indices. Outlining of predictors for disease outbreaks} \label{sec-methods-3}
 
-Causal-based patterns can be identified after this analysis, which allow for a more robust foundation for the understanding of the underlying mechanisms between climate variability and $R_0$ patterns. These causality studies are performed over both global and Panama regions and over the different seasons. Along with results obtained through correlation, this causality analysis can be used to outline the most relevant predictors for disease outbreaks. These predictors, in turn, can be used for the refining and building of AeDES2's prediction system for improving the accuracy and skill of the ensemble forecasts compared to its predecessor.
+Causal-based patterns can be identified after this analysis, which allow for a more robust foundation for the understanding of the underlying mechanisms between climate variability and $R_0$ patterns. These causality studies are performed over global outputs and over the different seasons. Along with results obtained through correlation, this causality analysis can be used to outline the most relevant predictors for disease outbreaks. These predictors, in turn, can be used for the refining and building of AeDES2's prediction system for improving the accuracy and skill of the ensemble forecasts compared to its predecessor.
 
 \subsubsection{Data} \label{sec-methods-3-data}
 
@@ -205,7 +202,7 @@ The most relevant results from each of the three analyses are summarized over th
   \label{fig:global-timescale-decomposition-2}
 \end{figure*}
 
-The resulting timescale decomposition maps for $R_0$ global outputs for the whole time series can be found in Figure \ref{fig:global-timescale-decomposition}, along with the component time series for the cities of Iquitos, Peru, known to be a traditional hotspot of \textit{Aedes}-borne diseases, and Santa Fe, Argentina. The optimal span values of LOESS smoothing for the timescale decomposition methodology for this sample period were found to be 5, 7 and 8 months for the $R^2$, $AIC$ and $GCV$ verification metrics respectively, with the GCV-associated value being selected out of the three due to the aforementioned reasons explained in Section \ref{sec-methods-1-methodology}. It is worth noting that, because the $R_0$ metric operates in certain temperature ranges, grid points with less than 6 months of data per year were excluded from the analysis, in order to prevent poor seasonal component estimation due to missing entire seasons.
+The resulting timescale decomposition maps for $R_0$ global outputs for the whole time series can be found in Figure \ref{fig:global-timescale-decomposition}, along with the component time series for the cities of Iquitos, Peru, known to be a traditional hotspot of \textit{Aedes}-borne diseases, and Santa Fe, Argentina. The optimal span values of LOESS smoothing for the timescale decomposition methodology for this sample period was found to be 8 months for the $GCV$ verification metric. It is worth noting that, because the $R_0$ metric operates in certain temperature ranges, grid points with less than 6 months of data per year were excluded from the analysis, in order to prevent poor seasonal component estimation due to missing entire seasons.
 \\
 \\
 Over the 74-year period, the long-term trends and residual components of $R_0$ (Figures \ref{fig:global-timescale-decomposition}a and \ref{fig:global-timescale-decomposition}d) show the highest variance contribution in tropical and subtropical regions, particularly across central Africa, parts of South America including the Amazon basin, and scattered areas in Southeast Asia and northern Australia (the sum of these components rounding between 40-80\%). These trend patterns suggest that long-term climate change, along with interannual climate variability, is driving systematic shifts in $R_0$ in these traditionally endemic regions, reflecting the complex interactions between temperature, humidity, and precipitation influencing vector populations and virus transmission. For these regions, there is no clearly defined transmission season over the year, as the seasonal signal of $R_0$ (Figure \ref{fig:global-timescale-decomposition}b and \ref{fig:global-timescale-decomposition}e) is rather poor. Instead, the climatology of $R_0$ in these regions, due to the high temperature and humidity values, adopts high $R_0$ values which remain constant throughout the year, independently of the season.
@@ -236,7 +233,7 @@ Given the strong seasonality of $R_0$ in temperate regions through these timesca
 
 \subsection{Analysis 2: Correlation studies between $R_0$ and climate variability indices} \label{sec-results-2} \label{sec-results-2}
 
-Correlation outputs between $R_0$ and the El Niño 3.4 index for all seasons of the time series are shown in Figure \ref{fig:global-correlation-niño-34}. The same study has been reproduced for all other climate variability indices, which can be found in the supplementary material.
+Spearman correlation outputs between $R_0$ and the El Niño 3.4 index for all seasons of the time series are shown in Figure \ref{fig:global-correlation-niño-34}. The same study has been reproduced for all other climate variability indices, and its respective results can be found in the supplementary material.
 \\
 \begin{figure*}[!ht]
   \centering
@@ -252,25 +249,9 @@ Correlation outputs between $R_0$ and the El Niño 3.4 index for all seasons of 
   \label{fig:barplots-correlation}
 \end{figure*}
 
-The most consistent positive correlations across seasons appear in the Amazon basin and northeastern South America, tropical A-type climate regions in the Köppen Geiger classification that correspond to areas of high trend and residual variance in the previous timescale analyses of section \ref{sec-results-1}. The austral summer and autumn seasons (figures \ref{fig:global-correlation-niño-34}a and \ref{fig:global-correlation-niño-34}b) show the highest positive correlation values in those regions, with Africa exhibiting more heterogeneous patterns with both positive and negative correlation zones in the austral autumn. It is during these months that we also observe notable emergence of negative correlations in parts of Southeast Asia, along with the appearance of positive correlations in some temperate transition areas as well.
-\\
-\\
-Over the austral winter (Figure \ref{fig:global-correlation-niño-34}c), the correlation patterns shift overall in the Southern Hemisphere. Fewer regions, with Africa in particular, show predominantly weaker correlation values. Negative correlations additionally emerge over the Sahel region, India and the East Coast of the United States. The austral spring (Figure \ref{fig:global-correlation-niño-34}d) demonstrates a return to stronger correlation patterns, particularly in South America where positive correlations re-intensify across the Amazon and southern Brazil regions.
-\\
-\\
-An aggregate of the maximum statistically significant correlation values between $R_0$ and all climate variability indices, as well as the index that gives the maximum correlation value, is shown in Figure \ref{fig:global-correlation-final}. The left column shows the maximum correlation values for each index, while the right column shows which index gives the maximum correlation value for each grid point. The percentage of grid points over which each index gives the highest statistically significant correlation values is shown in Figure \ref{fig:barplots-correlation}. It is worth noting that, since the difference between correlation values can often be small, the second and third highest correlation values are also shown in the figure, in order to provide a more complete picture of the relative importance of each index.
-\\
-\\
-Multiple indices compete for dominance across different regions and seasons, with no single index controlling more than approximately 25\% of grid points as the primary correlate.
-
-\subsection{Analysis 3: Causality studies between $R_0$ and climate variability indices. Outlining of predictors for disease outbreaks} \label{sec-results-3}
-
-Analogues of figures \ref{fig:global-correlation-final} and \ref{fig:barplots-correlation} for section \ref{sec-results-3} are shown in Figures \ref{fig:global-causality-final} and \ref{fig:panama-causality-barplots} for the Liang-Kleeman causality analysis. The causality analysis is performed over the same 1951-2024 monthly mean period, with the same climate variability indices of Table \ref{tab:climate-variability-indices}.
-
-
 \begin{figure*}[!ht]
   \centering
-  \includegraphics[width=\textwidth]{causality_final_global_ps.png}
+  \includegraphics[width=0.9\textwidth]{causality_final_global_ps.png}
   \caption{\textbf{a)-d)} For all seasons: Left, maximum statistically significant causality values between $R_0$ and all indexes of Table \ref{tab:climate-variability-indices}, for the 1951-2024 monthly mean period. Right, which index gives the maximum statistically significant causality values. }
   \label{fig:global-causality-final}
 \end{figure*}
@@ -279,8 +260,29 @@ Analogues of figures \ref{fig:global-correlation-final} and \ref{fig:barplots-co
   \centering
   \includegraphics[width=0.75\textwidth]{causality_barplots.png}
   \caption{\textbf{a)-d)} For all seasons: Percentage of grid points over which each index gives the highest, second or third highest statistically significant causality values. Any contribution above 10\% is labeled in the barplots.}
-  \label{fig:panama-causality-barplots}
+  \label{fig:causality-barplots}
 \end{figure*}
+\noindent The most consistent positive correlations across seasons appear in the Amazon basin and northeastern South America, tropical A-type climate regions in the Köppen Geiger classification that correspond to areas of high trend and residual variance in the previous timescale analyses of section \ref{sec-results-1}. The austral summer and autumn seasons (figures \ref{fig:global-correlation-niño-34}a and \ref{fig:global-correlation-niño-34}b) show the highest positive correlation values in those regions, with Africa exhibiting more heterogeneous patterns with both positive and negative correlation zones in the austral autumn. It is during these months that we also observe notable emergence of negative correlations in parts of Southeast Asia, along with the appearance of positive correlations in some temperate transition areas as well.
+\\
+\\
+Over the austral winter (Figure \ref{fig:global-correlation-niño-34}c), the correlation patterns shift overall in the Southern Hemisphere. Fewer regions, with Africa in particular, show predominantly weaker correlation values. Negative correlations additionally emerge over the Sahel region, India and the East Coast of the United States. The austral spring (Figure \ref{fig:global-correlation-niño-34}d) demonstrates a return to stronger correlation patterns, particularly in South America where positive correlations re-intensify across the Amazon and southern Brazil regions.
+\\
+\\
+An aggregate of the maximum statistically significant correlation values between $R_0$ and all climate variability indices, as well as the index that gives the maximum correlation value, is shown in Figure \ref{fig:global-correlation-final}. The left column shows the maximum correlation values for each index, while the right column shows which index gives the maximum correlation value for each grid point. The percentage of grid points over which each index gives the highest statistically significant correlation values is shown in Figure \ref{fig:barplots-correlation}. It is worth noting that, since the difference between correlation values can often be small, the second and third highest correlation values are also shown in the figure, in order to provide a more complete picture of the relative importance of each index.
+\\
+\\
+Over the austral summer and autumn months (Figure \ref{fig:global-correlation-final}a-b) the El Niño 3.4 index is the most dominant index in the regions previously highlighted in Figure \ref{fig:global-correlation-niño-34}a-b. However, as the El Niño 3.4 correlation with $R_0$ weakens during the austral winter and spring months over its zones of influence (Figure \ref{fig:global-correlation-niño-34}c-d), other climate indices are vying for dominance in its stead (Figure \ref{fig:global-correlation-final}c-d, right). This behavior is also replicated in the regions of more seasonal $R_0$ variance described in section \ref{sec-results-1}, where the spread of the indices over which maximum correlation is attributed to becomes more heterogeneous (Figure \ref{fig:global-correlation-final}a-d, right). Notable areas include the Sahel region, Mediterranean basin, parts of southern Africa, Australia, the East Coast of the United States and southeastern Asia, where different indices dominate the correlation landscape depending on the season.
+\\
+\\
+With this, it is soon evident that multiple seasonal temperature-based climate indices compete for dominance across different regions and seasons, with no single index controlling more than 25\% of grid points as the primary correlate, in accordance to Figure \ref{fig:barplots-correlation}. Still, other notable indices include the IOB index, contributing more than 10\% of grid points in nearly all categories and being prevalent in India during the austral winter and spring months. These findings and results for both El Niño and IOB are consistent with previous studies that have highlighted the importance of both climate patterns in influencing climate variability and its potential impact on \textit{Aedes}-borne disease transmission\cite{chen_2024,kurnianingsih_2020, banu_2015}.
+\\
+\\
+Despite their respective contributions however, the spread of all nine indices is relatively even, with no single index clearly dictating whether $R_0$ is directly tied to one specific climate pattern, reflecting the multifaceted nature of climate variability influence on \textit{Aedes}-borne disease transmission.
+
+\subsection{Analysis 3: Causality studies between $R_0$ and climate variability indices. Outlining of predictors for disease outbreaks} \label{sec-results-3}
+
+Analogues of figures \ref{fig:global-correlation-final} and \ref{fig:barplots-correlation} for section \ref{sec-results-3} are shown in Figures \ref{fig:global-causality-final} and \ref{fig:causality-barplots} for the Liang-Kleeman causality analysis. The causality analysis is performed over the same 1951-2024 monthly mean period, with the same climate variability indices of Table \ref{tab:climate-variability-indices}.
+
 \section{Discussion} \label{sec-discussion}
 
 \subsection{The added value of climate patterns in seasonal forecasting of \textit{Aedes}-borne diseases} \label{sec-discussion-added-value}
