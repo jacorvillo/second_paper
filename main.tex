@@ -214,7 +214,13 @@ Over the 74-year period, the long-term trends and residual components of $R_0$ (
 Though the decadal component (Figure \ref{fig:global-timescale-decomposition}c) shows a nigh negligible contribution across all regions of the globe, the seasonal variance (<5\%, Figure \ref{fig:global-timescale-decomposition}b) shows a markedly different geographical distribution, with the highest contributions (between 60-100\% variance explained) concentrated in regions with pronounced seasonal temperature variations. Notable hotspots include the northern edges of traditional dengue transmission zones in South America, parts of southern Africa, central Asia, and importantly, temperate regions that border current endemic areas. It is in these regions where the seasonal temperature fluctuations strongly condition the transmissibility season of $R_0$, reaching its peak around the summer months.
 \\
 \\
-Indeed, Figure \ref{fig:global-timescale-decomposition}(f) highlights the effect of the seasonal component on the overall $R_0$ dynamics in these strong seasonal regions. While the trend component accounts for a significant portion of the variance, it is the seasonal component that can play a crucial role in defining whether a DENV outbreak can occur ($R_0$ > 1) or not ($R_0$ < 1).
+Indeed, Figure \ref{fig:global-timescale-decomposition}f highlights the effect of the seasonal component on the overall $R_0$ dynamics in these strong seasonal regions. While the trend component accounts for a significant portion of the variance, it is the seasonal component that can play a crucial role in defining whether a DENV outbreak can occur ($R_0$ > 1) or not ($R_0$ < 1).
+\begin{figure*}[!ht]
+  \centering
+  \includegraphics[width=\textwidth]{correlation_seasonal_global_niño_34_ps.png}
+  \caption{\textbf{a)-d)} Correlation values between $R_0$ and the Niño 3.4 index, for the 1951-2024 monthly mean period in all seasons. Dots represent statistically significant correlation values, at $p < 0.01$.}
+  \label{fig:global-correlation-niño-34}
+\end{figure*}
 \\
 \\
 Two subsets of the seasonal variance results, corresponding to the 1961-1990 and 1991-2020 climatologies, can be found in Figure \ref{fig:global-timescale-decomposition-2}, along with their respective Köppen-Geiger climate classification maps\cite{beck_2023}. For these two periods, the GCV-optimal span value of LOESS smoothing is also 8 months, same as for the complete time series.
@@ -230,13 +236,8 @@ Given the strong seasonality of $R_0$ in temperate regions through these timesca
 
 \subsection{Analysis 2: Correlation studies between $R_0$ and climate variability indices} \label{sec-results-2} \label{sec-results-2}
 
-\begin{figure*}[!ht]
-  \centering
-  \includegraphics[width=\textwidth]{correlation_seasonal_global_niño_34_ps.png}
-  \caption{\textbf{a)-d)} Correlation values between $R_0$ and the Niño 3.4 index, for the 1951-2024 monthly mean period in all seasons. Dots represent statistically significant correlation values, at $p < 0.01$.}
-  \label{fig:global-correlation-niño-34}
-\end{figure*}
-
+Correlation outputs between $R_0$ and the El Niño 3.4 index for all seasons of the time series are shown in Figure \ref{fig:global-correlation-niño-34}. The same study has been reproduced for all other climate variability indices, which can be found in the supplementary material.
+\\
 \begin{figure*}[!ht]
   \centering
   \includegraphics[width=0.9\textwidth]{correlation_final_global_ps.png}
@@ -247,9 +248,25 @@ Given the strong seasonality of $R_0$ in temperate regions through these timesca
 \begin{figure*}[!ht]
   \centering
   \includegraphics[width=0.75\textwidth]{correlation_barplots.png}
-  \caption{\textbf{a)-d)} For all seasons: Percentage of grid points over which each index gives the highest, second or third highest statistically significant causality values.}
-  \label{fig:panama-correlation-niño-34}
+  \caption{\textbf{a)-d)} For all seasons: Percentage of grid points over which each index gives the highest, second or third highest statistically significant correlation values. Any contribution above 10\% is labeled in the barplots.}
+  \label{fig:barplots-correlation}
 \end{figure*}
+
+The most consistent positive correlations across seasons appear in the Amazon basin and northeastern South America, tropical A-type climate regions in the Köppen Geiger classification that correspond to areas of high trend and residual variance in the previous timescale analyses of section \ref{sec-results-1}. The austral summer and autumn seasons (figures \ref{fig:global-correlation-niño-34}a and \ref{fig:global-correlation-niño-34}b) show the highest positive correlation values in those regions, with Africa exhibiting more heterogeneous patterns with both positive and negative correlation zones in the austral autumn. It is during these months that we also observe notable emergence of negative correlations in parts of Southeast Asia, along with the appearance of positive correlations in some temperate transition areas as well.
+\\
+\\
+Over the austral winter (Figure \ref{fig:global-correlation-niño-34}c), the correlation patterns shift overall in the Southern Hemisphere. Fewer regions, with Africa in particular, show predominantly weaker correlation values. Negative correlations additionally emerge over the Sahel region, India and the East Coast of the United States. The austral spring (Figure \ref{fig:global-correlation-niño-34}d) demonstrates a return to stronger correlation patterns, particularly in South America where positive correlations re-intensify across the Amazon and southern Brazil regions.
+\\
+\\
+An aggregate of the maximum statistically significant correlation values between $R_0$ and all climate variability indices, as well as the index that gives the maximum correlation value, is shown in Figure \ref{fig:global-correlation-final}. The left column shows the maximum correlation values for each index, while the right column shows which index gives the maximum correlation value for each grid point. The percentage of grid points over which each index gives the highest statistically significant correlation values is shown in Figure \ref{fig:barplots-correlation}. It is worth noting that, since the difference between correlation values can often be small, the second and third highest correlation values are also shown in the figure, in order to provide a more complete picture of the relative importance of each index.
+\\
+\\
+Multiple indices compete for dominance across different regions and seasons, with no single index controlling more than approximately 25\% of grid points as the primary correlate.
+
+\subsection{Analysis 3: Causality studies between $R_0$ and climate variability indices. Outlining of predictors for disease outbreaks} \label{sec-results-3}
+
+Analogues of figures \ref{fig:global-correlation-final} and \ref{fig:barplots-correlation} for section \ref{sec-results-3} are shown in Figures \ref{fig:global-causality-final} and \ref{fig:panama-causality-barplots} for the Liang-Kleeman causality analysis. The causality analysis is performed over the same 1951-2024 monthly mean period, with the same climate variability indices of Table \ref{tab:climate-variability-indices}.
+
 
 \begin{figure*}[!ht]
   \centering
@@ -261,12 +278,9 @@ Given the strong seasonality of $R_0$ in temperate regions through these timesca
 \begin{figure*}[!ht]
   \centering
   \includegraphics[width=0.75\textwidth]{causality_barplots.png}
-  \caption{\textbf{a)-d)} For all seasons: Percentage of grid points over which each index gives the highest, second or third highest statistically significant causality values.}
+  \caption{\textbf{a)-d)} For all seasons: Percentage of grid points over which each index gives the highest, second or third highest statistically significant causality values. Any contribution above 10\% is labeled in the barplots.}
   \label{fig:panama-causality-barplots}
 \end{figure*}
-
-\subsection{Analysis 3: Causality studies between $R_0$ and climate variability indices. Outlining of predictors for disease outbreaks} \label{sec-results-3}
-
 \section{Discussion} \label{sec-discussion}
 
 \subsection{The added value of climate patterns in seasonal forecasting of \textit{Aedes}-borne diseases} \label{sec-discussion-added-value}
