@@ -109,6 +109,17 @@
   \textbf{\bibinfo{volume}{22}}, \bibinfo{pages}{186--193},
   \doiprefix\url{10.1111/jtm.12192} (\bibinfo{year}{2015}).
 
+\bibitem{lee_2021a}
+\bibinfo{author}{Lee, S.~A.}, \bibinfo{author}{Economou, T.},
+  \bibinfo{author}{{de Castro Cat{\~a}o}, R.}, \bibinfo{author}{Barcellos, C.}
+  \& \bibinfo{author}{Lowe, R.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The impact of climate suitability,
+  urbanisation, and connectivity on the expansion of dengue in 21st century
+  {{Brazil}}}}.
+\newblock {\emph{\JournalTitle{PLoS neglected tropical diseases}}}
+  \textbf{\bibinfo{volume}{15}}, \bibinfo{pages}{e0009773},
+  \doiprefix\url{10.1371/journal.pntd.0009773} (\bibinfo{year}{2021}).
+
 \bibitem{struchiner_2015}
 \bibinfo{author}{Struchiner, C.~J.}, \bibinfo{author}{Rockl{\"o}v, J.},
   \bibinfo{author}{{Wilder-Smith}, A.} \& \bibinfo{author}{Massad, E.}
@@ -365,6 +376,15 @@
   \textbf{\bibinfo{volume}{6}}, \bibinfo{pages}{164},
   \doiprefix\url{10.1186/s40249-017-0378-z} (\bibinfo{year}{2017}).
 
+\bibitem{munoz_2020a}
+\bibinfo{author}{Mu{\~n}oz, {\'A}.~G.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{{AeDES}}: A next-generation
+  monitoring and forecasting system for environmental suitability of
+  {{Aedes-borne}} disease transmission}}.
+\newblock {\emph{\JournalTitle{Scientific Reports}}}
+  \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{12640},
+  \doiprefix\url{10.1038/s41598-020-69625-4} (\bibinfo{year}{2020}).
+
 \bibitem{guerra_2025}
 \bibinfo{author}{Guerra, J.~C.} \emph{et~al.}
 \newblock \bibinfo{title}{From climate variables to health information -
@@ -439,6 +459,15 @@
   \textbf{\bibinfo{volume}{92}}, \bibinfo{pages}{171--177},
   \doiprefix\url{10.2471/BLT.13.125724} (\bibinfo{year}{2014}).
 
+\bibitem{thomson_2018a}
+\bibinfo{author}{Thomson, M.~C.}, \bibinfo{author}{Mu{\~n}oz, {\'A}.~G.},
+  \bibinfo{author}{Cousin, R.} \& \bibinfo{author}{{Shumake-Guillemot}, J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Climate drivers of vector-borne
+  diseases in {{Africa}} and their relevance to control programmes}}.
+\newblock {\emph{\JournalTitle{Infectious Diseases of Poverty}}}
+  \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{81},
+  \doiprefix\url{10.1186/s40249-018-0460-1} (\bibinfo{year}{2018}).
+
 \bibitem{munoz_2016}
 \bibinfo{author}{Mu{\~n}oz, {\'A}.~G.}, \bibinfo{author}{Thomson, M.~C.},
   \bibinfo{author}{Goddard, L.} \& \bibinfo{author}{Aldighieri, S.}
@@ -456,24 +485,6 @@
   \textbf{\bibinfo{volume}{19}}, \bibinfo{pages}{577--613},
   \doiprefix\url{10.1016/S0261-3794(99)00028-1} (\bibinfo{year}{2000}).
 
-\bibitem{healy_1984}
-\bibinfo{author}{Healy, M. J.~R.}
-\newblock \bibinfo{journal}{\bibinfo{title}{The {{Use}} of {{R2}} as a
-  {{Measure}} of {{Goodness}} of {{Fit}}}}.
-\newblock {\emph{\JournalTitle{Royal Statistical Society. Journal. Series A:
-  General}}} \textbf{\bibinfo{volume}{147}}, \bibinfo{pages}{608--609},
-  \doiprefix\url{10.2307/2981848} (\bibinfo{year}{1984}).
-
-\bibitem{akaike_1998}
-\bibinfo{author}{Akaike, H.}
-\newblock \bibinfo{title}{Information {{Theory}} and an {{Extension}} of the
-  {{Maximum Likelihood Principle}}}.
-\newblock In \bibinfo{editor}{Parzen, E.}, \bibinfo{editor}{Tanabe, K.} \&
-  \bibinfo{editor}{Kitagawa, G.} (eds.) \emph{\bibinfo{booktitle}{Selected
-  {{Papers}} of {{Hirotugu Akaike}}}}, \bibinfo{pages}{199--213},
-  \doiprefix\url{10.1007/978-1-4612-1694-0_15} (\bibinfo{publisher}{Springer},
-  \bibinfo{address}{New York, NY}, \bibinfo{year}{1998}).
-
 \bibitem{craven_1978}
 \bibinfo{author}{Craven, P.} \& \bibinfo{author}{Wahba, G.}
 \newblock \bibinfo{journal}{\bibinfo{title}{Smoothing noisy data with spline
@@ -489,15 +500,6 @@
 \newblock {\emph{\JournalTitle{Mathematical Geology}}}
   \textbf{\bibinfo{volume}{27}}, \bibinfo{pages}{659--672},
   \doiprefix\url{10.1007/BF02093906} (\bibinfo{year}{1995}).
-
-\bibitem{miller_2015}
-\bibinfo{author}{Miller, M.~J.} \& \bibinfo{author}{Loaiza, J.~R.}
-\newblock \bibinfo{journal}{\bibinfo{title}{Geographic {{Expansion}} of the
-  {{Invasive Mosquito Aedes}} albopictus across {{Panama}}---{{Implications}}
-  for {{Control}} of {{Dengue}} and {{Chikungunya Viruses}}}}.
-\newblock {\emph{\JournalTitle{PLOS Neglected Tropical Diseases}}}
-  \textbf{\bibinfo{volume}{9}}, \bibinfo{pages}{e0003383},
-  \doiprefix\url{10.1371/journal.pntd.0003383} (\bibinfo{year}{2015}).
 
 \bibitem{fan_2008}
 \bibinfo{author}{Fan, Y.} \& \bibinfo{author}{{van den Dool}, H.}
@@ -582,5 +584,32 @@
 \newblock {\emph{\JournalTitle{Geophysical Research Letters}}}
   \textbf{\bibinfo{volume}{21}}, \bibinfo{pages}{2809--2812},
   \doiprefix\url{10.1029/94GL01992} (\bibinfo{year}{1994}).
+
+\bibitem{chen_2024}
+\bibinfo{author}{Chen, Y.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Indian {{Ocean}} temperature
+  anomalies predict long-term global dengue trends}}.
+\newblock {\emph{\JournalTitle{Science}}} \textbf{\bibinfo{volume}{384}},
+  \bibinfo{pages}{639--646}, \doiprefix\url{10.1126/science.adj4427}
+  (\bibinfo{year}{2024}).
+
+\bibitem{kurnianingsih_2020}
+\bibinfo{author}{{Kurnianingsih}}, \bibinfo{author}{Wirasatriya, A.},
+  \bibinfo{author}{Lazuardi, L.}, \bibinfo{author}{Kubota, N.} \&
+  \bibinfo{author}{Ng, N.}
+\newblock \bibinfo{title}{{{IOD}} and {{ENSO-Related Time Series Variability}}
+  and {{Forecasting}} of {{Dengue}} and {{Malaria Incidence}} in
+  {{Indonesia}}}.
+\newblock In \emph{\bibinfo{booktitle}{2020 {{International Symposium}} on
+  {{Community-centric Systems}} ({{CcS}})}}, \bibinfo{pages}{1--8},
+  \doiprefix\url{10.1109/CcS49175.2020.9231358} (\bibinfo{year}{2020}).
+
+\bibitem{banu_2015}
+\bibinfo{author}{Banu, S.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Impacts {{Of El Ni{\~n}o Southern
+  Oscillation And Indian Ocean Dipole On Dengue Incidence In Bangladesh}}}}.
+\newblock {\emph{\JournalTitle{ISEE Conference Abstracts}}}
+  \textbf{\bibinfo{volume}{2015}}, \bibinfo{pages}{746},
+  \doiprefix\url{10.1289/isee.2015.2015-746} (\bibinfo{year}{2015}).
 
 \end{thebibliography}
