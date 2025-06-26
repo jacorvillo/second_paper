@@ -1,14 +1,15 @@
 # Fdb version 4
-["bibtex main"] 1750850929.66677 "main.aux" "main.bbl" "main" 1750850946.10987 0
+["bibtex main"] 1750926649.87597 "main.aux" "main.bbl" "main" 1750926968.4027 0
   "./naturemag-doi.bst" 1743582902 36153 a59af0557a0f0c0e857533e984f737bb ""
   "./references.bib" 1750849261 143583 6845b90e6b0847d6e13885012bd412cf ""
-  "main.aux" 1750850945 19439 55d6516e853f44e10cc5e2394b55ce5c "pdflatex"
+  "main.aux" 1750926967 19491 a1d2afd50e994e5a5534f3dfa497f03a "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1750850930.05796 "c:/Users/Javier/Documents/GitHub/second_paper/main.tex" "main.pdf" "main" 1750850946.11059 0
+["pdflatex"] 1750926954.6134 "c:/Users/Javier/Documents/GitHub/second_paper/main.tex" "main.pdf" "main" 1750926968.40333 0
   "C:/Users/Javier/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748371178 82507 a9eef8696c92627b87e9975edea03b2a ""
+  "C:/Users/Javier/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1750345258 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/Javier/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1748371093 24225518 7ce02199a6c0b7b23613f8df9f09729d ""
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/courier/pcrr8r.tfm" 1136765053 1292 bd42be2f344128bff6d35d98474adfe3 ""
@@ -42,6 +43,7 @@
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/Javier/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb" 1136846148 45758 19968a0990191524e34e1994d4a31cb6 ""
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb" 1136849748 35941 adef23a721dd8354a4a2bf4434f1c484 ""
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb" 1136849748 39013 e6ce984d70e653b894670e538a7f0667 ""
@@ -63,6 +65,7 @@
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/ptmri8t.vf" 1136768654 2328 6cd7df782b09b29cfc4d93e55b6b9a59 ""
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/zptmcm7m.vf" 1136768654 1132 27520247d3fe18d4266a226b461885c2 ""
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/zptmcm7t.vf" 1136768654 1108 d271d6f9de4122c3f8d3b65666167fac ""
+  "C:/Users/Javier/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/zptmcm7y.vf" 1136768654 964 5673178ff30617b900214de28ab32b38 ""
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1704647332 150008 7a05b0fdc0167c04e192003e780ab195 ""
@@ -228,7 +231,7 @@
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1700599895 10214 547fd4d29642cb7c80bf54b49d447f01 ""
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Javier/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/Javier/Documents/GitHub/second_paper/main.tex" 1750850912 45388 d024e0dc287ce047e37c5ec18719a6b8 ""
+  "c:/Users/Javier/Documents/GitHub/second_paper/main.tex" 1750926953 49215 9ff74c10dade1dde20764414b7e7793b ""
   "causality_barplots.png" 1750850444 317917 98b454d0d9bab74fa7f85fa39ff25e1f ""
   "causality_final_global_ps.png" 1750674736 2540856 6454357a4af2e7e04ba47e95cb2405bd ""
   "correlation_barplots.png" 1750850297 308707 6f496c9dc03cad7736cad22dc3c2a6f1 ""
@@ -237,10 +240,10 @@
   "jabbrv-ltwa-all.ldf" 1743582884 49107 ef89484545be005458b7162f37634c99 ""
   "jabbrv-ltwa-en.ldf" 1743582889 268657 c239d07b7cc89e14f920c5fc8ed8d12e ""
   "jabbrv.sty" 1743582893 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1750850945 19439 55d6516e853f44e10cc5e2394b55ce5c "pdflatex"
-  "main.bbl" 1750850929 30231 135fa624f27d69e765eb333d8d7da93f "bibtex main"
-  "main.out" 1750850945 10067 ccd2c86bbf660aa32ab3cb96207316da "pdflatex"
-  "main.tex" 1750850912 45388 d024e0dc287ce047e37c5ec18719a6b8 ""
+  "main.aux" 1750926967 19491 a1d2afd50e994e5a5534f3dfa497f03a "pdflatex"
+  "main.bbl" 1750926650 30231 135fa624f27d69e765eb333d8d7da93f "bibtex main"
+  "main.out" 1750926967 10067 ccd2c86bbf660aa32ab3cb96207316da "pdflatex"
+  "main.tex" 1750926953 49215 9ff74c10dade1dde20764414b7e7793b ""
   "timescale_decomposition_climatology_comparison_ps.png" 1750323796 3735675 9789a4149ab3ed531b19a156fd44fd01 ""
   "timescale_decomposition_combined_ps.png" 1750356678 2235041 f29b32e4410031da5b1b786b34c5a087 ""
   "wlscirep.cls" 1743582930 5824 2bca8e85f20d8d313a7747a78c480ad7 ""

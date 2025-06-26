@@ -502,6 +502,8 @@ INPUT .\causality_barplots.png
 INPUT .\causality_barplots.png
 INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\zptmcm7t.vf
 INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\zptmcm7y.vf
+INPUT C:\Users\Javier\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1ptm.fd
@@ -510,10 +512,10 @@ INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
 INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
 INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
 INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courier\pcrr8t.tfm
-INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
 INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT main.bbl
+INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
 INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\courier\pcrr8t.vf
 INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courier\pcrr8r.tfm
 INPUT main.aux
@@ -521,6 +523,8 @@ INPUT .\main.out
 INPUT .\main.out
 INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb
 INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb
 INPUT C:\Users\Javier\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvb8a.pfb
