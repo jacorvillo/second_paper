@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1751267166.31995 "main.aux" "main.bbl" "main" 1751268478.6559 0
+["bibtex main"] 1751279333.37863 "main.aux" "main.bbl" "main" 1751279345.07198 0
   "./naturemag-doi.bst" 1743582902 36153 a59af0557a0f0c0e857533e984f737bb ""
   "./references.bib" 1750849261 143583 6845b90e6b0847d6e13885012bd412cf ""
-  "main.aux" 1751268477 19048 3c13ebd543f7c06b9d715f22a4e33af5 "pdflatex"
+  "main.aux" 1751279344 17579 ae4b549a8d49c0711508424020b4e7eb "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1751268461.26427 "c:/Users/jcorvill/Documents/GitHub/second_paper/main.tex" "main.pdf" "main" 1751268478.65648 0
+["pdflatex"] 1751279333.66755 "c:/Users/jcorvill/Documents/GitHub/second_paper/main.tex" "main.pdf" "main" 1751279345.07252 0
   "C:/Users/jcorvill/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1751268258 94235 48c360a54846826ebff32cd018c12131 ""
   "C:/Users/jcorvill/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1743585429 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/jcorvill/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1743585365 12037540 c86c3e253ddd8ffd83d37a2b52a08d77 ""
@@ -227,7 +227,7 @@
   "C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1730400552 10214 61188260d324e94bc2f66825d7d3fdf4 ""
   "C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/jcorvill/Documents/GitHub/second_paper/main.tex" 1751267157 55158 f06eb0643d0e6886bc8b2f094aa8d8ea ""
+  "c:/Users/jcorvill/Documents/GitHub/second_paper/main.tex" 1751279321 54748 82bc7efb786931fcf3d792d619f3b92f ""
   "causality_barplots.png" 1750850444 317917 98b454d0d9bab74fa7f85fa39ff25e1f ""
   "causality_final_global_ps.png" 1750674736 2540856 6454357a4af2e7e04ba47e95cb2405bd ""
   "correlation_barplots.png" 1750850297 308707 6f496c9dc03cad7736cad22dc3c2a6f1 ""
@@ -236,10 +236,10 @@
   "jabbrv-ltwa-all.ldf" 1743582884 49107 ef89484545be005458b7162f37634c99 ""
   "jabbrv-ltwa-en.ldf" 1743582889 268657 c239d07b7cc89e14f920c5fc8ed8d12e ""
   "jabbrv.sty" 1743582893 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1751268477 19048 3c13ebd543f7c06b9d715f22a4e33af5 "pdflatex"
-  "main.bbl" 1751267166 30231 135fa624f27d69e765eb333d8d7da93f "bibtex main"
-  "main.out" 1751268477 9696 76ed53260de73106c8169a0106928a84 "pdflatex"
-  "main.tex" 1751267157 55158 f06eb0643d0e6886bc8b2f094aa8d8ea ""
+  "main.aux" 1751279344 17579 ae4b549a8d49c0711508424020b4e7eb "pdflatex"
+  "main.bbl" 1751279333 30231 135fa624f27d69e765eb333d8d7da93f "bibtex main"
+  "main.out" 1751279344 8289 98091ab58d696ddbfba374ab24434e7f "pdflatex"
+  "main.tex" 1751279321 54748 82bc7efb786931fcf3d792d619f3b92f ""
   "timescale_decomposition_climatology_comparison_ps.png" 1750323796 3735675 9789a4149ab3ed531b19a156fd44fd01 ""
   "timescale_decomposition_combined_ps.png" 1750356678 2235041 f29b32e4410031da5b1b786b34c5a087 ""
   "wlscirep.cls" 1751267355 5824 2bca8e85f20d8d313a7747a78c480ad7 ""
