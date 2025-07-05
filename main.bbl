@@ -50,6 +50,33 @@
   and Public Health}}} \textbf{\bibinfo{volume}{18}}, \bibinfo{pages}{6665},
   \doiprefix\url{10.3390/ijerph18126665} (\bibinfo{year}{2021}).
 
+\bibitem{lippi_2018}
+\bibinfo{author}{Lippi, C.~A.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The {{Social}} and {{Spatial
+  Ecology}} of {{Dengue Presence}} and {{Burden}} during an {{Outbreak}} in
+  {{Guayaquil}}, {{Ecuador}}, 2012}}.
+\newblock {\emph{\JournalTitle{International Journal of Environmental Research
+  and Public Health}}} \textbf{\bibinfo{volume}{15}}, \bibinfo{pages}{827},
+  \doiprefix\url{10.3390/ijerph15040827} (\bibinfo{year}{2018}).
+
+\bibitem{ibarra_2013}
+\bibinfo{author}{Ibarra, A. M.~S.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Dengue {{Vector Dynamics}}
+  ({{Aedes}} aegypti) {{Influenced}} by {{Climate}} and {{Social Factors}} in
+  {{Ecuador}}: {{Implications}} for {{Targeted Control}}}}.
+\newblock {\emph{\JournalTitle{PLOS ONE}}} \textbf{\bibinfo{volume}{8}},
+  \bibinfo{pages}{e78263}, \doiprefix\url{10.1371/journal.pone.0078263}
+  (\bibinfo{year}{2013}).
+
+\bibitem{stewart-ibarra_2014}
+\bibinfo{author}{{Stewart-Ibarra}, A.~M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Spatiotemporal clustering, climate
+  periodicity, and social-ecological risk factors for dengue during an outbreak
+  in {{Machala}}, {{Ecuador}}, in 2010}}.
+\newblock {\emph{\JournalTitle{BMC infectious diseases}}}
+  \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{610},
+  \doiprefix\url{10.1186/s12879-014-0610-4} (\bibinfo{year}{2014}).
+
 \bibitem{lowe_2018}
 \bibinfo{author}{Lowe, R.} \emph{et~al.}
 \newblock \bibinfo{journal}{\bibinfo{title}{Nonlinear and delayed impacts of
@@ -111,12 +138,12 @@
 
 \bibitem{lee_2021a}
 \bibinfo{author}{Lee, S.~A.}, \bibinfo{author}{Economou, T.},
-  \bibinfo{author}{{de Castro Cat{\~a}o}, R.}, \bibinfo{author}{Barcellos, C.}
-  \& \bibinfo{author}{Lowe, R.}
+  \bibinfo{author}{Cat{\~a}o, R. d.~C.}, \bibinfo{author}{Barcellos, C.} \&
+  \bibinfo{author}{Lowe, R.}
 \newblock \bibinfo{journal}{\bibinfo{title}{The impact of climate suitability,
   urbanisation, and connectivity on the expansion of dengue in 21st century
   {{Brazil}}}}.
-\newblock {\emph{\JournalTitle{PLoS neglected tropical diseases}}}
+\newblock {\emph{\JournalTitle{PLOS Neglected Tropical Diseases}}}
   \textbf{\bibinfo{volume}{15}}, \bibinfo{pages}{e0009773},
   \doiprefix\url{10.1371/journal.pntd.0009773} (\bibinfo{year}{2021}).
 
@@ -375,15 +402,6 @@
 \newblock {\emph{\JournalTitle{Infectious Diseases of Poverty}}}
   \textbf{\bibinfo{volume}{6}}, \bibinfo{pages}{164},
   \doiprefix\url{10.1186/s40249-017-0378-z} (\bibinfo{year}{2017}).
-
-\bibitem{munoz_2020a}
-\bibinfo{author}{Mu{\~n}oz, {\'A}.~G.} \emph{et~al.}
-\newblock \bibinfo{journal}{\bibinfo{title}{{{AeDES}}: A next-generation
-  monitoring and forecasting system for environmental suitability of
-  {{Aedes-borne}} disease transmission}}.
-\newblock {\emph{\JournalTitle{Scientific Reports}}}
-  \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{12640},
-  \doiprefix\url{10.1038/s41598-020-69625-4} (\bibinfo{year}{2020}).
 
 \bibitem{guerra_2025}
 \bibinfo{author}{Guerra, J.~C.} \emph{et~al.}
