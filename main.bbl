@@ -323,14 +323,6 @@
 \newblock \bibinfo{type}{Tech. Rep.} (\bibinfo{year}{2025}).
 \newblock \doiprefix\url{10.13140/RG.2.2.29354.94406}.
 
-\bibitem{shaw_2024}
-\bibinfo{author}{Shaw, T.~A.} \emph{et~al.}
-\newblock \bibinfo{journal}{\bibinfo{title}{Regional climate change: Consensus,
-  discrepancies, and ways forward}}.
-\newblock {\emph{\JournalTitle{Frontiers in Climate}}}
-  \textbf{\bibinfo{volume}{6}}, \doiprefix\url{10.3389/fclim.2024.1391634}
-  (\bibinfo{year}{2024}).
-
 \bibitem{senroy_2018}
 \bibinfo{author}{Sen~Roy, S.}
 \newblock \bibinfo{title}{Climate {{Change}} in the {{Global South}}:
@@ -629,5 +621,21 @@
 \newblock {\emph{\JournalTitle{ISEE Conference Abstracts}}}
   \textbf{\bibinfo{volume}{2015}}, \bibinfo{pages}{746},
   \doiprefix\url{10.1289/isee.2015.2015-746} (\bibinfo{year}{2015}).
+
+\bibitem{munoz_2015}
+\bibinfo{author}{Mu{\~n}oz, {\'A}.}
+\newblock \emph{\bibinfo{title}{Cross-Timescale {{Interference}} and {{Rainfall
+  Extreme Events}} in {{South Eastern South America}}}}.
+\newblock Ph.D. thesis (\bibinfo{year}{2015}).
+\newblock \doiprefix\url{10.7916/D8G73DFQ}.
+
+\bibitem{lowe_2013}
+\bibinfo{author}{Lowe, R.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The development of an early warning
+  system for climate-sensitive disease risk with a focus on dengue epidemics in
+  {{Southeast Brazil}}}}.
+\newblock {\emph{\JournalTitle{Statistics in Medicine}}}
+  \textbf{\bibinfo{volume}{32}}, \bibinfo{pages}{864--883},
+  \doiprefix\url{10.1002/sim.5549} (\bibinfo{year}{2013}).
 
 \end{thebibliography}

@@ -5,51 +5,53 @@ Reallocating 'name_of_file' (item size: 1) to 14 items.
 The style file: naturemag-doi.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: references.bib
+Warning--I didn't find a database entry for "shaw_2024"
 Warning--I didn't find a database entry for "munoz_2020a"
 Warning--missing institution in ali_2025
 Warning--empty author in cox_2007
 Warning--empty year in cox_2007
 Warning--empty author in greene_2011
 Warning--empty year in greene_2011
-You've used 72 entries,
+Warning--missing school in munoz_2015
+You've used 73 entries,
             2380 wiz_defined-function locations,
-            1480 strings with 29438 characters,
-and the built_in function-call counts, 27998 in all, are:
-= -- 1935
-> -- 694
+            1486 strings with 29440 characters,
+and the built_in function-call counts, 28328 in all, are:
+= -- 1962
+> -- 698
 < -- 1
-+ -- 346
-- -- 172
-* -- 3680
-:= -- 3075
-add.period$ -- 211
-call.type$ -- 72
++ -- 348
+- -- 173
+* -- 3716
+:= -- 3114
+add.period$ -- 215
+call.type$ -- 73
 change.case$ -- 82
 chr.to.int$ -- 0
-cite$ -- 77
-duplicate$ -- 2497
-empty$ -- 2587
-format.name$ -- 231
-if$ -- 5566
+cite$ -- 79
+duplicate$ -- 2524
+empty$ -- 2618
+format.name$ -- 232
+if$ -- 5630
 int.to.chr$ -- 0
-int.to.str$ -- 72
-missing$ -- 592
-newline$ -- 365
-num.names$ -- 74
-pop$ -- 384
+int.to.str$ -- 73
+missing$ -- 598
+newline$ -- 371
+num.names$ -- 75
+pop$ -- 391
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 474
+skip$ -- 477
 stack$ -- 0
-substring$ -- 1247
-swap$ -- 2475
+substring$ -- 1272
+swap$ -- 2500
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 5
-while$ -- 162
-width$ -- 74
-write$ -- 846
-(There were 6 warnings)
+warning$ -- 6
+while$ -- 165
+width$ -- 75
+write$ -- 858
+(There were 8 warnings)
