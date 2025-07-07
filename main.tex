@@ -2,7 +2,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{tikz}
-\usepackage{xcolor}
+\usepackage[table,xcdraw]{xcolor}
 \usetikzlibrary{shapes.misc}
 \newenvironment{Figure}
   {\par\medskip\noindent\minipage{\linewidth}}
@@ -117,16 +117,16 @@ However, while $R_0$ entangles vector, human, and climate behaviour, by only int
 
 \begin{table*}[t]
   \centering
-  \begin{tabular}{l|c|l|c}
-    \textbf{Index Name}               & \multicolumn{1}{l|}{\textbf{Abbreviation}} & \textbf{Periodicity}          & \multicolumn{1}{l|}{\textbf{Pattern Type}} \\ \hline
-    Atlantic 3 Index                  & ATL3                                       & Several months to a few years & Oceanic                                    \\
-    Indian Ocean Basin Mode           & IOBM                                       & Several months to a few years & Oceanic                                    \\
-    El Niño 3.4 Index                 & Niño 3.4                                   & Between 2-7 years             & Oceanic                                    \\
-    North Pacific Meridional Mode     & NPMM                                       & Several months to a few years & Atmospheric                                \\
-    South Atlantic Subtropical Dipole & SASD                                       & Several months to a few years & Oceanic                                    \\
-    South Pacific Meridional Mode     & SPMM                                       & Several months to a few years & Atmospheric                                \\
-    Tropical North Atlantic           & TNA                                        & Several months to a few years & Oceanic
-  \end{tabular}%
+  \begin{tabular}{ll|c|l|c}
+                             & \textbf{Index Name}               & \multicolumn{1}{l|}{\textbf{Abbreviation}} & \textbf{Periodicity}          & \multicolumn{1}{l}{\textbf{Pattern Type}} \\ \cline{2-5}
+    \cellcolor[HTML]{EF476F} & Atlantic 3 Index                  & ATL3                                       & Several months to a few years & Oceanic                                   \\
+    \cellcolor[HTML]{F78C6B} & Indian Ocean Basin Mode           & IOBM                                       & Several months to a few years & Oceanic                                   \\
+    \cellcolor[HTML]{FFD166} & El Niño 3.4 Index                 & Niño 3.4                                   & Between 2-7 years             & Oceanic                                   \\
+    \cellcolor[HTML]{83D483} & North Pacific Meridional Mode     & NPMM                                       & Several months to a few years & Atmospheric                               \\
+    \cellcolor[HTML]{06D6A0} & South Atlantic Subtropical Dipole & SASD                                       & Several months to a few years & Oceanic                                   \\
+    \cellcolor[HTML]{118AB2} & South Pacific Meridional Mode     & SPMM                                       & Several months to a few years & Atmospheric                               \\
+    \cellcolor[HTML]{073B4C} & Tropical North Atlantic           & TNA                                        & Several months to a few years & Oceanic
+  \end{tabular}
   \caption{Summary of the climate variability indices used in the analysis used for the correlation and causality studies.}
   \label{tab:climate-variability-indices}
 \end{table*}
