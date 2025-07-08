@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.2)  7 JUL 2025 15:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.2)  8 JUL 2025 08:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -968,13 +968,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--93
  []
 
 
-Underfull \hbox (badness 2150) in paragraph at lines 83--93
-\T1/ptm/m/n/10 (+20) to model mul-ti-ple in-ter-act-ing vari-ables si-mul-ta-ne-ously
+Underfull \hbox (badness 1852) in paragraph at lines 83--93
+\T1/ptm/m/n/10 (+20) to model mul-ti-ple in-ter-act-ing vari-ables si-mul-ta-ne-ously,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 83--93
 
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 83--93
+\T1/ptm/m/n/10 (+20) by their pe-ri-od-ic-ity, iden-ti-fied through de-fined cli-mate
  []
 
 
@@ -1034,9 +1039,6 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: Citation `munoz_2020a' on page 3 undefined on input line 142.
 
 
-
-[3]
-
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 143.
 
@@ -1048,6 +1050,9 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 143.
 
+
+
+[3]
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <9> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 147.
 
@@ -1475,68 +1480,53 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 307.
+(hyperref)                removing `math shift' on input line 309.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 307.
+(hyperref)                removing `subscript' on input line 309.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 307.
+(hyperref)                removing `math shift' on input line 309.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 311--324
+Underfull \hbox (badness 2564) in paragraph at lines 313--323
+\T1/ptm/m/n/10 (+20) A num-ber of caveats should be ac-knowl-edged when
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--323
 
  []
 
 
-Underfull \hbox (badness 3396) in paragraph at lines 311--324
-\T1/ptm/m/n/10 (+20) It is known that \T1/ptm/m/it/10 (+20) Aedes\T1/ptm/m/n/10 (+20) -borne dis-eases are not only
- []
-
-
-Underfull \hbox (badness 1728) in paragraph at lines 311--324
-\T1/ptm/m/n/10 (+20) as pop-u-la-tion den-sity, ur-ban-iza-tion, and pub-lic health
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 311--324
-
- []
-
-
-Underfull \hbox (badness 1092) in paragraph at lines 311--324
+Underfull \hbox (badness 1092) in paragraph at lines 313--323
 \T1/ptm/m/n/10 (+20) Second, it is of note that while the re-sults that were
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 311--324
-\T1/ptm/m/n/10 (+20) high-resolution ob-ser-va-tional data be-ing en-cour-aged to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 311--324
+Underfull \hbox (badness 10000) in paragraph at lines 313--323
 
  []
 
 
-Underfull \hbox (badness 1783) in paragraph at lines 311--324
+Underfull \hbox (badness 1783) in paragraph at lines 313--323
 \T1/ptm/m/n/10 (+20) Additionally, while these find-ings have been ob-tained
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 311--324
+Underfull \hbox (badness 10000) in paragraph at lines 313--323
 
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 311--324
+Underfull \hbox (badness 1062) in paragraph at lines 313--323
 \T1/ptm/m/n/10 (+20) Lastly, it is worth com-ment-ing that the choice of cli-
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 311--324
+Underfull \hbox (badness 1019) in paragraph at lines 313--323
 \T1/ptm/m/n/10 (+20) sea-sonal pat-terns have been omit-ted from the anal-y-sis.
  []
 
@@ -1544,7 +1534,7 @@ Underfull \hbox (badness 1019) in paragraph at lines 311--324
 
 [13]
 
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 355.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 354.
 (C:\Users\jcorvill\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
@@ -1553,17 +1543,17 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 2922) in paragraph at lines 355--356
+Underfull \hbox (badness 2922) in paragraph at lines 354--355
 \T1/ptm/m/n/10 (+20) Code for the gen-er-a-tion of $\OML/ztmcm/m/it/10 R[]$ \T1/ptm/m/n/10 (+20) val-ues em-ployed for
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 355--356
+Underfull \hbox (badness 1502) in paragraph at lines 354--355
 \T1/ptm/m/n/10 (+20) this study, com-puted us-ing AeDES2's mon-i-tor-ing sys-
  []
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 355--356
+Underfull \hbox (badness 2990) in paragraph at lines 354--355
 \T1/ptm/m/n/10 (+20) low-ing GitHub repos-i-tory: [][]$\T1/pcr/m/n/10 https : / / github . com /
  []
 
@@ -1675,9 +1665,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  94i,11n,115p,1394b,623s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (18 pages, 13973427 bytes).
+Output written on main.pdf (18 pages, 13973581 bytes).
 PDF statistics:
- 609 PDF objects out of 1000 (max. 8388607)
+ 610 PDF objects out of 1000 (max. 8388607)
  135 named destinations out of 1000 (max. 500000)
  106261 words of extra memory for PDF output out of 106986 (max. 10000000)
 
