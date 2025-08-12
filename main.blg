@@ -13,45 +13,45 @@ Warning--empty year in cox_2007
 Warning--empty author in greene_2011
 Warning--empty year in greene_2011
 Warning--missing school in munoz_2015
-You've used 73 entries,
+You've used 79 entries,
             2380 wiz_defined-function locations,
-            1486 strings with 29440 characters,
-and the built_in function-call counts, 28328 in all, are:
-= -- 1962
-> -- 698
+            1514 strings with 31281 characters,
+and the built_in function-call counts, 30484 in all, are:
+= -- 2099
+> -- 759
 < -- 1
-+ -- 348
-- -- 173
-* -- 3716
-:= -- 3114
-add.period$ -- 215
-call.type$ -- 73
-change.case$ -- 82
++ -- 379
+- -- 188
+* -- 4009
+:= -- 3347
+add.period$ -- 232
+call.type$ -- 79
+change.case$ -- 88
 chr.to.int$ -- 0
-cite$ -- 79
-duplicate$ -- 2524
-empty$ -- 2618
-format.name$ -- 232
-if$ -- 5630
+cite$ -- 85
+duplicate$ -- 2725
+empty$ -- 2817
+format.name$ -- 252
+if$ -- 6055
 int.to.chr$ -- 0
-int.to.str$ -- 73
-missing$ -- 598
-newline$ -- 371
-num.names$ -- 75
-pop$ -- 391
+int.to.str$ -- 79
+missing$ -- 646
+newline$ -- 400
+num.names$ -- 80
+pop$ -- 422
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 477
+skip$ -- 514
 stack$ -- 0
-substring$ -- 1272
-swap$ -- 2500
+substring$ -- 1332
+swap$ -- 2705
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 6
-while$ -- 165
-width$ -- 75
-write$ -- 858
+while$ -- 175
+width$ -- 81
+write$ -- 927
 (There were 8 warnings)

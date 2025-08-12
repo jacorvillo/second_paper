@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.2)  4 AUG 2025 21:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.2)  12 AUG 2025 18:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -943,23 +943,18 @@ Underfull \hbox (badness 2418) in paragraph at lines 73--77
 LaTeX Warning: Citation `shaw_2024' on page 2 undefined on input line 83.
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 80--90
-\T1/ptm/m/n/10 (+20) While the afore-men-tioned macro cli-matic fac-tors have
+Underfull \hbox (badness 1571) in paragraph at lines 80--90
+\T1/ptm/m/it/10 (+20) Aedes\T1/ptm/m/n/10 (+20) -borne dis-ease re-search and mod-elling[], it is
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 80--90
-\T1/ptm/m/n/10 (+20) may aid in re-fin-ing DENV mon-i-tor-ing and pre-dic-tion
+Underfull \hbox (badness 1028) in paragraph at lines 80--90
+\T1/ptm/m/n/10 (+20) re-fin-ing DENV mon-i-tor-ing and pre-dic-tion sys-tems[].
  []
 
 
 Underfull \hbox (badness 1137) in paragraph at lines 80--90
 \T1/ptm/m/n/10 (+20) of breed-ing sites for \T1/ptm/m/it/10 (+20) Aedes \T1/ptm/m/n/10 (+20) mosquitoes. Ad-di-tion-ally,
- []
-
-
-Underfull \hbox (badness 2318) in paragraph at lines 80--90
-\T1/ptm/m/n/10 (+20) anal-y-sis of high res-o-lu-tion satel-lite im-agery has sug-
  []
 
 
@@ -978,8 +973,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--90
  []
 
 
+Underfull \hbox (badness 1831) in paragraph at lines 80--90
+\T1/ptm/m/n/10 (+20) Climate pat-terns, in this con-text, may serve a bet-ter
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 80--90
 
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 80--90
+\T1/ptm/m/n/10 (+20) how cli-mate sys-tem in-ter-ac-tions in-flu-ence pre-cip-i-ta-tion,
  []
 
 
@@ -999,224 +1004,217 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--100
  []
 
 
+Underfull \hbox (badness 2343) in paragraph at lines 93--100
+\T1/ptm/m/n/10 (+20) Here, we aim to char-ac-terise the time vari-abil-ity of
+ []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 105.
+(hyperref)                removing `math shift' on input line 103.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 105.
+(hyperref)                removing `subscript' on input line 103.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 105.
+(hyperref)                removing `math shift' on input line 103.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--111
+Underfull \hbox (badness 10000) in paragraph at lines 105--109
 
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 107--111
+Underfull \hbox (badness 1728) in paragraph at lines 105--109
 \T1/ptm/m/n/10 (+20) However, while $\OML/ztmcm/m/it/10 R[]$ \T1/ptm/m/n/10 (+20) en-tan-gles vec-tor, hu-man, and cli-
  []
+
+
 
 <indices_regions.png, id=220, 867.24pt x 578.16pt>
 File: indices_regions.png Graphic file (type png)
 <use indices_regions.png>
-Package pdftex.def Info: indices_regions.png  used on input line 118.
+Package pdftex.def Info: indices_regions.png  used on input line 116.
 (pdftex.def)             Requested size: 300.29344pt x 200.19763pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Citation `munoz_2020a' on page 3 undefined on input line 139.
+LaTeX Warning: Citation `munoz_2020a' on page 3 undefined on input line 137.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 140.
+(hyperref)                removing `math shift' on input line 138.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 140.
+(hyperref)                removing `subscript' on input line 138.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 140.
+(hyperref)                removing `math shift' on input line 138.
 
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <9> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 142.
 
 
 [3]
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <9> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 144.
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--156
+Underfull \hbox (badness 10000) in paragraph at lines 147--154
 
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 149--156
+Underfull \hbox (badness 1424) in paragraph at lines 147--154
 \T1/ptm/m/n/10 (+20) Once the ideal LOESS smooth-ing pa-ram-e-ter is found
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--156
+Underfull \hbox (badness 10000) in paragraph at lines 147--154
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 155.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 155.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 155.
 
 
 
 [4 <./indices_regions.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 157.
+(hyperref)                removing `math shift' on input line 168.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 157.
+(hyperref)                removing `subscript' on input line 168.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 157.
+(hyperref)                removing `math shift' on input line 168.
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 178--185
+\T1/ptm/m/n/10 (+20) Causality anal-y-ses be-tween $\OML/ztmcm/m/it/10 R[]$ \T1/ptm/m/n/10 (+20) and cli-mate vari-abil-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--185
+
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 178--185
+\T1/ptm/m/n/10 (+20) Both sign and value of cor-re-la-tion and causal-ity out-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--185
+
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 178--185
+\T1/ptm/m/n/10 (+20) fa-vor-ably or un-fa-vor-ably), lead-ing to large changes in
+ []
+
+
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 170.
+(hyperref)                removing `math shift' on input line 189.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 170.
+(hyperref)                removing `subscript' on input line 189.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 170.
+(hyperref)                removing `math shift' on input line 189.
 
-
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 183.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 183.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 183.
-
-<timescale_decomposition_combined_ps.png, id=269, 923.1288pt x 844.8363pt>
+<timescale_decomposition_combined_ps.png, id=274, 923.1288pt x 844.8363pt>
 File: timescale_decomposition_combined_ps.png Graphic file (type png)
 <use timescale_decomposition_combined_ps.png>
-Package pdftex.def Info: timescale_decomposition_combined_ps.png  used on input line 187.
+Package pdftex.def Info: timescale_decomposition_combined_ps.png  used on input line 193.
 (pdftex.def)             Requested size: 500.484pt x 458.03535pt.
-<timescale_decomposition_climatology_comparison_ps.png, id=271, 1206.1863pt x 887.2347pt>
+<timescale_decomposition_climatology_comparison_ps.png, id=276, 1206.1863pt x 887.2347pt>
 File: timescale_decomposition_climatology_comparison_ps.png Graphic file (type png)
 <use timescale_decomposition_climatology_comparison_ps.png>
-Package pdftex.def Info: timescale_decomposition_climatology_comparison_ps.png  used on input line 193.
+Package pdftex.def Info: timescale_decomposition_climatology_comparison_ps.png  used on input line 199.
 (pdftex.def)             Requested size: 500.484pt x 368.14139pt.
-<correlation_seasonal_global_niño_34_ps.png, id=282, 1448.0499pt x 899.0388pt>
+<correlation_seasonal_global_niño_34_ps.png, id=288, 1448.0499pt x 899.0388pt>
 File: correlation_seasonal_global_niño_34_ps.png Graphic file (type png)
 <use correlation_seasonal_global_niño_34_ps.png>
-Package pdftex.def Info: correlation_seasonal_global_niño_34_ps.png  used on input line 210.
+Package pdftex.def Info: correlation_seasonal_global_niño_34_ps.png  used on input line 216.
 (pdftex.def)             Requested size: 500.484pt x 310.73117pt.
 
-Underfull \hbox (badness 1406) in paragraph at lines 198--226
-\T1/ptm/m/n/10 (+20) of LOESS smooth-ing for the timescale de-com-po-si-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 198--226
+Underfull \hbox (badness 10000) in paragraph at lines 204--232
 
  []
 
 
-Underfull \hbox (badness 5008) in paragraph at lines 198--226
-\T1/ptm/m/n/10 (+20) Over the 74-year pe-riod, the long-term trends and
+Underfull \hbox (badness 3108) in paragraph at lines 204--232
+\T1/ptm/m/n/10 (+20) The long-term trend and resid-ual com-po-nents of $\OML/ztmcm/m/it/10 R[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--226
-
- []
-
-
-Underfull \hbox (badness 2753) in paragraph at lines 198--226
-\T1/ptm/m/n/10 (+20) Though the decadal com-po-nent (Fig-ure [][]2[][]c) shows a
- []
-
-
-Underfull \hbox (badness 2310) in paragraph at lines 198--226
-\T1/ptm/m/n/10 (+20) nigh neg-li-gi-ble con-tri-bu-tion across all re-gions of the
- []
-
-
-Underfull \hbox (badness 1910) in paragraph at lines 198--226
-\T1/ptm/m/n/10 (+20) con-tri-bu-tions con-cen-trated in re-gions with pro-nounced
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 198--226
+Underfull \hbox (badness 10000) in paragraph at lines 204--232
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--226
+Underfull \hbox (badness 10000) in paragraph at lines 204--232
 
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 198--226
-\T1/ptm/m/n/10 (+20) By di-vid-ing the full time se-ries into two cli-ma-to-log-i-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 198--226
+Underfull \hbox (badness 10000) in paragraph at lines 204--232
 
  []
 
 
-Underfull \hbox (badness 2837) in paragraph at lines 198--226
+Underfull \hbox (badness 10000) in paragraph at lines 204--232
+\T1/ptm/m/n/10 (+20) Applying the timescale de-com-po-si-tion method-ol-ogy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--232
+
+ []
+
+
+Underfull \hbox (badness 2837) in paragraph at lines 204--232
 \T1/ptm/m/n/10 (+20) When ex-am-in-ing the vari-ance pat-terns in re-la-tion to
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 198--226
-\T1/ptm/m/n/10 (+20) the K�ppen-Geiger clas-si-fi-ca-tion, dis-tinct cli-mate zone
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 198--226
+Underfull \hbox (badness 10000) in paragraph at lines 204--232
 
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 198--226
+Underfull \hbox (badness 1924) in paragraph at lines 204--232
 \T1/ptm/m/n/10 (+20) However, this would be a naive ap-proach, since the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--226
+Underfull \hbox (badness 10000) in paragraph at lines 204--232
 
  []
 
 
-Underfull \hbox (badness 3158) in paragraph at lines 198--226
+Underfull \hbox (badness 3158) in paragraph at lines 204--232
 \T1/ptm/m/n/10 (+20) Given the strong sea-son-al-ity of $\OML/ztmcm/m/it/10 R[]$ \T1/ptm/m/n/10 (+20) in tem-per-ate re-
- []
-
-
-Underfull \hbox (badness 2088) in paragraph at lines 198--226
-\T1/ptm/m/n/10 (+20) gions through these timescale de-com-po-si-tion anal-y-ses,
  []
 
 
@@ -1237,82 +1235,82 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 233.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 233.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 233.
+
+<correlation_final_global_ps.png, id=315, 822.9144pt x 1113.9216pt>
+File: correlation_final_global_ps.png Graphic file (type png)
+<use correlation_final_global_ps.png>
+Package pdftex.def Info: correlation_final_global_ps.png  used on input line 239.
+(pdftex.def)             Requested size: 450.43253pt x 609.71829pt.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [7 <./timescale_decomposition_climatology_comparison_ps.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 227.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 227.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 227.
-
-<correlation_final_global_ps.png, id=321, 822.9144pt x 1113.9216pt>
-File: correlation_final_global_ps.png Graphic file (type png)
-<use correlation_final_global_ps.png>
-Package pdftex.def Info: correlation_final_global_ps.png  used on input line 233.
-(pdftex.def)             Requested size: 450.43253pt x 609.71829pt.
-
-
-<correlation_barplots.png, id=324, 799.5471pt x 690.1785pt>
+<correlation_barplots.png, id=326, 799.5471pt x 690.1785pt>
 File: correlation_barplots.png Graphic file (type png)
 <use correlation_barplots.png>
-Package pdftex.def Info: correlation_barplots.png  used on input line 240.
+Package pdftex.def Info: correlation_barplots.png  used on input line 246.
 (pdftex.def)             Requested size: 375.36299pt x 324.01535pt.
-<causality_final_global_ps.png, id=325, 822.9144pt x 1113.9216pt>
+<causality_final_global_ps.png, id=327, 822.9144pt x 1113.9216pt>
 File: causality_final_global_ps.png Graphic file (type png)
 <use causality_final_global_ps.png>
-Package pdftex.def Info: causality_final_global_ps.png  used on input line 247.
+Package pdftex.def Info: causality_final_global_ps.png  used on input line 253.
 (pdftex.def)             Requested size: 450.43253pt x 609.71829pt.
-<causality_barplots.png, id=328, 799.788pt x 696.201pt>
+<causality_barplots.png, id=330, 799.788pt x 696.201pt>
 File: causality_barplots.png Graphic file (type png)
 <use causality_barplots.png>
-Package pdftex.def Info: causality_barplots.png  used on input line 254.
+Package pdftex.def Info: causality_barplots.png  used on input line 260.
 (pdftex.def)             Requested size: 375.36299pt x 326.74709pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--273
+Underfull \hbox (badness 10000) in paragraph at lines 264--279
 
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 258--273
+Underfull \hbox (badness 2027) in paragraph at lines 264--279
 \T1/ptm/m/n/10 (+20) An ag-gre-gate of the max-i-mum sta-tis-ti-cally sig-nif-i-cant
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--273
+Underfull \hbox (badness 10000) in paragraph at lines 264--279
 
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 258--273
+Underfull \hbox (badness 1648) in paragraph at lines 264--279
 \T1/ptm/m/n/10 (+20) Over the aus-tral sum-mer and au-tumn months (Fig-ure
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--273
+Underfull \hbox (badness 10000) in paragraph at lines 264--279
 
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 258--273
+Underfull \hbox (badness 1460) in paragraph at lines 264--279
 \T1/ptm/m/n/10 (+20) re-gions and sea-sons, with no sin-gle in-dex con-trol-ling
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--273
+Underfull \hbox (badness 10000) in paragraph at lines 264--279
 
  []
 
 
-Underfull \vbox (badness 7397) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -1343,64 +1341,39 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 274.
+(hyperref)                removing `math shift' on input line 280.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 274.
+(hyperref)                removing `subscript' on input line 280.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 274.
+(hyperref)                removing `math shift' on input line 280.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--289
+Underfull \hbox (badness 10000) in paragraph at lines 282--292
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--289
+Underfull \hbox (badness 10000) in paragraph at lines 282--292
 
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 276--289
+Underfull \hbox (badness 1688) in paragraph at lines 282--292
 \T1/ptm/m/n/10 (+20) Nonetheless, the causal-ity anal-y-sis still pro-vides valu-
  []
 
 
-Underfull \hbox (badness 2556) in paragraph at lines 276--289
-\T1/ptm/m/n/10 (+20) vari-abil-ity in-dices. Pos-i-tive Liang-Kleeman causal-ity
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 276--289
+Underfull \hbox (badness 10000) in paragraph at lines 282--292
 
  []
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 276--289
-\T1/ptm/m/n/10 (+20) In this con-text, sim-i-larly to the cor-re-la-tion anal-y-ses,
- []
-
-
-Underfull \hbox (badness 1681) in paragraph at lines 276--289
-\T1/ptm/m/n/10 (+20) dom-i-nant causal in-dices over the aus-tral sum-mer and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 276--289
-
- []
-
-
-Underfull \hbox (badness 1442) in paragraph at lines 276--289
+Underfull \hbox (badness 1442) in paragraph at lines 282--292
 \T1/ptm/m/n/10 (+20) The in-flu-ence of both Ni�o3.4 and IOBM in-dices on
- []
-
-
-Underfull \hbox (badness 1728) in paragraph at lines 276--289
-\T1/ptm/m/n/10 (+20) shift oc-curs dur-ing bo-real au-tumn and spring months
  []
 
 
@@ -1431,132 +1404,107 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[12 <./causality_barplots.png>]
-Underfull \hbox (badness 2351) in paragraph at lines 294--301
-\T1/ptm/m/n/10 (+20) Ac-cu-rately fore-cast-ing the ef-fects of mul-ti-ple cli-mate
+Underfull \hbox (badness 2020) in paragraph at lines 297--304
+\T1/ptm/m/n/10 (+20) emerg-ing tech-nolo-gies and method-olo-gies push-ing the
  []
 
 
-Underfull \hbox (badness 1577) in paragraph at lines 294--301
-\T1/ptm/m/n/10 (+20) mod-u-la-tors and their re-cip-ro-cal in-ter-ac-tions at var-i-ous
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 294--301
+Underfull \hbox (badness 10000) in paragraph at lines 297--304
 
  []
 
 
-Underfull \hbox (badness 1360) in paragraph at lines 294--301
+Underfull \hbox (badness 1360) in paragraph at lines 297--304
 \T1/ptm/m/n/10 (+20) For vector-borne dis-eases, where cli-mate is known to
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 294--301
-\T1/ptm/m/n/10 (+20) vari-abil-ity, socio-economic fac-tors and vec-tor pres-ence
+Underfull \hbox (badness 10000) in paragraph at lines 297--304
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--301
 
+[12 <./causality_barplots.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 305.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 305.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 305.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--314
+
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 307--314
+\T1/ptm/m/n/10 (+20) It is cer-tain that warm-ing of the planet is the most
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--314
+
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 307--314
+\T1/ptm/m/n/10 (+20) Visual in-spec-tion of the dif-fer-ent timescale de-com-po-
  []
 
 
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 302.
+(hyperref)                removing `math shift' on input line 315.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 302.
+(hyperref)                removing `subscript' on input line 315.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 302.
+(hyperref)                removing `math shift' on input line 315.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 306.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 306.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 306.
-
-
-Underfull \hbox (badness 2564) in paragraph at lines 310--320
-\T1/ptm/m/n/10 (+20) A num-ber of caveats should be ac-knowl-edged when
+Underfull \hbox (badness 1442) in paragraph at lines 319--326
+\T1/ptm/m/n/10 (+20) high-resolution ob-ser-va-tional data be-ing en-cour-aged to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--320
+Underfull \hbox (badness 10000) in paragraph at lines 319--326
 
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 310--320
-\T1/ptm/m/n/10 (+20) Second, it is of note that while the re-sults that were
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--320
-
- []
-
-
-Underfull \hbox (badness 1783) in paragraph at lines 310--320
+Underfull \hbox (badness 1783) in paragraph at lines 319--326
 \T1/ptm/m/n/10 (+20) Additionally, while these find-ings have been ob-tained
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--320
+Underfull \hbox (badness 10000) in paragraph at lines 319--326
 
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 310--320
-\T1/ptm/m/n/10 (+20) Lastly, it is worth com-ment-ing that the choice of cli-
+Underfull \hbox (badness 1348) in paragraph at lines 319--326
+\T1/ptm/m/n/10 (+20) Lastly, it is worth com-ment-ing on the non-exhaustive
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 310--320
+Underfull \hbox (badness 1019) in paragraph at lines 319--326
 \T1/ptm/m/n/10 (+20) sea-sonal pat-terns have been omit-ted from the anal-y-sis.
  []
 
 
 
 [13]
-
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 351.
-(C:\Users\jcorvill\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `pcr' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-Underfull \hbox (badness 2922) in paragraph at lines 351--352
-\T1/ptm/m/n/10 (+20) Code for the gen-er-a-tion of $\OML/ztmcm/m/it/10 R[]$ \T1/ptm/m/n/10 (+20) val-ues em-ployed for
- []
-
-
-Underfull \hbox (badness 1502) in paragraph at lines 351--352
-\T1/ptm/m/n/10 (+20) this study, com-puted us-ing AeDES2's mon-i-tor-ing sys-
- []
-
-
-Underfull \hbox (badness 2990) in paragraph at lines 351--352
-\T1/ptm/m/n/10 (+20) low-ing GitHub repos-i-tory: [][]$\T1/pcr/m/n/10 https : / / github . com /
- []
 
 
 
@@ -1573,8 +1521,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 108--111
  []
 
 
-
-[15]
 Underfull \hbox (badness 10000) in paragraph at lines 187--191
 []\T1/ptm/m/n/10 (+20) Dengue - An-nual Epi-demi-o-log-i-cal Re-port for
  []
@@ -1590,6 +1536,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--191
  []
 
 
+
+[15]
 
 
 
@@ -1624,11 +1572,11 @@ Underfull \hbox (badness 1259) in paragraph at lines 482--489
  []
 
 
-
-
 Underfull \hbox (badness 6284) in paragraph at lines 544--547
 \T1/ptm/m/n/10 (+20) century cli-mate.  \T1/ptm/m/it/10 (+20) Re-search-Gate \T1/ptm/m/n/10 (+20) DOI: [][]$10 . 1029 /
  []
+
+
 
 
 Underfull \hbox (badness 1533) in paragraph at lines 582--589
@@ -1637,7 +1585,22 @@ Underfull \hbox (badness 1533) in paragraph at lines 582--589
 
 
 
-[17])
+[17]
+Underfull \hbox (badness 7081) in paragraph at lines 663--667
+[]\T1/ptm/m/n/10 (+20) (PDF) Man-ag-ing the Risks of Ex-treme Events
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 663--667
+\T1/ptm/m/n/10 (+20) and Dis-as-ters to Ad-vance Cli-mate Change Adap-
+ []
+
+
+Overfull \hbox (793.90282pt too wide) in paragraph at lines 663--667
+\T1/ptm/m/n/10 (-20) https://www.researchgate.net/publication/266208219_Managing_the_Risks_of_Extreme_Events_and_Disasters_to_Advance_Climate_Change_Adaptation_Special_Report_of_Working_Groups_I_and_II_of_the_Intergovernmental_Panel_on_Climate_Change,
+ []
+
+)
 
 
 
@@ -1655,20 +1618,20 @@ L3 programming layer <2025-01-18>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 98091AB58D696DDBFBA374AB24434E7F;8289.
+(rerunfilecheck)             Checksum: 7E832C84CC2FCC9EF07015FB1C2D314F;8203.
  ) 
 Here is how much of TeX's memory you used:
- 35574 strings out of 473523
- 714340 string characters out of 5713179
- 1134621 words of memory out of 5000000
- 57636 multiletter control sequences out of 15000+600000
- 654268 words of font info for 443 fonts, out of 8000000 for 9000
+ 35547 strings out of 473523
+ 713905 string characters out of 5713179
+ 1132805 words of memory out of 5000000
+ 57609 multiletter control sequences out of 15000+600000
+ 653549 words of font info for 441 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,11n,115p,1394b,625s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (18 pages, 13972817 bytes).
+ 94i,11n,115p,1507b,625s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (18 pages, 13965546 bytes).
 PDF statistics:
- 610 PDF objects out of 1000 (max. 8388607)
- 135 named destinations out of 1000 (max. 500000)
- 106261 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 625 PDF objects out of 1000 (max. 8388607)
+ 140 named destinations out of 1000 (max. 500000)
+ 105749 words of extra memory for PDF output out of 106986 (max. 10000000)
 

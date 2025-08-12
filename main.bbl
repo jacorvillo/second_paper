@@ -638,4 +638,57 @@
   \textbf{\bibinfo{volume}{32}}, \bibinfo{pages}{864--883},
   \doiprefix\url{10.1002/sim.5549} (\bibinfo{year}{2013}).
 
+\bibitem{thomson_2018b}
+\bibinfo{author}{Thomson, M.~C.}, \bibinfo{author}{Mu{\~n}oz, {\'A}.~G.},
+  \bibinfo{author}{Cousin, R.} \& \bibinfo{author}{{Shumake-Guillemot}, J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Climate drivers of vector-borne
+  diseases in {{Africa}} and their relevance to control programmes}}.
+\newblock {\emph{\JournalTitle{Infectious Diseases of Poverty}}}
+  \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{81},
+  \doiprefix\url{10.1186/s40249-018-0460-1} (\bibinfo{year}{2018}).
+
+\bibitem{iwamura_2020}
+\bibinfo{author}{Iwamura, T.}, \bibinfo{author}{{Guzman-Holst}, A.} \&
+  \bibinfo{author}{Murray, K.~A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Accelerating invasion potential of
+  disease vector {{Aedes}} aegypti under climate change}}.
+\newblock {\emph{\JournalTitle{Nature Communications}}}
+  \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{2130},
+  \doiprefix\url{10.1038/s41467-020-16010-4} (\bibinfo{year}{2020}).
+
+\bibitem{ipcc_2025}
+\bibinfo{title}{({{PDF}}) {{Managing}} the {{Risks}} of {{Extreme Events}} and
+  {{Disasters}} to {{Advance Climate Change Adaptation}}. {{Special Report}} of
+  {{Working Groups I}} and {{II}} of the {{Intergovernmental Panel}} on
+  {{Climate Change}}}.
+\newblock
+  \bibinfo{howpublished}{https://www.researchgate.net/publication/266208219\_Managing\_the\_Risks\_of\_Extreme\_Events\_and\_Disasters\_to\_Advance\_Climate\_Change\_Adaptation\_Special\_Report\_of\_Working\_Groups\_I\_and\_II\_of\_the\_Intergovernmental\_Panel\_on\_Climate\_Change},
+  \doiprefix\url{10.13140/2.1.3117.9529} (\bibinfo{year}{2025}).
+
+\bibitem{lim_2025}
+\bibinfo{author}{Lim, A.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The overlapping global distribution
+  of dengue, chikungunya, {{Zika}} and yellow fever}}.
+\newblock {\emph{\JournalTitle{Nature Communications}}}
+  \textbf{\bibinfo{volume}{16}}, \bibinfo{pages}{3418},
+  \doiprefix\url{10.1038/s41467-025-58609-5} (\bibinfo{year}{2025}).
+
+\bibitem{laporta_2023}
+\bibinfo{author}{Laporta, G.~Z.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Global {{Distribution}} of
+  {{Aedes}} aegypti and {{Aedes}} albopictus in a {{Climate Change Scenario}}
+  of {{Regional Rivalry}}}}.
+\newblock {\emph{\JournalTitle{Insects}}} \textbf{\bibinfo{volume}{14}},
+  \bibinfo{pages}{49}, \doiprefix\url{10.3390/insects14010049}
+  (\bibinfo{year}{2023}).
+
+\bibitem{ryan_2019}
+\bibinfo{author}{Ryan, S.~J.}, \bibinfo{author}{Carlson, C.~J.},
+  \bibinfo{author}{Mordecai, E.~A.} \& \bibinfo{author}{Johnson, L.~R.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Global expansion and redistribution
+  of {{Aedes-borne}} virus transmission risk with climate change}}.
+\newblock {\emph{\JournalTitle{PLOS Neglected Tropical Diseases}}}
+  \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{e0007213},
+  \doiprefix\url{10.1371/journal.pntd.0007213} (\bibinfo{year}{2019}).
+
 \end{thebibliography}
