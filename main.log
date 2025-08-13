@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.2)  12 AUG 2025 18:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.2)  13 AUG 2025 16:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1473,44 +1473,84 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 315.
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 319--326
-\T1/ptm/m/n/10 (+20) high-resolution ob-ser-va-tional data be-ing en-cour-aged to
+LaTeX Warning: Citation `vicenti-gonzalez_2018' on page 13 undefined on input line 317.
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 317--327
+\T1/ptm/m/n/10 (+20) is well-known that ENSO-driven cli-mate vari-abil-ity is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 319--326
+Underfull \hbox (badness 1163) in paragraph at lines 317--327
+\T1/ptm/m/n/10 (+20) re-spon-si-ble for pe-ri-odic ma-jor out-breaks of dengue in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--327
 
  []
 
 
-Underfull \hbox (badness 1783) in paragraph at lines 319--326
-\T1/ptm/m/n/10 (+20) Additionally, while these find-ings have been ob-tained
+Underfull \hbox (badness 1412) in paragraph at lines 317--327
+\T1/ptm/m/n/10 (+20) or the In-dian Ocean Dipole (IOD) have been posited
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 319--326
+Underfull \hbox (badness 10000) in paragraph at lines 317--327
 
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 319--326
-\T1/ptm/m/n/10 (+20) Lastly, it is worth com-ment-ing on the non-exhaustive
+Underfull \hbox (badness 10000) in paragraph at lines 317--327
+
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 319--326
-\T1/ptm/m/n/10 (+20) sea-sonal pat-terns have been omit-ted from the anal-y-sis.
+Underfull \hbox (badness 1565) in paragraph at lines 317--327
+\T1/ptm/m/n/10 (+20) It is also nec-es-sary to state, in lieu of these re-sults,
  []
 
 
 
 [13]
+Underfull \hbox (badness 1442) in paragraph at lines 330--337
+\T1/ptm/m/n/10 (+20) high-resolution ob-ser-va-tional data be-ing en-cour-aged to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--337
+
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 330--337
+\T1/ptm/m/n/10 (+20) Additionally, while these find-ings have been ob-tained
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--337
+
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 330--337
+\T1/ptm/m/n/10 (+20) Lastly, it is worth com-ment-ing on the non-exhaustive
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 330--337
+\T1/ptm/m/n/10 (+20) sea-sonal pat-terns have been omit-ted from the anal-y-sis.
+ []
 
 
 
-[14] (main.bbl
 
 
+[14]
+
+(main.bbl
+
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 108--111
 []\T1/ptm/m/n/10 (+20) Global Strat-egy for dengue pre-
  []
@@ -1519,6 +1559,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 108--111
 Underfull \hbox (badness 10000) in paragraph at lines 108--111
 \T1/ptm/m/n/10 (+20) ven-tion and con-trol, 2012--2020.
  []
+
+
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 187--191
@@ -1537,11 +1579,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--191
 
 
 
-[15]
-
-
-
 [16]
+
+
 Underfull \hbox (badness 5681) in paragraph at lines 441--449
 []\T1/ptm/m/n/10 (+20) Moriyama, M., Hugen-to-bler, W. J. & Iwasaki,
  []
@@ -1572,11 +1612,11 @@ Underfull \hbox (badness 1259) in paragraph at lines 482--489
  []
 
 
+
+[17]
 Underfull \hbox (badness 6284) in paragraph at lines 544--547
 \T1/ptm/m/n/10 (+20) century cli-mate.  \T1/ptm/m/it/10 (+20) Re-search-Gate \T1/ptm/m/n/10 (+20) DOI: [][]$10 . 1029 /
  []
-
-
 
 
 Underfull \hbox (badness 1533) in paragraph at lines 582--589
@@ -1585,7 +1625,7 @@ Underfull \hbox (badness 1533) in paragraph at lines 582--589
 
 
 
-[17]
+
 Underfull \hbox (badness 7081) in paragraph at lines 663--667
 []\T1/ptm/m/n/10 (+20) (PDF) Man-ag-ing the Risks of Ex-treme Events
  []
@@ -1600,11 +1640,13 @@ Overfull \hbox (793.90282pt too wide) in paragraph at lines 663--667
 \T1/ptm/m/n/10 (-20) https://www.researchgate.net/publication/266208219_Managing_the_Risks_of_Extreme_Events_and_Disasters_to_Advance_Climate_Change_Adaptation_Special_Report_of_Working_Groups_I_and_II_of_the_Intergovernmental_Panel_on_Climate_Change,
  []
 
-)
+
+
+[18])
 
 
 
-[18
+[19
 
 ] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
@@ -1621,17 +1663,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 7E832C84CC2FCC9EF07015FB1C2D314F;8203.
  ) 
 Here is how much of TeX's memory you used:
- 35547 strings out of 473523
- 713905 string characters out of 5713179
- 1132805 words of memory out of 5000000
- 57609 multiletter control sequences out of 15000+600000
+ 35585 strings out of 473523
+ 714783 string characters out of 5713179
+ 1132939 words of memory out of 5000000
+ 57642 multiletter control sequences out of 15000+600000
  653549 words of font info for 441 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,11n,115p,1507b,625s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,11n,115p,1507b,639s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/jcorvill/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (18 pages, 13965546 bytes).
+Output written on main.pdf (19 pages, 13974966 bytes).
 PDF statistics:
- 625 PDF objects out of 1000 (max. 8388607)
- 140 named destinations out of 1000 (max. 500000)
+ 651 PDF objects out of 1000 (max. 8388607)
+ 145 named destinations out of 1000 (max. 500000)
  105749 words of extra memory for PDF output out of 106986 (max. 10000000)
 

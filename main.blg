@@ -7,51 +7,52 @@ Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: references.bib
 Warning--I didn't find a database entry for "shaw_2024"
 Warning--I didn't find a database entry for "munoz_2020a"
+Warning--I didn't find a database entry for "vicenti-gonzalez_2018"
 Warning--missing institution in ali_2025
 Warning--empty author in cox_2007
 Warning--empty year in cox_2007
 Warning--empty author in greene_2011
 Warning--empty year in greene_2011
 Warning--missing school in munoz_2015
-You've used 79 entries,
+You've used 83 entries,
             2380 wiz_defined-function locations,
-            1514 strings with 31281 characters,
-and the built_in function-call counts, 30484 in all, are:
-= -- 2099
-> -- 759
+            1542 strings with 32909 characters,
+and the built_in function-call counts, 32195 in all, are:
+= -- 2211
+> -- 815
 < -- 1
-+ -- 379
-- -- 188
-* -- 4009
-:= -- 3347
-add.period$ -- 232
-call.type$ -- 79
-change.case$ -- 88
++ -- 407
+- -- 202
+* -- 4248
+:= -- 3536
+add.period$ -- 244
+call.type$ -- 83
+change.case$ -- 92
 chr.to.int$ -- 0
-cite$ -- 85
-duplicate$ -- 2725
-empty$ -- 2817
-format.name$ -- 252
-if$ -- 6055
+cite$ -- 89
+duplicate$ -- 2875
+empty$ -- 2963
+format.name$ -- 270
+if$ -- 6387
 int.to.chr$ -- 0
-int.to.str$ -- 79
-missing$ -- 646
-newline$ -- 400
-num.names$ -- 80
-pop$ -- 422
+int.to.str$ -- 83
+missing$ -- 684
+newline$ -- 420
+num.names$ -- 84
+pop$ -- 442
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 514
+skip$ -- 540
 stack$ -- 0
-substring$ -- 1332
-swap$ -- 2705
+substring$ -- 1402
+swap$ -- 2865
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 6
-while$ -- 175
-width$ -- 81
-write$ -- 927
-(There were 8 warnings)
+while$ -- 184
+width$ -- 85
+write$ -- 975
+(There were 9 warnings)

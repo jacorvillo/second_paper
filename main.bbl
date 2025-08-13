@@ -691,4 +691,43 @@
   \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{e0007213},
   \doiprefix\url{10.1371/journal.pntd.0007213} (\bibinfo{year}{2019}).
 
+\bibitem{santos_2023}
+\bibinfo{author}{Santos, L. L.~M.}, \bibinfo{author}{{de Aquino}, E.~C.},
+  \bibinfo{author}{Fernandes, S.~M.}, \bibinfo{author}{Ternes, Y. M.~F.} \&
+  \bibinfo{author}{Feres, V. C. d.~R.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Dengue, chikungunya, and {{Zika}}
+  virus infections in {{Latin America}} and the {{Caribbean}}: A systematic
+  review}}.
+\newblock {\emph{\JournalTitle{Revista Panamericana de Salud P{\'u}blica}}}
+  \textbf{\bibinfo{volume}{47}}, \bibinfo{pages}{e34},
+  \doiprefix\url{10.26633/RPSP.2023.34} (\bibinfo{year}{2023}).
+
+\bibitem{floridi_2025}
+\bibinfo{author}{Floridi, A.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Effects of {{El Ni{\~n}o}} and the
+  {{Positive Indian Ocean Dipole}} (+{{IOD}}) on {{Health}}, {{Food Security}},
+  {{Economics}}, and {{Conflict}} in {{Low-}} and {{Middle-Income Countries}}
+  in the {{Indo-Pacific}}: {{A Systematic Review}}}}.
+\newblock {\emph{\JournalTitle{Campbell Systematic Reviews}}}
+  \textbf{\bibinfo{volume}{21}}, \bibinfo{pages}{e70038},
+  \doiprefix\url{10.1002/cl2.70038} (\bibinfo{year}{2025}).
+
+\bibitem{mamani_2025}
+\bibinfo{author}{Mamani, L.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Extreme droughts in the {{Amazon
+  Basin}} during cyclic {{ENSO}} events coupled with {{Indian Ocean Dipole}}
+  modes and {{Tropical North Atlantic}} warming}}.
+\newblock {\emph{\JournalTitle{Science of The Total Environment}}}
+  \textbf{\bibinfo{volume}{963}}, \bibinfo{pages}{178536},
+  \doiprefix\url{10.1016/j.scitotenv.2025.178536} (\bibinfo{year}{2025}).
+
+\bibitem{jia_2021}
+\bibinfo{author}{Jia, F.}, \bibinfo{author}{Cai, W.}, \bibinfo{author}{Gan,
+  B.}, \bibinfo{author}{Wu, L.} \& \bibinfo{author}{Di~Lorenzo, E.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Enhanced {{North Pacific}} impact
+  on {{El Ni{\~n}o}}/{{Southern Oscillation}} under greenhouse warming}}.
+\newblock {\emph{\JournalTitle{Nature Climate Change}}}
+  \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{840--847},
+  \doiprefix\url{10.1038/s41558-021-01139-x} (\bibinfo{year}{2021}).
+
 \end{thebibliography}
